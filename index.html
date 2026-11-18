@@ -288,7 +288,6 @@
     }
     .tech-splash.active { display: flex; }
 
-    /* نورهای مدرن صعودکننده از پایین صفحه به بالا */
     .rising-lights-wrap {
       position: absolute; inset: 0; pointer-events: none; overflow: hidden;
     }
@@ -337,7 +336,6 @@
       100% { bottom: 120%; opacity: 0; }
     }
 
-    /* کامپیوتر و نوشته Tech News که ابتدا تاریک است و با رسیدن نورها روشن می‌شود */
     .computer-emblem {
       position: relative; z-index: 2;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
@@ -424,17 +422,14 @@
     </div>
     <div class="computer-emblem">
       <svg class="splash-pc-svg" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <!-- قاب مانیتور مدرن -->
         <rect x="12" y="16" width="96" height="64" rx="10" fill="#0B1325" stroke="url(#cyberGrad)" stroke-width="4"/>
         <rect x="18" y="22" width="84" height="52" rx="6" fill="#06192E"/>
-        <!-- گرافیک مدار و کدهای نوری داخل صفحه کامپیوتر -->
         <path d="M28 58L44 42L56 52L74 32L92 46" stroke="#22D3EE" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
         <circle cx="44" cy="42" r="4" fill="#FDE047"/>
         <circle cx="74" cy="32" r="4.5" fill="#22D3EE"/>
         <circle cx="92" cy="46" r="4" fill="#38BDF8"/>
         <line x1="28" y1="32" x2="52" y2="32" stroke="#38BDF8" stroke-width="3" stroke-linecap="round"/>
         <line x1="28" y1="40" x2="40" y2="40" stroke="#0284C7" stroke-width="3" stroke-linecap="round"/>
-        <!-- پایه کامپیوتر و کیبورد نوری -->
         <path d="M50 80H70L74 94H46L50 80Z" fill="#1E293B" stroke="#38BDF8" stroke-width="2.5"/>
         <rect x="30" y="94" width="60" height="7" rx="3.5" fill="url(#cyberGrad)"/>
         <defs>
@@ -503,7 +498,7 @@
       </div>
     </div>
 
-    <!-- کادر جستجو فقط با آیکون ذره‌بین و متن جستجو در اخبار -->
+    <!-- کادر جستجو -->
     <div class="search-wrap">
       <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
         <circle cx="11" cy="11" r="8"></circle>
@@ -547,7 +542,7 @@
     <div class="status">در حال بارگذاری اخبار فناوری...</div>
   </main>
 
-  <!-- صفحه کامل خبر داخل اپ (همراه با پرچم‌های ترجمه، اشتراک‌گذاری و نشان کردن) -->
+  <!-- صفحه کامل خبر داخل اپ -->
   <div class="article-page" id="article-page">
     <div class="article-topbar">
       <button class="top-btn" id="article-back-btn" onclick="closeArticle()">→ بازگشت</button>
@@ -608,7 +603,8 @@
 
   <script>
     const GITHUB_REPO = "frankalayari-beep/technews";
-    const REMOTE_JSON_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/news.json`;
+    const CDN_JSON_URL = `https://cdn.jsdelivr.net/gh/${GITHUB_REPO}@main/news.json`;
+    const FALLBACK_JSON_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/news.json`;
 
     // لینک تبلیغاتی اختصاصی شما
     const ADSTERRA_URL = "https://asiafilm.org/4/052064ca4ffd0916d363a8d4ca962a64";
@@ -851,7 +847,6 @@
       }
     }
 
-    // اجرای انیمیشن تاریک شدن صفحه، بالا آمدن نورهای مدرن و روشن شدن کامپیوتر Tech News
     function playTechIntroSplash() {
       splashOpen = true;
       const splash = document.getElementById('tech-splash');
@@ -917,9 +912,13 @@
       const t = UI_TEXT[currentLang];
       if (manual) showToast(t.syncing);
       try {
-        let res = await fetch(REMOTE_JSON_URL + '?t=' + Date.now());
+        const cacheBuster = manual ? Date.now() : Math.floor(Date.now() / 60000);
+        let res = await fetch(`${CDN_JSON_URL}?t=${cacheBuster}`);
         if (!res.ok) {
-          res = await fetch('./news.json?t=' + Date.now());
+          res = await fetch(`${FALLBACK_JSON_URL}?t=${Date.now()}`);
+        }
+        if (!res.ok) {
+          res = await fetch(`./news.json?t=${Date.now()}`);
         }
         if (!res.ok) throw new Error();
         const raw = await res.json();
