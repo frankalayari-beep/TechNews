@@ -10,13 +10,15 @@ from bs4 import BeautifulSoup
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+# منابع معتبر فناوری و آی‌تی جهان و ایران (بدون نمایش نام منبع در اپ)
 RSS_FEEDS = [
-    {"url": "https://www.zoomit.ir/feed/", "lang": "fa", "default_cat": "iran_tech"},
-    {"url": "https://digiato.com/feed", "lang": "fa", "default_cat": "iran_tech"},
-    {"url": "https://techcrunch.com/feed/", "lang": "en", "default_cat": "software"},
-    {"url": "https://www.theverge.com/rss/index.xml", "lang": "en", "default_cat": "mobile"},
-    {"url": "https://www.wired.com/feed/rss", "lang": "en", "default_cat": "ai"},
-    {"url": "https://feeds.arstechnica.com/arstechnica/index", "lang": "en", "default_cat": "hardware"}
+    {"url": "https://techcrunch.com/feed/", "default_cat": "software"},
+    {"url": "https://www.theverge.com/rss/index.xml", "default_cat": "mobile"},
+    {"url": "https://www.wired.com/feed/category/science/latest/rss", "default_cat": "ai"},
+    {"url": "https://feeds.arstechnica.com/arstechnica/index", "default_cat": "hardware"},
+    {"url": "https://www.bleepingcomputer.com/feed/", "default_cat": "security"},
+    {"url": "https://www.zoomit.ir/feed/", "default_cat": "iran_tech"},
+    {"url": "https://digiato.com/feed", "default_cat": "iran_tech"}
 ]
 
 DATA_FILE = "news.json"
@@ -36,15 +38,31 @@ def translate_text(text, sl="en", tl="fa"):
     if not text or not text.strip():
         return ""
     text = text.strip()[:2500]
-    url = "https://translate.googleapis.com/translate_a/single"
-    params = {"client": "gtx", "sl": sl, "tl": tl, "dt": "t", "q": text}
+
+    # سرور اول (اصلی)
+    url1 = "https://translate.googleapis.com/translate_a/single"
+    params1 = {"client": "gtx", "sl": sl, "tl": tl, "dt": "t", "q": text}
     try:
-        res = requests.get(url, params=params, headers=HEADERS, timeout=12)
+        res = requests.get(url1, params=params1, headers=HEADERS, timeout=12)
         if res.status_code == 200:
             data = res.json()
             return "".join([part[0] for part in data[0] if part[0]]).strip()
+    except Exception:
+        pass
+
+    # سرور دوم (پشتیبان خودکار در صورت محدودیت موقت IP سرور اول)
+    url2 = "https://clients5.google.com/translate_a/t"
+    params2 = {"client": "dict-chrome-ex", "sl": sl, "tl": tl, "q": text}
+    try:
+        res2 = requests.get(url2, params=params2, headers=HEADERS, timeout=12)
+        if res2.status_code == 200:
+            data2 = res2.json()
+            if isinstance(data2, list) and len(data2) > 0:
+                if isinstance(data2[0], list):
+                    return "".join([part[0] for part in data2 if part and part[0]]).strip()
+                return str(data2[0]).strip()
     except Exception as e:
-        print(f"Translate error ({sl}->{tl}): {e}")
+        print(f"Backup translate error ({sl}->{tl}): {e}")
     return ""
 
 def clean_html(raw_html):
@@ -55,16 +73,18 @@ def clean_html(raw_html):
 
 def detect_category(title_fa, summary_fa, default_cat):
     text = f"{title_fa} {summary_fa}"
-    if any(k in text for k in ["هوش مصنوعی", "چت‌جی‌پی‌تی", "OpenAI", "جمینای", "مدل زبانی", "ربات", "AI", "یادگیری ماشین"]):
+    if any(k in text for k in ["هوش مصنوعی", "چت‌جی‌پی‌تی", "OpenAI", "جمینای", "ربات", "یادگیری ماشین", "مدل زبانی"]):
         return "ai"
-    if any(k in text for k in ["گوشی", "آیفون", "سامسونگ", "شیائومی", "اندروید", "موبایل", "اپل", "تبلت", "ساعت هوشمند"]):
-        return "mobile"
-    if any(k in text for k in ["هک", "امنیت", "سایبری", "بدافزار", "حمله", "حریم خصوصی", "رمزنگاری", "فیشینگ"]):
+    if any(k in text for k in ["هک", "امنیت", "بدافزار", "باج‌افزار", "سایبری", "فیشینگ", "آسیپ‌پذیری", "حفره امنیتی"]):
         return "security"
-    if any(k in text for k in ["تراشه", "پردازنده", "اینتل", "انویدیا", "کارت گرافیک", "سخت‌افزار", "لپ‌تاپ", "کوانتومی", "کامپیوتر"]):
+    if any(k in text for k in ["آیفون", "سامسونگ", "شیائومی", "گوشی", "موبایل", "اندروید", "تبلت", "ساعت هوشمند", "اپل واچ"]):
+        return "mobile"
+    if any(k in text for k in ["پردازنده", "کارت گرافیک", "انویدیا", "اینتل", "لپ‌تاپ", "کامپیوتر", "سخت‌افزار", "تراشه", "مانیتور"]):
         return "hardware"
-    if any(k in text for k in ["اینترنت", "اپراتور", "همراه اول", "ایرانسل", "فیلترینگ", "وزارت ارتباطات", "استارتاپ"]):
+    if any(k in text for k in ["ایران", "اینترنت", "فیلترینگ", "اپراتور", "همراه اول", "ایرانسل", "وزارت ارتباطات"]):
         return "iran_tech"
+    if any(k in text for k in ["ویندوز", "مایکروسافت", "گوگل", "وب", "اپلیکیشن", "نرم‌افزار", "مرورگر", "برنامه‌نویسی"]):
+        return "software"
     return default_cat
 
 def scrape_full_article(url, fallback_summary, fallback_img):
@@ -84,7 +104,7 @@ def scrape_full_article(url, fallback_summary, fallback_img):
             article_body = soup.find("article") or soup.find("main") or soup
             for p in article_body.find_all("p"):
                 txt = re.sub(r'\s+', ' ', p.get_text(strip=True))
-                if len(txt) > 55 and not any(skip in txt.lower() for skip in ["cookie", "subscribe", "newsletter", "all rights reserved", "کلیه حقوق", "زومیت", "دیجیاتو"]):
+                if len(txt) > 55 and not any(skip in txt.lower() for skip in ["cookie", "subscribe", "newsletter", "all rights reserved", "terms of use", "privacy policy"]):
                     if txt not in paragraphs:
                         paragraphs.append(txt)
                 if len(paragraphs) >= 8:
@@ -123,7 +143,6 @@ def main():
 
     for feed_cfg in RSS_FEEDS:
         feed_url = feed_cfg["url"]
-        lang = feed_cfg["lang"]
         default_cat = feed_cfg["default_cat"]
         try:
             resp = requests.get(feed_url, headers=HEADERS, timeout=12, verify=False)
@@ -143,25 +162,22 @@ def main():
 
                 rss_img = extract_rss_image(entry)
                 raw_paragraphs, best_image = scrape_full_article(link, orig_summary, rss_img)
+                clean_paras = [p.strip() for p in raw_paragraphs if len(p.strip()) > 15]
+                if not clean_paras and orig_summary:
+                    clean_paras = [orig_summary]
+                if not clean_paras:
+                    continue
 
-                if lang == "fa":
+                if is_persian(orig_title):
                     fa_title = orig_title
-                    fa_paragraphs = [p for p in raw_paragraphs if is_persian(p)]
-                    if not fa_paragraphs and is_persian(orig_summary):
-                        fa_paragraphs = [orig_summary]
-                    if not fa_paragraphs:
-                        continue
-
-                    en_title = translate_text(fa_title, sl="fa", tl="en") or fa_title
+                    fa_paragraphs = clean_paras
+                    en_title = translate_text(orig_title, sl="fa", tl="en") or orig_title
                     full_fa_text = "\n\n".join(fa_paragraphs)
                     en_full_text = translate_text(full_fa_text, sl="fa", tl="en")
                     en_paragraphs = [p.strip() for p in en_full_text.split("\n") if len(p.strip()) > 15] or fa_paragraphs
                 else:
                     en_title = orig_title
-                    en_paragraphs = [p.strip() for p in raw_paragraphs if len(p.strip()) > 15]
-                    if not en_paragraphs and orig_summary:
-                        en_paragraphs = [orig_summary]
-
+                    en_paragraphs = clean_paras
                     fa_title = translate_text(orig_title, sl="en", tl="fa")
                     if not is_persian(fa_title):
                         continue
@@ -172,9 +188,8 @@ def main():
                         fb = translate_text(orig_summary, sl="en", tl="fa")
                         if is_persian(fb):
                             fa_paragraphs = [fb]
-
-                if not fa_paragraphs:
-                    continue
+                    if not fa_paragraphs:
+                        continue
 
                 fa_summary = fa_paragraphs[0][:200] + "..." if len(fa_paragraphs[0]) > 200 else fa_paragraphs[0]
                 en_summary = en_paragraphs[0][:200] + "..." if len(en_paragraphs[0]) > 200 else en_paragraphs[0]
@@ -213,7 +228,7 @@ def main():
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(updated_news, f, ensure_ascii=False, indent=2)
 
-    print(f"Saved {len(updated_news)} bilingual IT articles. Latest News ID: {max_news_id}")
+    print(f"Saved {len(updated_news)} bilingual Tech articles. Latest News ID: {max_news_id}")
 
 if __name__ == "__main__":
     main()
