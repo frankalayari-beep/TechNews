@@ -1,0 +1,14 @@
+{
+  "name": "tech-news",
+  "version": "1.0.0",
+  "description": "Tech News - Global & Iranian IT News App",
+  "main": "index.html",
+  "scripts": {
+    "build": "mkdir -p www && cp index.html www/index.html && (cp news.json www/news.json || true)"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  }
+}
