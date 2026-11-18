@@ -1,5 +1,988 @@
 [
   {
+    "title": "رمزگشایی محتوای کاربران درباره خرید اقساطی: حتی نیازهای روزمره قسطی شده‌اند",
+    "summary": "تحلیل ۲۳۴ هزار محتوا در شبکه اجتماعی ایکس نشان می‌دهد خریدهای اقساطی از کالا‌های سرمایه‌ای به اقلام مصرفی روزمره تغییر ماهیت داده‌اند.",
+    "content": [
+      "تحلیل ۲۳۴ هزار محتوا در شبکه اجتماعی ایکس نشان می‌دهد خریدهای اقساطی از کالا‌های سرمایه‌ای به اقلام مصرفی روزمره تغییر ماهیت داده‌اند.",
+      "به گزارش سامانه سوشال لیسنینگ لایف‌وب بررسی ۲۳۴ هزار پست منتشرشدهاز اول خرداد تا ۲۲ آبان ۱۴۰۵در شبکه اجتماعی ایکس نشان می‌دهد که موضوع خرید اقساطی به یکی از دغدغه‌های اصلی کاربران ایرانی تبدیل شده است. این داده‌ها حاکی از شکل‌گیری ۲۶ میلیون بازدید حول این موضوع بوده و مشخص می‌کند که الگوی مصرف اقساطی از کالاهایی نظیر مسکن یا خودرو به سمت اقلام روزمره، پوشاک و مواد غذایی حرکت کرده است.",
+      "تحلیل داده‌های کاربران ارتباط مستقیم میان گسترش خریدهای اقساطی و کاهش قدرت خرید اقشار مختلف جامعه را نشان می‌دهد.حدود ۳۰٫۲ درصد از محتوای تولیدشده، شیوع این شیوه پرداختی را نشانه فقیرتر شدن طبقه متوسط و بحران معیشتی قلمداد کرده‌اند.",
+      "موضوعات مطرح‌شده ابعاد گوناگونی از وضعیت اقتصادی و سبک زندگی کاربران را پوشش می‌دهند. شوخی و طنز با سهم ۱۳٫۶ درصدی در محتوای منتشرشده، بیانگر فشارهای روانی ناشی از سررسید بدهی‌ها است و ۱۱٫۳ درصد پست‌های کاربران نیز به‌صورت مستقیم به اجبار در تامین نیازهای ضروری از طریق پرداخت اعتباری اختصاص دارد.",
+      "انتقاد از خدمات پلتفرم‌های اعتباری با ۱۰٫۹ درصد، ناتوانی در بازپرداخت اقساط با ۷٫۲ درصد و فرسودگی روانی حاصل از بدهی‌های متوالی با ۷ درصد در رتبه‌های بعدی دغدغه‌هایی قرار دارند که کاربران ایکس منتشر کرده‌اند.",
+      "فشارهای مالی بر مدیریت هزینه‌ها ۵٫۴ درصد و دیدگاه‌های مثبت به خرید اقساطی کالا پیش از گرانی نیز ۳٫۸ درصد کل محتوای منتشرشده را تشکیل می‌دهند. بقیه مباحث شامل خرید مسئولانه با ۳٫۷ درصد، نگرانی از ترویج مصرف‌گرایی با ۳ درصد، قضاوت‌های اجتماعی با ۲٫۳ درصد و افتادن در چرخه مداوم بدهی با ۱٫۶ درصد است.",
+      "بررسی سهم صدای خدمات‌دهندگان لندتک (Lendtech) در محتوایی که کاربران منتشر کرده‌اند، نشان می‌دهد دو بازیگر اصلی، یعنی اسنپ‌پی و دیجی‌پی، بخش عمده گفت‌وگوها را به خود اختصاص داده‌اند و در این میان، سهم اسنپ‌پی حدود ۲۵ درصد بیشتر است.",
+      "ترب‌پی، بلوبانک و تارا با اختلاف قابل توجه نسبت به دو بازیگر اصلی، در رتبه‌های سوم تا پنجم قرار گرفته‌اند. بررسی لایف‌وب از این داده‌ها نشان می‌دهد مجموع سهم دو پلتفرم نخست به حدود ۸۵ درصد می‌رسد که نشان‌دهنده تمرکز بازار خدمات اعتباری خرد است. برآیند این داده‌ها ثابت می‌کند تسهیلات اعتباری بیش از آنک ه محرک رفاه باشد، کارکرد جبران شکاف درآمد و هزینه‌های روزمره خانوارها را پیدا کرده است."
+    ],
+    "title_en": "Deciphering user content about installment purchases: Even everyday needs have become installments",
+    "summary_en": "The analysis of 234,000 contents on the X social network shows that installment purchases have changed from capital goods to daily consumer items.",
+    "content_en": [
+      "The analysis of 234,000 contents on the X social network shows that installment purchases have changed from capital goods to daily consumer items.",
+      "According to Lifeweb Social Listening System, a review of 234,000 posts published from June 1 to November 22, 1405 on X social network shows that the issue of installment purchases has become one of the main concerns of Iranian users. These data indicate the formation of 26 million visits around this topic and it is clear that the pattern of installment consumption has moved from goods such as housing or cars to everyday items, clothing and food.",
+      "The analysis of user data shows a direct connection between the expansion of installment purchases and the decrease in the purchasing power of different sections of society. About 30.2% of the content produced have considered the spread of this payment method as a sign of the impoverishment of the middle class and the livelihood crisis.",
+      "The topics discussed cover various aspects of the economic status and lifestyle of the users. Jokes and humor with a share of 13.6% in the published content indicate the psychological pressure caused by the maturity of debts, and 11.3% of users' posts are directly dedicated to the compulsion to meet essential needs through credit payments.",
+      "Criticism of credit platform services with 10.9 percent, inability to repay installments with 7.2 percent, and psychological exhaustion from consecutive debts with 7 percent are the next concerns expressed by X users.",
+      "Financial pressures on cost management account for 5.4% and positive views on buying installments of goods before the price increases constitute 3.8% of the total published content. Other topics include responsible shopping at 3.7 percent, concerns about promoting consumerism at 3 percent, social judgments at 2.3 percent, and falling into a perpetual cycle of debt at 1.6 percent.",
+      "Examining the voice share of Lendtech service providers in the content published by users shows that the two main players, namely SnapP and DigiP, have taken the majority of the conversations, and SnapP's share is about 25% more.",
+      "Tarbpi, Bluebank and Tara are ranked third to fifth with a significant difference compared to the two main actors. Lifeweb's review of these data shows that the total share of the first two platforms reaches about 85%, which indicates the concentration of the microcredit services market. The result of these data proves that the credit facility has found the function of compensating the income gap and the daily expenses of households, rather than being the driver of welfare."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/iran-news/471398-installment-purchases-trend-iran-report/",
+    "image": "https://api2.zoomit.ir/media/leather-armchair-with-installment-cushions-6afd47842314debea39c0f9c?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:22.937540Z",
+    "news_id": 1070
+  },
+  {
+    "title": "عکس‌هایتان را به پوستر کمیک فارسی تبدیل کنید",
+    "summary": "با یک پرامپت دقیق می‌توانید عکس‌های معمولی را به صفحه‌ای از یک کمیک کلاسیک با دیالوگ و نوشته‌های فارسی تبدیل کنید.",
+    "content": [
+      "با یک پرامپت دقیق می‌توانید عکس‌های معمولی را به صفحه‌ای از یک کمیک کلاسیک با دیالوگ و نوشته‌های فارسی تبدیل کنید.",
+      "کمیک‌کردن عکس با هوش مصنوعی ایده‌ی تازه‌ای نیست؛ اما نتیجه معمولاً به یک فیلتر کارتونی ساده محدود می‌شود: همان تصویر، همان کادر و همان سوژه، فقط با خطوط ضخیم‌تر و رنگ‌های نقاشی‌شده. اینپرامپت هوش مصنوعیکه در ادامه می‌بینید، ساختار متفاوتی دارد و تلاش می‌کند از یک عکس واقعی، چیزی شبیه پوستر یک کتاب کمیک بسازد.",
+      "تصویر نهایی یک قاب عمودی با نسبت ۳:۴ است که دقیقاً به دو قسمت تقسیم می‌شود. نیمه‌ی بالا برای حفظ عکس اصلی در نظر گرفته شده و در نیمه‌ی پایین، همان لحظه به صفحه‌ای شامل چند پنل کمیک تبدیل می‌شود؛ یک نمای کلی، نمای نزدیک از چهره و جزئیاتی از اشیا یا حرکت‌هایی که واقعاً در عکس دیده می‌شوند.",
+      "ویژگی جالب‌تر، استفاده از متن فارسی است. پرامپت از هوش مصنوعی می‌خواهد یک دیالوگ یا فکر کوتاه، یک افکت صوتی و یک کادر روایت را به فارسی و با رعایت راست‌به‌چپ‌بودن نوشته‌ها به کمیک اضافه کند.",
+      "ساختار تصویر به دو نیمه‌ی کاملاً مساوی تقسیم می‌شود. در قسمت بالا، هدف این است که عکس آپلودشده تا جای ممکن دست‌نخورده باقی بماند؛ یعنی چهره، حالت بدن، لباس، اشیا، نورپردازی، رنگ‌ها و پس‌زمینه تغییر نکنند.",
+      "نیمه‌ی پایین همان لحظه را با زبان بصری کمیک‌های کلاسیک آمریکایی و اروپایی بازسازی می‌کند. به‌جای یک تصویر کارتونی واحد، ۳ یا ۴ پنل ساخته می‌شود. یکی از پنل‌ها کل صحنه را نشان می‌دهد، یکی روی چهره و حالت سوژه تمرکز دارد و پنل‌های کوچک‌تر می‌توانند جزئیاتی مثل دست، وسیله‌ای که شخص در دست گرفته یا حرکت قابل‌مشاهده‌ای در عکس را نمایش دهند.",
+      "در این بخش از خطوط مشکی ضخیم، رنگ‌های تخت، سایه‌زنی هافتون و بافت کاغذ قدیمی استفاده می‌شود. با وجود تغییر زاویه‌ی دوربین در بعضی پنل‌ها، پرامپت تأکید می‌کند که شخص، لباس، محیط و اشیای حاضر در عکس نباید تغییر کنند یا عناصر تازه‌ای به داستان اضافه شود.",
+      "تفاوت مهم این پرامپت با بسیاری از دستورهای مشابه، جزئیاتی است که برای نوشته‌های فارسی در نظر گرفته شده است. سه نوشته باید در تصویر وجود داشته باشد: یک حباب گفت‌وگو یا فکر، یک افکت صوتی متناسب با صحنه و یک کادر کوچک روایت. دستور حتی مواردی مثل استفاده از «ی» و «ک» فارسی، اتصال صحیح حروف، نیم‌فاصله، علامت سؤال فارسی و جهت راست‌به‌چپ را مشخص می‌کند."
+    ],
+    "title_en": "Turn your photos into Persian comic posters",
+    "summary_en": "With a precise prompt, you can turn ordinary photos into a page of a classic comic with Persian dialogue and writing.",
+    "content_en": [
+      "With a precise prompt, you can turn ordinary photos into a page of a classic comic with Persian dialogue and writing.",
+      "Making comics with artificial intelligence is not a new idea; But the result is usually limited to a simple cartoon filter: the same image, the same frame and the same subject, only with thicker lines and painted colors. The artificial intelligence prompt you see below has a different structure and tries to make something like a comic book poster out of a real photo.",
+      "The final image is a vertical frame with a ratio of 3:4, which is exactly divided into two parts. The upper half is intended to keep the original photo, and in the lower half, it immediately turns into a page containing several comic panels; An overview, close-up of the face and details of the objects or movements actually seen in the photo.",
+      "The most interesting feature is the use of Persian text. The prompt asks the artificial intelligence to add a dialogue or short thought, a sound effect and a narration box to the comic in Farsi, respecting the right-to-left writing.",
+      "The structure of the image is divided into two completely equal halves. At the top, the goal is to keep the uploaded photo as intact as possible; It means that the face, body posture, clothes, objects, lighting, colors and background should not change.",
+      "The bottom half recreates that moment with the visual language of classic American and European comics. Instead of a single cartoon image, 3 or 4 panels are made. One panel shows the entire scene, one focuses on the subject's face and posture, and smaller panels can show details such as a hand, an object the person is holding, or visible movement in the photo.",
+      "Thick black lines, flat colors, halftone shading and old paper texture are used in this section. Despite the change of camera angle in some panels, prompt emphasizes that the person, clothes, environment and objects in the photo should not be changed or new elements should be added to the story.",
+      "The important difference between this prompt and many similar commands is the detail provided for Persian writing. There should be three entries in the image: a speech or thought bubble, a sound effect appropriate to the scene, and a small narration box. The command even specifies things like the use of Farsi \"Y\" and \"K\", the correct connection of letters, semi-space, Farsi question mark and right-to-left direction."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/ai-tutorials/471290-photo-to-persian-comic-poster-prompt/",
+    "image": "https://api2.zoomit.ir/media/convert-photo-to-comic-poster-6afb77b32314debea39c0a3f?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:25.374787Z",
+    "news_id": 1069
+  },
+  {
+    "title": "جف بیزوس در انتخاب جیمز باند جدید «به‌شدت دخیل بود»",
+    "summary": "جف بیزوس اعلام کرد نقشی مستقیم و کلیدی در فرایند انتخاب رابرت پتینسون به‌عنوان جیمز باند بعدی ایفا کرده است.",
+    "content": [
+      "جف بیزوس اعلام کرد نقشی مستقیم و کلیدی در فرایند انتخاب رابرت پتینسون به‌عنوان جیمز باند بعدی ایفا کرده است.",
+      "جف بیزوس،بنیان‌گذار آمازون، اعلام کردبه‌طور جدی در فرایند انتخاب بازیگر نقش جدیدجیمز باندمشارکت داشته و تصمیم نهایی را به‌همراه تیم سازنده اتخاذ کرده است.",
+      "رابرت پتینسوندر شرایطی برای ایفای این نقش مامور ۰۰۷ برگزیده شد کهدنی ویلنوو، کارگردان نام‌آشنای سینما، وظیفه‌ی ساخت قسمت بعدی این مجموعه را در استودیوهای آمازون بر عهده دارد.",
+      "بنیان‌گذار آمازون در جریان یک همایش توضیح داد که ارزیابی بازیگران با حساسیت بسیار بالایی پیش رفت و گزینش نهایی در روز جمعه‌ی گذشته صورت گرفت.",
+      "جف بیزوس می‌گوید: «ما فرایند بسیار فشرده‌ای را پیش بردیم و تصمیم نهایی را در روز جمعه گرفتیم. در ابتدا گروه بزرگی حضور داشت و در نهایت به پنج فینالیست رسیدیم. سپس از این پنج فینالیست، تست‌های بازیگری سنتی و واقعی گرفتیم که بسیار جالب بود؛ لباس کامل، دکورهای واقعی و سایر بازیگران. ما سه صحنه‌ی مختلف را با هر یک از پنج فینالیست اجرا کردیم و سپس روز جمعه گرد هم آمدیم تا چند ساعت را صرف تماشای تمام آن تست‌های غربالگری و بازبینی آن‌ها کنیم. تمام بازیگران فوق‌العاده بااستعداد بودند.»",
+      "بیزوس همچنین اشاره کرد که شهرت بالای پتینسون ابتدا تردیدهایی را میان سازندگان ایجاد کرده بود؛ چون تیم تولید در جست‌وجوی چهره‌ای ناشناخته‌تر بود. با این حال، اجرای این بازیگر در آزمون‌های نهایی نگاه‌ها را تغییر داد و توافقی یک‌صدا میان مدیران و کارگردان شکل گرفت.",
+      "بیزوس در بخشی از صحبت‌هایش گفت: «وقتی به فهرست پنج‌نفره رسیدیم، همگی شگفت‌انگیز بودند؛ اما چیزی ویژه در رابرت پتینسون و بازی او وجود داشت؛ تصمیمی که بلافاصله بدون بحث مشخص شد. دنیس، کارگردان فیلم، و همه‌ی ما به سمت راب گرایش پیدا کردیم. راستش در ابتدا کمی تعصب منفی علیه او داشتیم، صرفا به این دلیل که او بیش از حد مشهور است و فکر می‌کردیم شاید باید فردی کمی ناشناخته‌تر را انتخاب کنیم؛ اما در تست تصویر، همه‌چیز کاملا آشکار شد. او جیمز باند است.»",
+      "حضور مستقیم بنیان‌گذار آمازون در تصمیم‌گیری‌های هنری نشان‌دهنده‌ی اهمیت استراتژیک این مجموعه‌ی سودآور برای آینده‌ی سینمایی این شرکت بزرگ است."
+    ],
+    "title_en": "Jeff Bezos was \"heavily involved\" in casting the new James Bond",
+    "summary_en": "Jeff Bezos announced that he played a direct and key role in the selection process of Robert Pattinson as the next James Bond.",
+    "content_en": [
+      "Jeff Bezos announced that he played a direct and key role in the selection process of Robert Pattinson as the next James Bond.",
+      "Jeff Bezos, the founder of Amazon, announced that he participated seriously in the process of choosing the actor for the new role of James Bond and made the final decision together with the production team.",
+      "Robert Pattinson was chosen to play the role of Agent 007. Danny Villeneuve, the well-known director of cinema, is in charge of making the next part of this series in Amazon Studios.",
+      "The founder of Amazon explained during a conference that the evaluation of the actors was very sensitive and the final selection was made last Friday.",
+      "\"We went through a very intensive process and made the final decision on Friday,\" said Jeff Bezos. In the beginning, there was a large group and finally we reached five finalists. Then we had traditional and real auditions from these five finalists, which was very interesting; Full costumes, real sets and other actors. We ran three different scenes with each of the five finalists and then got together on Friday to spend a few hours watching all those auditions and reviewing them. \"All the actors were incredibly talented.\"",
+      "Bezos also noted that Pattinson's high profile initially caused doubts among the creators; Because the production team was looking for a more unknown face. However, the actor's performance in the final tests changed the views and a unanimous agreement was formed between the managers and the director.",
+      "Bezos said in part of his speech: \"When we got to the list of five people, they were all amazing; But there was something special about Robert Pattinson and his acting; A decision that was made immediately without discussion. Dennis, the film's director, and we all gravitated toward Rob. To be honest, at first we had a bit of a negative bias against him, simply because he is too famous and we thought maybe we should choose someone a little more unknown; But in the image test, everything became clear. He is James Bond.\"",
+      "The direct presence of Amazon's founder in artistic decisions shows the strategic importance of this profitable collection for the cinema future of this big company."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/movies-tv-shows/471387-bezos-involved-casting-james-bond/",
+    "image": "https://api2.zoomit.ir/media/robert-pattinson-james-bond-amazon-6afd365c2314debea39c0ef2?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:28.481944Z",
+    "news_id": 1068
+  },
+  {
+    "title": "زمان انتشار کارنامه سبز کنکور ۱۴۰۵ اعلام شد",
+    "summary": "رئیس سازمان سنجش آموزش کشور اعلام کرد کارنامه علمی داوطلبان کنکور ۱۴۰۵ که انتخاب رشته کرده‌اند، حداکثر تا دو هفته آینده منتشر می‌شود.",
+    "content": [
+      "رئیس سازمان سنجش آموزش کشور اعلام کرد کارنامه علمی داوطلبان کنکور ۱۴۰۵ که انتخاب رشته کرده‌اند، حداکثر تا دو هفته آینده منتشر می‌شود.",
+      "رضا محمدی، رئیس سازمان سنجش آموزش کشور، از انتشار کارنامه علمی داوطلبان آزمون سراسری ۱۴۰۵ تا ۱۰ آذرماه خبر داد.",
+      "به گفته او، برای تمام داوطلبانی که انتخاب رشته کرده‌اند، کارنامه علمی صادر می‌شود. این کارنامه شامل رتبه داوطلب در هر یک از کدرشته‌محل‌های انتخابی و رتبه آخرین فرد پذیرفته‌شده در سهمیه مربوط، تا اولویت رشته‌محل قبولی خواهد بود.",
+      "کارنامه‌های علمی حداکثر تا ۱۰ آذرماه از طریق درگاه اطلاع‌رسانی سازمان سنجش آموزش کشور به نشانیsanjesh.orgدر دسترس داوطلبان قرار می‌گیرد."
+    ],
+    "title_en": "The release time of Sabz Konkur 1405 was announced",
+    "summary_en": "The head of the country's education assessment organization announced that the academic record of the 1405 entrance exam candidates who have chosen a field will be published in the next two weeks at t...",
+    "content_en": [
+      "The head of the country's education assessment organization announced that the academic record of the 1405 entrance exam candidates who have chosen a field will be published in the next two weeks at the latest.",
+      "Reza Mohammadi, the head of the country's education assessment organization, announced the publication of the academic records of the candidates of the 1405 national exam until December 10.",
+      "According to him, a scientific report card will be issued to all candidates who have chosen a field. This record will include the rank of the candidate in each of the fields of choice and the rank of the last person accepted in the relevant quota, up to the priority of the field of acceptance.",
+      "Scientific report cards will be made available to candidates through the information portal of the country's education evaluation organization at the address sanjesh.org until December 10th."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/iran-news/471393-konkur-1405-scientific-report-card/",
+    "image": "https://api2.zoomit.ir/media/konkur-1405-scientific-report-6afd40c02314debea39c0f5c?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:29.887504Z",
+    "news_id": 1067
+  },
+  {
+    "title": "فناوری جدید نایکی، نرمی و سفتی بخش‌های مختلف زیره‌ی کفش را تغییر می‌دهد",
+    "summary": "نایکی فناوری جدید Tuned Air را معرفی کرد که با استفاده از محفظه‌های هوا، امکان ترکیب بخش‌های نرم و سفت در زیره‌ی یک کفش را فراهم می‌کند.",
+    "content": [
+      "نایکی فناوری جدید Tuned Air را معرفی کرد که با استفاده از محفظه‌های هوا، امکان ترکیب بخش‌های نرم و سفت در زیره‌ی یک کفش را فراهم می‌کند.",
+      "نایکی نزدیک به ۵۰ سال است که از محفظه‌های پرشده با هوا در کفش‌های خود استفاده می‌کند تا ضمن کاهش وزن، راحتی بیشتری برای ورزشکاران فراهم کند. اکنون این شرکت با توسعه‌ی فرایند تولید جدیدی، امکان کنترل دقیق‌تر ویژگی‌های این محفظه‌ها را فراهم کرده است.",
+      "فناوری Tuned Airبه نایکی اجازه می‌دهد زیره‌هایی با چندین محفظه‌ی هوا بسازد که هرکدام میزان نرمی و پایداری متفاوتی دارند. به‌این‌ترتیب، بخشی از کفش می‌تواند برای جذب بهتر ضربه نرم‌تر باشد و بخش دیگری برای حفظ تعادل و ثبات پا، ساختار سفت‌تری داشته باشد.",
+      "نایکی در سال ۲۰۲۴ نیز رویکرد مشابهی را در کفش Air Max 1000 به نمایش گذاشته بود. این کفش با استفاده از چاپ سه‌بعدی تولید می‌شد و باوجود ظاهر یکپارچه، بخش‌های مختلف آن انعطاف‌پذیری و استحکام متفاوتی داشتند.",
+      "نایکی برای توسعه‌ی فناوری جدید خود از منبع غیرمنتظره‌ای الهام گرفته است: رنگ‌های زنده‌ی روی جلد مجلات.",
+      "زیره‌های Tuned Air با استفاده از فرایند اختصاصی چاپ دیجیتال و اتصال انتخابی لایه‌ها تولید می‌شوند. در این روش، نوعی جوهر با الگوهای مشخص روی مواد اولیه چاپ می‌شود تا محل اتصال لایه‌ها به یکدیگر تعیین شود.",
+      "این فرایند امکان ساخت محفظه‌های داخلی هوا را در شکل‌ها و اندازه‌های بسیار متنوع فراهم می‌کند. مهندسان نایکی با تنظیم میزان هوای هر محفظه می‌توانند ویژگی‌های مکانیکی قسمت‌های مختلف زیره را تغییر دهند.",
+      "برای مثال، می‌توان زیره‌ای طراحی کرد که در قسمت پاشنه نرم‌تر باشد تا ضربه‌ی ناشی از برخورد پا با زمین را بهتر جذب کند و در بخش‌های دیگر، استحکام بیشتری برای حفظ ثبات پا داشته باشد."
+    ],
+    "title_en": "Nike's new technology changes the softness and stiffness of different parts of the shoe sole",
+    "summary_en": "Nike introduced the new Tuned Air technology, which uses air chambers to combine soft and hard parts in the sole of a shoe.",
+    "content_en": [
+      "Nike introduced the new Tuned Air technology, which uses air chambers to combine soft and hard parts in the sole of a shoe.",
+      "For nearly 50 years, Nike has been using air-filled chambers in its shoes to provide athletes with more comfort while reducing weight. Now, by developing a new production process, this company has enabled more precise control of the characteristics of these enclosures.",
+      "Tuned Air technology allows Nike to create soles with multiple air chambers, each with a different level of softness and stability. In this way, a part of the shoe can be softer for better shock absorption, and another part has a stiffer structure to maintain the balance and stability of the foot.",
+      "In 2024, Nike took a similar approach with the Air Max 1000 shoe. This shoe was produced using 3D printing and despite its unified appearance, its different parts had different flexibility and strength.",
+      "To develop its new technology, Nike drew inspiration from an unexpected source: the vivid colors of magazine covers.",
+      "Tuned Air soles are produced using a proprietary digital printing process and selective bonding of layers. In this method, a type of ink with specific patterns is printed on the raw material to determine the place where the layers are connected to each other.",
+      "This process allows the manufacture of internal air chambers in a wide variety of shapes and sizes. By adjusting the amount of air in each compartment, Nike engineers can change the mechanical properties of different parts of the sole.",
+      "For example, you can design a sole that is softer in the heel area to better absorb the impact of the foot hitting the ground, and in other parts, it has more strength to maintain the stability of the foot."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/wearables/471386-nike-tuned-air-variable-cushioning-shoe-technology/",
+    "image": "https://api2.zoomit.ir/media/nike-running-shoe-glowing-sole-6afd35a62314debea39c0eee?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:31.590501Z",
+    "news_id": 1066
+  },
+  {
+    "title": "آشفتگی در بازار ارز دیجیتال؛ آستر در چند دقیقه سقوط کرد و میلیون‌ها دلار معامله لیکویید شد",
+    "summary": "مدیرعامل صرافی غیرمتمرکز استر از بررسی نوسان شدید و سقوط قیمت توکن این پلتفرم در بازه‌ی زمانی ۱۵ دقیقه‌ای خبر داد.",
+    "content": [
+      "مدیرعامل صرافی غیرمتمرکز استر از بررسی نوسان شدید و سقوط قیمت توکن این پلتفرم در بازه‌ی زمانی ۱۵ دقیقه‌ای خبر داد.",
+      "قیمت توکن بومی آستر(ASTER) پس از یک دوره نوسان شدید که طی آن تا بالای ۰٫۷۱ دلار صعود کرده بود، ظرف مدت کوتاهی به ۰٫۴۸ دلار سقوط کرد. تیم توسعه‌دهنده‌ی این صرافی غیرمتمرکز اعلام کرده است که بررسی‌ها برای مشخص شدن ابعاد این اتفاق جریان دارد.",
+      "لئونارد لیونگ، مدیرعامل صرافی استر، این نوسان را ناشی از تصفیه و لیکوئیدشدن موقعیت‌های معاملاتی با اهرم بسیار بالا دانست. لیونگ این رخداد را دارای ابعاد مشکوک قلمداد کرد و افزود که فعالیت‌های جاری پلتفرم روندی عادی را طی می‌کند و ارتباطی میان این تحولات با فرایندهای بازارسازی توکن وجود ندارد.",
+      "مدیرعامل آستر می‌گوید: «احتمالا نیت‌های مخرب در پشت این تسویه‌های اهرمی سنگین وجود داشته است، بااین‌حال تیم ما همچنان در حال بررسی دقیق ماجراست.»",
+      "داده‌های معاملاتی نشان می‌دهد هم‌زمان با این تلاطم قیمتی، حجم معاملات مشتقه توکن به شکل چشمگیری افزایش یافته است. حجم معاملات آتی در طول ۲۴ ساعت به ۱٫۲۹ میلیارد دلار رسید که رشد ۱۲۱ درصدی را نشان می‌دهد، درحالی‌که حجم معاملات اسپات با رشد ۶۷ درصدی به ۱۱۸٫۳ میلیون دلار رسید.",
+      "مجموع موقعیت‌های اهرمی لیکوئید شده به حدود ۹٫۱ میلیون دلار رسید که شامل ۵٫۹۷ میلیون دلار موقعیت خرید و ۳٫۱۴ میلیون دلار موقعیت فروش می‌شود. قیمت توکن پس از این ریزش ناگهانی به حدود ۰٫۵۵ دلار بازگشت که نسبت به اوج روزانه کاهشی ۲۲٫۵ درصدی را ثبت کرده است."
+    ],
+    "title_en": "Confusion in the digital currency market; Aster crashed in minutes and liquidated millions of dollars of trading",
+    "summary_en": "The CEO of Ester decentralized exchange announced the investigation of the extreme fluctuation and fall of the token price of this platform in a period of 15 minutes.",
+    "content_en": [
+      "The CEO of Ester decentralized exchange announced the investigation of the extreme fluctuation and fall of the token price of this platform in a period of 15 minutes.",
+      "The price of Aster native token (ASTER) after a period of extreme volatility during which it had climbed above $0.71, fell to $0.48 in a short period of time. The development team of this decentralized exchange has announced that investigations are underway to determine the dimensions of this incident.",
+      "Leonard Leong, CEO of Ester Exchange, attributed this volatility to the liquidation of trading positions with very high leverage. Leung considered this incident to have suspicious dimensions and added that the current activities of the platform are going through a normal process and there is no connection between these developments and token market making processes.",
+      "\"There may have been malicious intent behind these heavily leveraged settlements, however our team is still investigating the matter closely,\" says Aster's CEO.",
+      "Trading data shows that the volume of token derivative transactions has increased significantly at the same time as this price fluctuation. The volume of futures trading during 24 hours reached $1.29 billion, which shows a growth of 121%, while the volume of spot trading reached 67% to $118.3 million.",
+      "The total liquidated leveraged positions reached about $9.1 million, including $5.97 million in buy positions and $3.14 million in short positions. After this sudden drop, the price of the token returned to around $0.55, which is a 22.5% decrease compared to the daily peak."
+    ],
+    "category": "iran_tech",
+    "link": "https://www.zoomit.ir/cryptocurrency/471256-aster-token-price-volatility-investigation/",
+    "image": "https://api2.zoomit.ir/media/aster-cryptocurrency-price-drop-6afac33d2314debea39c089e?w=1920&q=75",
+    "timestamp": "2026-11-18T07:49:32.976594Z",
+    "news_id": 1065
+  },
+  {
+    "title": "ساخت آواتار شخصی با هوش مصنوعی در Google Vids رایگان شد",
+    "summary": "قابلیت ساخت آواتار شخصی با هوش مصنوعی در پلتفرم Google Vids برای کاربران دارای حساب شخصی گوگل به تازگی رایگان شد.",
+    "content": [
+      "قابلیت ساخت آواتار شخصی با هوش مصنوعی در پلتفرم Google Vids برای کاربران دارای حساب شخصی گوگل به تازگی رایگان شد.",
+      "گوگل امکان ساخت آواتار شخصی را در سرویس Google Vids برای کاربران دارای حساب شخصی گوگل رایگان کرده است. این قابلیت پیش‌تر نیازمند اشتراک پولی بود و به کاربران امکان می‌دهد آواتاری مبتنی بر ظاهر و صدای خود بسازند.",
+      "گوگلاوایل نوامبر اعلام کرده بود که قصد دارد آواتارهای سفارشی را برای کاربران Workspace با حساب‌های شخصی عرضه کند؛ اما تنها یک روز پس از این اعلام، انتشار قابلیت را به تعویق انداخت. این شرکت توضیحی درباره دلیل توقف عرضه ارائه نکرد و تاریخ مشخصی نیز برای ازسرگیری آن اعلام نکرده بود. اکنون این قابلیت در دسترس کاربران حساب‌های شخصی گوگل قرار گرفته است و برای استفاده از آن نیازی به پرداخت هزینه نیست.",
+      "کاربران با مراجعه به وب‌سایت Google Vids می‌توانند آواتاری سفارشی با ظاهر و صدای دلخواه خود طراحی کنند. همچنین امکان اسکن یک کد QR برای ساخت آواتاری بر اساس چهره و شباهت ظاهری کاربر وجود دارد.",
+      "پس از ساخت آواتار، می‌توان آن را در پروژه Google Vids ذخیره کرد و در صحنه‌های مختلف همان پروژه دوباره به کار برد. گوگل می‌گوید آواتار شخصی به حساب کاربری این شرکت متصل است و شباهت ظاهری آن نیز به صاحب همان حساب محدود می‌شود.",
+      "دانش‌آموخته‌ زبان‌شناسی‌ هستم و همان‌قدر که به «کلمه» علاقه‌مندم، از سرک‌کشیدن به گوشه‌وکنارِ جهان تکنولوژی و علم هم حظ می‌کنم.",
+      "برای گفتگو با کاربرانثبت نامکنید یاوارد حساب کاربریخود شوید."
+    ],
+    "title_en": "Creating a personal avatar with artificial intelligence has become free on Google Vids",
+    "summary_en": "The ability to create a personal avatar with artificial intelligence on the Google Vids platform has recently become free for users with a personal Google account.",
+    "content_en": [
+      "The ability to create a personal avatar with artificial intelligence on the Google Vids platform has recently become free for users with a personal Google account.",
+      "Google has made it possible to create a personal avatar in the Google Vids service for free for users with a personal Google account. This feature previously required a paid subscription and allows users to create an avatar based on their appearance and voice.",
+      "In November, Google announced plans to offer custom avatars to Workspace users with personal accounts; But just one day after this announcement, it delayed the release of the feature. The company did not provide an explanation for the reason for the suspension of the supply and did not announce a specific date for its resumption. Now this feature is available to users of personal Google accounts and there is no need to pay to use it.",
+      "By visiting the Google Vids website, users can design a custom avatar with the look and sound of their choice. It is also possible to scan a QR code to create an avatar based on the user's face and appearance.",
+      "After creating an avatar, it can be saved in a Google Vids project and reused in different scenes of the same project. Google says that a personal avatar is connected to the company's user account, and its appearance is limited to the owner of that account.",
+      "I am a linguistics student and as much as I am interested in \"words\", I also enjoy exploring the world of technology and science.",
+      "Register or log in to chat with users."
+    ],
+    "category": "ai",
+    "link": "https://digiato.com/artificial-intelligence/google-vids-personal-avatar-free",
+    "image": "https://static.digiato.com/digiato/2026/11/images-1.jpg",
+    "timestamp": "2026-11-18T07:49:39.994646Z",
+    "news_id": 1064
+  },
+  {
+    "title": "«سلربریتی»؛ تاک‌شو دیجی‌کالا ادز برای رشد فروشنده‌ها",
+    "summary": "رئالیتی‌شوی «سلربریتی» دیجی‌کالا ادز، با داستان تحول کسب‌وکار فروشندگان، در ۸ قسمت منتشر می‌شود",
+    "content": [
+      "رئالیتی‌شوی «سلربریتی» دیجی‌کالا ادز، با داستان تحول کسب‌وکار فروشندگان، در ۸ قسمت منتشر می‌شود",
+      "دیجی‌کالا ادز برنامه «سلربریتی» را برای روایت داستان واقعی کسب‌وکارهای با پتانسیل بالا و فعال در دیجی‌کالا تولید کرده است. این تاک شو کسب‌وکاری در چندین قسمت ۲۲ تا ۲۵ دقیقه‌ای روی یوتیوب و آپارات منتشر می‌شود.",
+      "ایده محوری برنامه، تبدیل یک فروشنده با پتانسیل و باارزش به «سلربریتی» است؛ فروشنده‌ای که با کمک اتاق ایده‌پردازی تیم برنامه قرار است بیشتر دیده شود. پیام اصلی برنامه هم این است که هر فروشنده‌ای ظرفیت سلربریتی شدن را دارد و امکان این شرایط برای همه فروشندگان به‌طور برابر وجود دارد تا با استفاده از راهکارهای هوشمند دیجی‌کالا ادز در بازار دیده شوند و در بزرگترین فروشگاه اینترنتی ایران رشد کنند.",
+      "در هر قسمت، تیم برنامه با یک ون به محل فعالیت یکی از فروشندگان می‌رود و تیمی از کارشناسان حوزه‌های مختلف تلاش می‌کنند به بهبود و ارتقای شیوه حضور و ارائه محصولات آن کسب‌وکار کمک کنند.",
+      "باید گفت نقش دیجی‌کالا ادز در روایت برنامه پررنگ است؛ پس از اعمال تغییرات، فروشنده با همراهی کارشناسان دیجی‌کالا ادز یک کمپین تبلیغاتی واقعی راه‌اندازی می‌کند و نتایج عملکردی آن از جمله میزان نمایش، کلیک و سفارش مورد بررسی قرار می‌گیرد.",
+      "در کنار روایت اصلی، معرفی خدمات و سرویس تبلیغاتی دیجی‌کالا ادز نیز به‌شکلی کاربردی و متناسب با نیازهای روزمره فروشندگان در طول برنامه گنجانده شده است تا مخاطبان با راهکارهای رشد فروش در این پلتفرم بیشتر آشنا شوند.",
+      "هم‌زمان با پخش برنامه، قرعه‌کشی ویژه «سلربریتی» برای فروشندگانی برگزار می‌شود که تاکنون از دیجی‌کالا ادز استفاده نکرده‌اند. شرکت‌کنندگان باید تا ۱۰ آذر اولین کمپین تبلیغاتی خود را در دیجی‌کالا ادز راه‌اندازی کنند . از میان فروشندگان واجد شرایط، یک نفر به قید قرعه انتخاب می‌شود و جایزه‌اش تبلیغات رایگان در دیجی‌کالا ادز، بدون سقف بودجه مشخص، تا پایان سال خواهد بود.",
+      "باید گفت تماشای «سلربریتی» برای فروشندگان دیجی‌کالا فقط دنبال‌کردن داستان رشد چند کسب‌وکار نیست؛ فرصتی است تا از تجربه‌های واقعی دیگر فروشندگان ایده بگیرند و با راهکارهایی آشنا شوند که می‌تواند به بهتر دیده‌شدن محصولات و افزایش فروش آن‌ها کمک کند. هر قسمت، نمونه‌ای عملی از مواجهه با چالش‌های کسب‌وکار، بهبود شیوه معرفی و ارائه محصولات و استفاده هدفمند از تبلیغات را به تصویر می‌کشد؛ تجربه‌هایی که می‌توانند الهام‌بخش قدم بعدی هر فروشنده برای رشد در دیجی‌کالا باشند."
+    ],
+    "title_en": "\"Celebrity\"; Digikala Ads talk show for the growth of sellers",
+    "summary_en": "The reality show \"Sellerbrity\" of Digikala Eds, with the story of the transformation of the business of sellers, will be published in 8 episodes.",
+    "content_en": [
+      "The reality show \"Sellerbrity\" of Digikala Eds, with the story of the transformation of the business of sellers, will be published in 8 episodes.",
+      "DigiCala Ads has produced the \"Celebrity\" program to tell the true story of high-potential businesses active in DigiCala. This business talk show is published in several episodes of 22 to 25 minutes on YouTube and Aparat.",
+      "The central idea of ​​the program is to transform a potential and valuable seller into a \"celebrity\"; A salesperson who is going to be seen more with the help of the ideation room of the program team. The main message of the program is that every seller has the capacity to become a celebrity, and the possibility of this condition exists for all sellers equally to be seen in the market and grow in Iran's largest online store using Digikala Ads' smart solutions.",
+      "In each episode, the program team goes with a van to the place of business of one of the sellers, and a team of experts from different fields try to help improve and promote the way of presence and presentation of that business's products.",
+      "It should be said that the role of Digikala Ads in the narrative of the program is bold; After applying the changes, the seller will launch a real advertising campaign with Digikala Ads experts, and its performance results, including the amount of impressions, clicks, and orders, will be reviewed.",
+      "In addition to the main narrative, the introduction of Digikala Ads advertising service is also included in the program in a practical way and suited to the daily needs of sellers, so that the audience can become more familiar with sales growth strategies on this platform.",
+      "Simultaneously with the broadcast of the program, a special \"Celebrity\" draw will be held for sellers who have not yet used DigiCala Ads. The participants must launch their first advertising campaign in Digikala Ads by December 10. From among the eligible sellers, one person will be selected by lottery and the prize will be free advertising on DigiCala Ads, without a specific budget limit, until the end of the year.",
+      "It should be said that watching \"Celebrity\" for Digikala sellers is not just following the story of the growth of several businesses; It is an opportunity to get ideas from the real experiences of other sellers and get acquainted with solutions that can help to make products more visible and increase their sales. Each episode depicts a practical example of how to face business challenges, improve the way you introduce and present products, and use targeted advertising; Experiences that can inspire the next step of every seller to grow in Digikala."
+    ],
+    "category": "iran_tech",
+    "link": "https://digiato.com/iran-technology-news/sellerbrity-digikala-ads-reality-show",
+    "image": "https://static.digiato.com/digiato/2026/11/Sellerbrity-Shush-Blank-Signs-4K.webp",
+    "timestamp": "2026-11-18T07:49:42.058239Z",
+    "news_id": 1063
+  },
+  {
+    "title": "قیمت روغن موتور بنزینی آزاد شد؛ پایان قیمت‌گذاری دستوری در بازار روانکارها",
+    "summary": "قیمت‌گذاری تثبیتی روغن موتور بنزینی حذف شد و تولیدکنندگان مجاز به اصلاح قیمت محصولات خود شدند.",
+    "content": [
+      "قیمت‌گذاری تثبیتی روغن موتور بنزینی حذف شد و تولیدکنندگان مجاز به اصلاح قیمت محصولات خود شدند.",
+      "بر اساس نامه رسمی انجمن پالایشگاه‌های روغن‌سازی ایران، روغن موتور بنزینی از شمول قیمت‌گذاری تثبیتی خارج شده است. به این ترتیب، تولیدکنندگان روغن موتور می‌توانند مطابق ضوابط تعیین‌شده نسبت به اصلاح قیمت محصولات خود اقدام کنند؛ تصمیمی که احتمال تغییر قیمت انواع روغن موتور بنزینی در بازار را افزایش می‌دهد.",
+      "مطابق این نامه، افزایش قیمت روغن موتور بنزینی باید در چارچوب ضوابط سازمان حمایت از مصرف‌کنندگان و تولیدکنندگان انجام شود. بنابراین، خروج از نظام قیمت‌گذاری تثبیتی به معنای اختیار نامحدود شرکت‌ها برای افزایش قیمت محصولات نخواهد بود.",
+      "همچنین تولیدکنندگان موظف شده‌اند نرخ‌های نهایی مصوب خود را برای نظارت بر بازار به مراجع مربوط اعلام کنند. این موضوع نشان می‌دهد که با وجود تغییر سازوکار قیمت‌گذاری، نظارت بر قیمت محصولات همچنان ادامه خواهد داشت.",
+      "تغییر شیوه قیمت‌گذاری روغن موتور بنزینی می‌تواند زمینه اصلاح قیمت محصولات شرکت‌های تولیدکننده را فراهم کند. در شرایطی که هزینه مواد اولیه، بسته‌بندی، حمل‌ونقل و سایر نهاده‌های تولید بر قیمت تمام‌شده روانکارها تأثیر می‌گذارند، حذف قیمت‌گذاری تثبیتی به شرکت‌ها انعطاف بیشتری برای تعیین نرخ فروش می‌دهد.",
+      "بااین‌حال، هنوز میزان افزایش قیمت محصولات مشخص نیست و هر شرکت باید مطابق مقررات نسبت به تعیین و اعلام نرخ‌های جدید اقدام کند.",
+      "این تصمیم می‌تواند در نهایت هزینه سرویس دوره‌ای و تعویض روغن خودروهای بنزینی را تحت تأثیر قرار دهد. البته برای مشخص شدن میزان افزایش هزینه مصرف‌کنندگان باید منتظر انتشار فهرست قیمت جدید شرکت‌های تولیدکننده روغن موتور بود.",
+      "برای گفتگو با کاربرانثبت نامکنید یاوارد حساب کاربریخود شوید."
+    ],
+    "title_en": "The price of gasoline engine oil was released; The end of prescriptive pricing in the lubricants market",
+    "summary_en": "Fixed pricing of gasoline engine oil was removed and manufacturers were allowed to adjust the prices of their products.",
+    "content_en": [
+      "Fixed pricing of gasoline engine oil was removed and manufacturers were allowed to adjust the prices of their products.",
+      "According to the official letter of the Iranian Oil Refineries Association, gasoline engine oil is excluded from fixed pricing. In this way, motor oil producers can modify the price of their products according to the established criteria; A decision that increases the possibility of price changes for gasoline engine oils in the market.",
+      "According to this letter, the increase in the price of gasoline engine oil should be done within the framework of the regulations of the Organization for the Protection of Consumers and Producers. Therefore, exiting the fixed pricing system will not mean the unlimited authority of companies to increase the price of products.",
+      "Also, producers have been obliged to announce their final approved rates to the relevant authorities to monitor the market. This shows that despite the change in the pricing mechanism, product price monitoring will continue.",
+      "Changing the pricing method of gasoline engine oil can provide the basis for correcting the price of the products of the manufacturing companies. In a situation where the cost of raw materials, packaging, transportation and other production inputs affect the cost price of lubricants, the elimination of fixed pricing gives companies more flexibility to set sales rates.",
+      "However, the amount of product price increase is not yet known and each company must determine and announce new rates according to the regulations.",
+      "This decision can ultimately affect the cost of periodic service and oil changes for gasoline vehicles. Of course, in order to determine the amount of increase in the cost of consumers, one should wait for the publication of the new price list of motor oil producing companies.",
+      "Register or log in to chat with users."
+    ],
+    "category": "iran_tech",
+    "link": "https://digiato.com/car-news/gasoline-engine-oil-prices-deregulated-in-iran-as-government-ends-fixed-pricing",
+    "image": "https://static.digiato.com/digiato/2023/09/gettyimages-adding-engine-oil.jpg",
+    "timestamp": "2026-11-18T07:49:43.805859Z",
+    "news_id": 1062
+  },
+  {
+    "title": "بهترین لوازم دیجیتال برای خرید در بلک فرایدی (راهنمای کامل انتخاب و مقایسه)",
+    "summary": "در ادامه، ۱۰ دسته‌بندی برتر لوازم دیجیتال را مرور می‌کنیم که در بلک فرایدی بیشترین تخفیف‌ها و ارزش خرید را دارند.",
+    "content": [
+      "در ادامه، ۱۰ دسته‌بندی برتر لوازم دیجیتال را مرور می‌کنیم که در بلک فرایدی بیشترین تخفیف‌ها و ارزش خرید را دارند.",
+      "بلک فرایدی بهترین زمان سال برای ارتقای تجهیزات الکترونیکی و تهیه گجت‌هایی است که مدت‌هاست در فهرست خریدتان قرار دارند. در این رویداد بزرگ، دسته‌بندی‌های متنوعی از دنیای دیجیتال از گوشی هوشمند و لپ‌تاپ گرفته تا گجت‌های پوشیدنی، تجهیزات کامپیوتری و انواع لوازم جانبی کاربردی با تخفیف‌های ویژه و شرایط فروش جذاب عرضه می‌شوند؛ محصولاتی که خرید آن‌ها در این بازه زمانی می‌تواند هم سرعت کارهای روزمره را بالا ببرد و هم انتخابی بسیار اقتصادی باشد.",
+      "تنوع برندها و محصولات دیجیتال در روزهای حراج به‌قدری گسترده است که شناخت دسته‌بندی‌های کلیدی به شما کمک می‌کند مستقیماً سراغ ارزشمندترین پیشنهادها بروید. در ادامه، ۱۰ دسته‌بندی برتر لوازم دیجیتال را مرور می‌کنیم که دربلک فرایدیبیشترین تخفیف‌ها و ارزش خرید را دارند.",
+      "دسته‌بندی موبایل و تبلت همواره یکی از پرطرفدارترین بخش‌های بلک فرایدی است. در این گروه، مدل‌های متنوعی از گوشی‌های پرچم‌دار، میان‌رده‌های خوش‌قیمت و تبلت‌های دانشجویی و حرفه‌ای از برندهای مطرحی مانندسامسونگ، اپل و شیائومیبا کاهش قیمت‌های چشمگیر عرضه می‌شوند. اگر قصد ارتقای گوشی خود را دارید یا به دنبال یک تبلت برای کار، مطالعه و تماشای فیلم هستید، تخفیف‌های دسته موبایل و تبلت را مداوم بررسی کنید.",
+      "برای دانشجویان، کارمندان، طراحان و گیمرها که قصد خرید لپ دارند، بلک فرایدی یک فرصت استثنایی محسوب می‌شود. انواع لپ‌تاپ‌های سبک و اداری، مدل‌های مهندسی و لپ‌تاپ‌های گیمینگ قدرتمند از برندهایی همچونAsus، Lenovo، Apple و HPدر این کمپین با شرایط قیمتی بسیار مناسبی قرار می‌گیرند تا بتوانید سیستم کاری یا تحصیلی خود را با هزینه‌ای به‌صرفه ارتقا دهید.",
+      "گجت‌های پوشیدنی یکی از جذاب‌ترین دسته‌بندی‌ها برای خرید در بلک فرایدی هستند.انواع ساعت‌ هوشمندو مچ‌بندهای سلامتی از برندهایاپل، سامسونگ، شیائومی و هواویدر این ایام با تخفیف‌های ویژه عرضه می‌شوند. این محصولات با قابلیت‌های پایش سلامت، ثبت فعالیت‌های ورزشی و مدیریت اعلان‌ها، هم برای استفاده روزمره کاربردی‌اند و هم گزینه‌ای عالی برای هدیه دادن به شمار می‌روند.",
+      "دسته‌بندی تجهیزات صوتی در بلک فرایدی تنوع بسیار بالایی دارد و شامل انواع ایربادهای بی‌سیم (TWS)، هدفون‌های دورگوشی با قابلیت حذف نویز فعال (ANC) و اسپیکرهای بلوتوثی قابل‌حمل است. محصولات برندهای محبوبی مانندسونی، جی‌بی‌ال، انکر، اپل و سامسونگدر این دسته‌بندی با قیمت‌های بسیار رقابتی در دسترس خریداران قرار می‌گیرند.",
+      "دسته‌بندی گیمینگ یکی از هیجان‌انگیزترین بخش‌های بلک فرایدی برای علاقه‌مندان به بازی‌های ویدیویی است. در این بخش، انواع کنسول‌های بازی مانندپلی‌استیشن ۵در انواع مختلف به همراه دسته‌های بازی دوال‌سنس، هدست‌های گیمینگ و بازی‌های محبوب با تخفیف‌های ویژه عرضه می‌شوند و فرصت ایده‌آلی برای ورود به نسل جدید گیمینگ فراهم می‌کنند."
+    ],
+    "title_en": "The best digital gadgets to buy on Black Friday (complete selection and comparison guide)",
+    "summary_en": "In the following, we review the top 10 categories of digital devices that have the most discounts and are worth buying on Black Friday.",
+    "content_en": [
+      "In the following, we review the top 10 categories of digital devices that have the most discounts and are worth buying on Black Friday.",
+      "Black Friday is the best time of the year to upgrade your electronics and get those gadgets that have been on your shopping list for a long time. In this great event, various categories from the digital world, from smartphones and laptops to wearable gadgets, computer equipment, and all kinds of practical accessories are offered with special discounts and attractive sales conditions; The products that can be purchased during this period can speed up daily tasks and be a very economical choice.",
+      "The variety of brands and digital products on auction days is so wide that knowing the key categories will help you go straight to the most valuable offers. In the following, we review the top 10 categories of digital devices that have the most discounts and purchase value on Black Friday.",
+      "The mobile and tablet category is always one of the most popular parts of Black Friday. In this group, various models of flagship phones, high-priced midranges, and student and professional tablets from famous brands such as Samsung, Apple, and Xiaomi are offered with significant price reductions. If you are planning to upgrade your phone or looking for a tablet for work, reading and watching movies, keep checking the mobile and tablet category discounts.",
+      "For students, employees, designers and gamers who want to buy a laptop, Black Friday is an exceptional opportunity. All kinds of light and office laptops, engineering models and powerful gaming laptops from brands such as Asus, Lenovo, Apple and HP are included in this campaign with very favorable price conditions so that you can upgrade your work or study system at a reasonable cost.",
+      "Wearable gadgets are one of the most attractive categories to buy on Black Friday. All kinds of smart watches and health wristbands from Apple, Samsung, Xiaomi and Huawei are available with special discounts these days. These products with health monitoring capabilities, recording sports activities and managing notifications, are both practical for everyday use and great options for gift giving.",
+      "The audio equipment category on Black Friday is very diverse and includes a variety of wireless earbuds (TWS), headphones with active noise cancellation (ANC) and portable Bluetooth speakers. Products of popular brands such as Sony, JBL, Anker, Apple and Samsung are available to buyers in this category at very competitive prices.",
+      "The gaming category is one of the most exciting parts of Black Friday for video game enthusiasts. In this section, all kinds of game consoles such as PlayStation 5 in different types along with DualSense game consoles, gaming headsets and popular games with special discounts."
+    ],
+    "category": "iran_tech",
+    "link": "https://digiato.com/computers-hardware/best-digital-goods-to-buy-black-friday-1405",
+    "image": "https://static.digiato.com/digiato/2026/11/snappshop-digital-goods.jpg.webp",
+    "timestamp": "2026-11-18T07:49:45.424738Z",
+    "news_id": 1061
+  },
+  {
+    "title": "بلک‌فرایدی تپسی‌شاپ با تخفیف‌های ۹۹ درصدی و بیش از یک میلیارد تومان اعتبار خرید برگزار می‌شود",
+    "summary": "تپسی‌شاپ از برگزاری کمپین بلک‌فرایدی از اول تا دهم آذرماه خبر داد. در این کمپین، کاربران می‌توانند از تخفیف‌های تا ۹۹ درصدی در گروه‌های کالایی متنوع، از جمله محصولات زیبایی و سلامت، مد و پوشاک، کالاها...",
+    "content": [
+      "تپسی‌شاپ از برگزاری کمپین بلک‌فرایدی از اول تا دهم آذرماه خبر داد. در این کمپین، کاربران می‌توانند از تخفیف‌های تا ۹۹ درصدی در گروه‌های کالایی متنوع، از جمله محصولات زیبایی و سلامت، مد و پوشاک، کالاهای دیجیتال، لوازم خانه و آشپزخانه، سکه و زیورآلات طلا و سایر دسته‌بندی‌ها بهره‌مند شوند. دسترسی به مجموعه‌ای از وام‌ها و اعتبارهای خرید با مجموع سقف بیش از یک میلیارد تومان، جوایز روزانه طلا و خدمات ارسال رایگان و تحویل زیر 2 ساعت سفارش در تهران، از دیگر امکانات این کمپین است.",
+      "یکی از امکانات بلک‌فرایدی تپسی‌شاپ، فراهم کردن دسترسی کاربران به مجموعه‌ای از وام‌ها و اعتبارهای خرید از طریق سرویس‌های اعتباری مختلف است. مجموع سقف اعتبار و تسهیلات قابل ارائه از سوی سرویس‌های فعال در تپسی‌شاپ به بیش از یک میلیارد تومان می‌رسد. این رقم حاصل جمع سقف اعتبار و تسهیلات سرویس‌های اعتباری مختلف است و به معنای سقف تسهیلات قابل دریافت توسط یک کاربر از یک سرویس نیست. کاربران می‌توانند پیش از آغاز کمپین، به‌صورت آنلاین و بدون نیاز به پیش‌پرداخت، برای دریافت این اعتبارها و تسهیلات اقدام کنند.",
+      "در حال حاضر، سرویس‌های دیجی‌پی، ازکی‌وام، تارا، اوانو، کمان‌لند، بلوبانک، نوپی و وایب در تپسی‌شاپ فعال هستند و هرکدام متناسب با شرایط و ضوابط خود، اعتبار خرید یا تسهیلات ارائه می‌کنند. سقف اعتبار و تسهیلات قابل دریافت از هر یک از این سرویس‌ها متفاوت است و بسته به نوع خدمت، از ۱۰ تا ۳۰۰ میلیون تومان متغیر خواهد بود. میزان اعتبار و تسهیلات قابل دریافت توسط هر کاربر نیز به شرایط اختصاصی سرویس مربوطه و ضوابط اعتبارسنجی بستگی دارد.",
+      "تپسی‌شاپ با ارائه قابلیت پرداخت ترکیبی، امکان استفاده هم‌زمان از اعتبار چند سرویس مختلف را در یک سفارش فراهم کرده است. کاربران می‌توانند سهم هر یک از اعتبارهای خود را در پرداخت مشخص کنند و در صورت باقی ماندن بخشی از مبلغ سفارش، آن را از طریق پرداخت آنلاین بپردازند.",
+      "برای مثال، در یک سفارش ۱۰۰ میلیون تومانی، امکان پرداخت ۵۰ میلیون تومان از اعتبار یک سرویس، ۳۰ میلیون تومان از اعتبار سرویس دوم و تأمین ۲۰ میلیون تومان باقی‌مانده از اعتبار سرویس سوم یا پرداخت آنلاین وجود دارد. این قابلیت به کاربران امکان می‌دهد اعتبارهای در دسترس خود را با یکدیگر ترکیب کنند و برای تکمیل خرید، به یک سرویس اعتباری محدود نباشند. این امکان با تجمیع اعتبارهای مختلف، قدرت خرید کاربران را افزایش می‌دهد و به آن‌ها اجازه می‌دهد برای خرید کالاهایی با ارزش بالاتر نیز از اعتبارهای خود استفاده کنند.",
+      "به گزارش روابط عمومی تپسی‌شاپ، کاربران در طول برگزاری کمپین می‌توانند با شرکت در بازی ویژه بلک‌فرایدی، شانس خود را برای برنده شدن طلا امتحان کنند. در این بازی، هر روز ۱۰ نفر از کاربران انتخاب می‌شوند و هرکدام ۱۰۰ سوت طلا جایزه می‌گیرند. این فرصت در تمام ۱۰ روز برگزاری کمپین برای کاربران فراهم است.",
+      "کاربران تهرانی در طول کمپین بلک‌فرایدی تپسی‌شاپ می‌توانند علاوه بر بهره‌مندی از تخفیف‌های ویژه، سفارش‌های خود را در کمتر از دو ساعت دریافت کنند. همچنین امکان ارسال رایگان برای سفارش‌های برخی دسته‌بندی‌های کالایی در تهران فراهم شده است تا کاربران تجربه‌ای سریع‌تر و مقرون‌به‌صرفه‌تر از خرید در بلک‌فرایدی داشته باشند.",
+      "برای گفتگو با کاربرانثبت نامکنید یاوارد حساب کاربریخود شوید."
+    ],
+    "title_en": "Black Friday Tapsishop will be held with 99% discounts and more than one billion tomans of purchase credit.",
+    "summary_en": "Tapsishop announced the Black Friday campaign from December 1st to 10th. In this campaign, users can benefit from discounts of up to 99% in various product groups, including beauty and health products...",
+    "content_en": [
+      "Tapsishop announced the Black Friday campaign from December 1st to 10th. In this campaign, users can benefit from discounts of up to 99% in various product groups, including beauty and health products, fashion and clothing, digital goods, home and kitchen appliances, gold coins and ornaments and other categories. Access to a series of loans and purchase credits with a total ceiling of more than one billion Tomans, daily gold awards and free shipping and delivery services in Tehran within 2 hours are other features of this campaign.",
+      "One of the features of Tapsishop's Black Friday is to provide users with access to a series of loans and purchase credits through various credit services. The total credit limit and facilities that can be provided by the active services in TapsiShop reach more than one billion Tomans. This figure is the sum of the credit limit and facilities of different credit services and does not mean the limit of facilities that can be received by one user from one service. Users can apply for these credits and facilities online without the need for prepayment before the start of the campaign.",
+      "Currently, DigiP, Ezkiwam, Tara, Uano, Kamanland, Bluebank, Nupi and Vibe services are active in Tapsishop and each of them provides purchase credit or facilities according to their terms and conditions. The credit limit and facilities that can be received from each of these services are different and depending on the type of service, it will vary from 10 to 300 million Tomans. The amount of credit and facilities that can be received by each user also depends on the specific conditions of the relevant service and validation criteria.",
+      "Tapsishop has provided the possibility to use the credit of several different services at the same time in one order by offering a combined payment option. Users can specify the share of each of their credits in the payment and if a part of the order amount remains, pay it through online payment.",
+      "For example, in an order of 100 million tomans, it is possible to pay 50 million tomans from the credit of one service, 30 million tomans from the credit of the second service, and provide the remaining 20 million tomans from the credit of the third service or online payment. This feature allows users to combine their available credits and not be limited to one credit service to complete the purchase. This possibility increases the purchasing power of users by combining different credits and allows them to use their credits to buy goods with higher value.",
+      "According to TapsiShop's public relations report, during the campaign, users can try their luck to win gold by participating in the special Black Friday game. In this game, 10 users are selected every day and each of them gets 100 gold whistles. This opportunity is available to users in all 10 days of the campaign."
+    ],
+    "category": "iran_tech",
+    "link": "https://digiato.com/iran-technology-news/tapsi-shop-black-friday-1405",
+    "image": "https://static.digiato.com/digiato/2026/11/Banner-02.jpg",
+    "timestamp": "2026-11-18T07:49:50.135228Z",
+    "news_id": 1060
+  },
+  {
+    "title": "مایکروسافت با معرفی ۷ مدل هوش مصنوعی جدید به رقابت با Claude و ChatGPT رفت [تماشا کنید]",
+    "summary": "مایکروسافت با این مدل‌ها، تلاش کرده هزینه اجرای مداوم ایجنت‌های هوش مصنوعی سازمانی را در برابر رقبا به‌شدت کاهش دهد.",
+    "content": [
+      "مایکروسافت با این مدل‌ها، تلاش کرده هزینه اجرای مداوم ایجنت‌های هوش مصنوعی سازمانی را در برابر رقبا به‌شدت کاهش دهد.",
+      "مایکروسافت با معرفی هفت مدل هوش مصنوعی جدید از خانواده MAI، رقابت مستقیمی را با OpenAI و آنتروپیک بر سر عملکرد و هزینه آغاز کرده است. این مدل‌ها حوزه‌های متنوعی از جمله کدنویسی، امنیت سایبری، ویرایش تصویر، پردازش گفتار، رونویسی صوتی و تصمیم‌گیری خودکار را هدف قرار می‌دهند.",
+      "مایکروسافت به‌جای تکیه بر یک سیستم واحد برای انجام تمام کارها، این مدل‌ها را برای بارهای کاری مشخص طراحی کرده است. این شرکت در جریان کنفرانس Ignite،علاوه بر مدل‌های جدید، شتاب‌دهنده هوش مصنوعی نسل دوم خود یعنی Maia 200 را معرفی کرده که بزرگ‌ترین مدل‌هایش را در محیط‌های عملیاتی اجرا می‌کند.",
+      "مدل MAI Cyber 2 Flash برای نظارت مستمر بر امنیت سایبری و اقدامات دفاعی، از جمله شناسایی و ارائه پچ برای آسیب‌پذیری‌ها در سیستم‌های عملیاتی زنده طراحی شده است. مایکروسافت مدعی شده که این مدل در بنچمارک CyberGymE2E، کیفیتی برابر با GPT-6 Astra ارائه می‌دهد، درحالی‌که هزینه هر وظیفه آن کمتر از ۲ درصد مدل رقیب است.",
+      "به گفته مایکروسافت، این مدل بر پایه نسل قبلی MAI Cyber ساخته شده که در تیم‌های دفاعی کاربرد گسترده‌ای داشت. نسخه قبلی حدود ۴۰ درصد از اسکن‌های پلتفرم امنیتی مایکروسافت را انجام می‌داد و در ۹۰ درصد اسکن‌هایی که با این مدل شروع می‌شد، کار با همان مدل به پایان می‌رسید.",
+      "برای توسعه‌دهندگان نرم‌افزار، مدل MAI Code 2 با تمرکز بر وظایف روزمره کدنویسی سازمانی معرفی شده است. مایکروسافت اعلام کرده که این مدل ۹۸ درصد از عملکرد کدنویسی GPT-6.1 Sol را با حدود ۴۰ درصد قیمت آن ارائه می‌دهد. همچنین در مقایسه با مدل Claude Opus 5.5 از شرکت آنتروپیک، غول ردموندی مدعی ارائه ۹۶ درصد از عملکرد آن با تنها ۵ درصد هزینه است.",
+      "نسخه سبک‌تر این مدل با نام MAI Code 2 Flash نیز برای کارهای روتین مانند توضیح کد، ویرایش‌های هدفمند و رفع باگ‌ها در نظر گرفته شده ودر گیت‌هاب کوپایلوتو به‌صورت پیش‌نمایش محدود در Microsoft Foundry در دسترس است.",
+      "رونمایی از این مدل‌ها نشان‌دهنده تلاش مایکروسافت برای مقرون‌به‌صرفه‌تر کردن مدل‌های پیشرفته برای کسب‌وکارهایی است که به‌صورت مداوم از ایجنت‌های خودکار استفاده می‌کنند. به گفته این شرکت، افزایش هزینه‌های توکن باعث شده که نسبت قیمت به عملکرد، اهمیت بیشتری برای سازمان‌هایی پیدا کند که قصد استفاده گسترده از این سیستم‌ها را دارند."
+    ],
+    "title_en": "Microsoft introduced 7 new artificial intelligence models to compete with Claude and ChatGPT [Watch]",
+    "summary_en": "With these models, Microsoft has tried to drastically reduce the cost of continuous implementation of enterprise artificial intelligence agents against competitors.",
+    "content_en": [
+      "With these models, Microsoft has tried to drastically reduce the cost of continuous implementation of enterprise artificial intelligence agents against competitors.",
+      "Introducing seven new AI models from the MAI family, Microsoft has begun direct competition with OpenAI and Entropic on performance and cost. These models target diverse areas including coding, cyber security, image editing, speech processing, audio transcription and automated decision making.",
+      "Instead of relying on a single system to do all the work, Microsoft has designed these models for specific workloads. During the Ignite conference, in addition to new models, the company introduced its second-generation AI accelerator Maia 200, which runs its largest models in operational environments.",
+      "The MAI Cyber ​​2 Flash model is designed for continuous monitoring of cybersecurity and defensive measures, including the identification and provision of patches for vulnerabilities in live operating systems. Microsoft claims that this model offers the same quality as the GPT-6 Astra in the CyberGymE2E benchmark, while its cost per task is less than 2% of the competing model.",
+      "According to Microsoft, this model is based on the previous generation of MAI Cyber, which was widely used in defense teams. The previous version performed about 40% of the Microsoft security platform scans, and 90% of the scans that started with this model ended with the same model.",
+      "For software developers, the MAI Code 2 model is introduced with a focus on everyday enterprise coding tasks. Microsoft has announced that this model offers 98% of the encoding performance of GPT-6.1 Sol at about 40% of its price. Also, compared to the Claude Opus 5.5 model from Entropic, the Redmond giant claims to offer 96% of its performance at only 5% of the cost.",
+      "A lighter version of this model called MAI Code 2 Flash is also intended for routine tasks such as code explanation, targeted edits and bug fixes, and is available on Copilot's GitHub as a limited preview in Microsoft Foundry.",
+      "The unveiling of these models represents Microsoft's effort to make advanced models more affordable for businesses that use automated agents on an ongoing basis. According to the company, the increase in token costs has made the price-to-performance ratio more important for organizations that intend to use these systems extensively."
+    ],
+    "category": "ai",
+    "link": "https://digiato.com/artificial-intelligence/microsoft-unveils-seven-new-mai-ai-models",
+    "image": "https://static.digiato.com/digiato/2026/11/Microsoft-Models.webp",
+    "timestamp": "2026-11-18T07:49:54.825811Z",
+    "news_id": 1059
+  },
+  {
+    "title": "آمازون و گوگل با هم نزدیک به 30 درصد از سهام آنتروپیک را پس از عرضه اولیه سهام خود در اختیار خواهند داشت",
+    "summary": "Anthropic روز سه شنبه جزئیات بیشتری را در مورد بزرگترین قراردادهای سرمایه گذاری با ارائه دهندگان بزرگ ابری آمازون و گوگل فاش کرد.",
+    "content": [
+      "Anthropic روز سه شنبه جزئیات بیشتری را در مورد بزرگترین قراردادهای سرمایه گذاری با ارائه دهندگان بزرگ ابری آمازون و گوگل فاش کرد.",
+      "در حالی که قبلاً می‌دانستیم که آمازون می‌خواهد سرمایه‌گذاری‌های Anthropic خود را از IPO کاهش دهد، آنتروپیک فاش کرد که کل سهام آمازون فقط 15٪ (دقیق 14.7٪) خواهد بود.",
+      "جالب‌تر اینکه آمازون در صورت تمایل می‌توانست سهم بیشتری از این شرکت را در اختیار داشته باشد. زمانی که آمازون در سال‌های 2023 و 2024 میلیاردها دلار در آنتروپیک سرمایه‌گذاری کرد (مدت‌ها قبل از اینکه کلود کد دنیای شرکت‌ها را تحت تأثیر قرار دهد، در روزهایی که آنتروپیک به نظر می‌رسید برای همیشه ذره‌ای در سایه OpenAI خواهد بود)، غول ابری سفته‌هایی به دست آورد که می‌توانستند به سهام تبدیل شوند.",
+      "این اسکناس‌ها بسته به سال سرمایه‌گذاری، قیمت‌های تبدیلی در حدود 2.09 دلار یا 5.05 دلار در هر سهم دارند. آمازون تصمیم گرفته است که بخشی از آنها را به عنوان بخشی از IPO به دسته خاصی از سهام بدون رای تبدیل کند که حدود 15 درصد مالکیت را به آن می دهد. (در پرونده می‌گوید، سهام می‌توانند سود سهام دریافت کنند و به سهام کلاس A با رای استاندارد تبدیل شوند.)",
+      "اما در حال حاضر نیز تصمیم گرفته است که اسکناس های میلیارد دلاری را نگه دارد. اگر در حال حاضر همه آنها را تبدیل کند، فقط کمتر از 24٪ از Anthropic (دقیقاً 23.8٪) را در اختیار خواهد داشت.",
+      "در همین حال، گوگل تنها کمتر از 14٪ (13.7٪) را نیز در سهام های بدون رای، که از تبدیل اسکناس ها و همچنین فروش \"قرار دادن خصوصی\" سهام به عنوان بخشی از این IPO حاصل می شود، خواهد داشت. گروهی از شرکت‌های بزرگ فناوری (AMD، Broadcom، Google، Micron، Microsoft، Nvidia و TSMC Partners) با خرید ۲۶ میلیارد دلار از این سهام بدون رای موافقت کرده‌اند. گوگل و انویدیا هر کدام برای خرید ۱۰ میلیارد دلار توافق کردند.",
+      "بنابراین، در حالی که بسیاری از سرمایه‌گذاران می‌خواهند میلیاردها دلار در IPO Anthropic کسب کنند، آمازون یکی از بزرگترین برندگان است، و این حتی میزان درآمد AWS را از تعهد Anthropic برای هزینه بیش از 100 میلیارد دلار در خدمات ابری خود در دهه آینده محاسبه نمی‌کند.",
+      "وقتی از طریق پیوندهای موجود در مقالات ما خرید می کنید، ممکن است کمیسیون کمی کسب کنیم. این بر استقلال تحریریه ما تأثیر نمی گذارد."
+    ],
+    "title_en": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+    "summary_en": "Anthropic on Tuesday disclosed more details about the biggest investment agreements with major cloud providers Amazon and Google.",
+    "content_en": [
+      "Anthropic on Tuesday disclosed more details about the biggest investment agreements with major cloud providers Amazon and Google.",
+      "While we already knew thatAmazon stood to make a killing on its Anthropic investmentsfrom the IPO, Anthropic revealed that Amazon’s total stake will come in at just shy of 15% (14.7% to be exact).",
+      "Even more interesting is that Amazon could have, if it wished, owned an even bigger share of the company. When Amazon invested billions in Anthropic in 2023 and 2024 (long before Claude Code took the enterprise world by storm, back in the days when Anthropic looked like it would forever be a speck in OpenAI’s shadow), the cloud giant obtained promissory notes that could convert into equity.",
+      "These notes carry conversion prices of about $2.09 or $5.05 per share, depending on the year of investment. Amazon has opted to convert a chunk of them as part of the IPO into a special class of non-voting shares that will give it about 15% ownership. (The shares can receive dividends and convert to standard voting Class A shares when sold, the filing says.)",
+      "But it has also opted to hold on to billions of dollars’ worth of the notes for now. If it converted them all right now, it would own just under 24% of Anthropic (23.8% to be precise).",
+      "Google, meanwhile, will own just under 14% (13.7%), also in non-voting shares, which come from the conversion of notes, as well as the “private placement” sale of shares as part of this IPO. A group of major tech companies (AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC Partners) have agreed to buy $26 billion worth of this non-voting stock. Google and Nvidia each agreed to buy $10 billion worth.",
+      "So while a lot of investors stand to make billions of dollars in Anthropic’s IPO, Amazon is one of the biggest winners, and that doesn’t even count what AWS stands to earn from Anthropic’s commitment to spend more than $100 billion on its cloud services over the next decade.",
+      "When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence."
+    ],
+    "category": "software",
+    "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+    "timestamp": "2026-11-18T07:49:55.991325Z",
+    "news_id": 1058
+  },
+  {
+    "title": "گزارش شده است که SEC در حال بررسی Nvidia در بحبوحه خروج Huang است",
+    "summary": "به گزارش وال استریت ژورنال، کمیسیون بورس و اوراق بهادار در حال آغاز یک تحقیق مدنی در مورد انویدیا است که آیا افشای اطلاعات این شرکت سرمایه گذاران را گمراه کرده است یا خیر.",
+    "content": [
+      "به گزارش وال استریت ژورنال، کمیسیون بورس و اوراق بهادار در حال آغاز یک تحقیق مدنی در مورد انویدیا است که آیا افشای اطلاعات این شرکت سرمایه گذاران را گمراه کرده است یا خیر.",
+      "این تحقیقات به مجموعه نمایشنامه‌های انویدیا اضافه می‌کند که جنسن هوانگ، مدیر عامل شرکت، پس از اخبار مربوط به روابط خارج از ازدواجش، از جمله رابطه با یک جاسوس چینی ادعایی، آلیس هوانگ، مدیر اجرایی شرکت داده مستقر در سنگاپور Megaspeed، استعفا داد.",
+      "وزارت بازرگانی از اواخر سال 2024 بر روی Megaspeed تحقیق کرده است، به این ظن که این شرکت برخی از تراشه های Nvidia خود را به چین منحرف کرده است که قوانین صادرات ایالات متحده را نقض می کند.",
+      "کنگره همچنین از هوانگ خواسته است که به سؤالات مربوط به رابطه خود و اینکه چگونه ممکن است بر موضع او مبنی بر کاهش محدودیت های صادراتی تأثیر بگذارد، پاسخ دهد. اسکات بسنت، وزیر خزانه داری، این موضوع را در آخر هفته به صراحت بیان کرد و انویدیا را متهم کرد که آگاهانه تراشه های قدرتمندی به چین می فروشد تا «درآمدها و درآمدهایشان را افزایش دهند».",
+      "خبر بررسی SEC همچنین در حالی منتشر می شود که انویدیا درآمد خود را به بازاری گزارش می دهد که از زمان خروج هوانگ شاهد کاهش بیش از 10 درصدی سهام آن بوده است. تراشه ساز درآمد 115.8 میلیارد دلاری را گزارش کرده است که نسبت به سال گذشته 103 درصد افزایش داشته است.",
+      "نگاهی اولیه به Next TechCrunch DisruptDisrupt، Startup Battlefield و موارد دیگر در سال آینده داشته باشید، و شما می توانید در خط مقدم باشید. برای لیست انتظار ما ثبت نام کنید"
+    ],
+    "title_en": "SEC reportedly investigating Nvidia amid Huang exit",
+    "summary_en": "The Securities and Exchange Commission is opening a civil probe into Nvidia over whether the company’s disclosures misled investors, according toThe Wall Street Journal.",
+    "content_en": [
+      "The Securities and Exchange Commission is opening a civil probe into Nvidia over whether the company’s disclosures misled investors, according toThe Wall Street Journal.",
+      "The investigation adds toNvidia’s stack of dramaafter CEO Jensen Huang resigned following news of his extramarital affairs, including one with an alleged Chinese spy, Alice Huang, an executive at Singapore-based data company Megaspeed.",
+      "The Commerce Department has been investigating Megaspeed since late 2024 under suspicion that the company diverted some of its Nvidia chips to China, which would violate U.S. export laws.",
+      "Congress has alsodemandedthat Huang answer questions about his affair and how it might have affected his stance that export restrictions should be loosened. Treasury Secretary Scott Bessentput it more bluntlyover the weekend, accusing Nvidia of knowingly selling powerful chips to China to “goose their revenues and their earnings.”",
+      "The news of the SEC probe also comes as Nvidia reports earnings to a market that has seen its stock fall more than 10% since Huang departed. The chipmakerreportedrevenue of $115.8 billion, up 103% from a year ago.",
+      "Get an Early Peek at the Next TechCrunch DisruptDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.Sign up for our waitlist"
+    ],
+    "category": "hardware",
+    "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+    "timestamp": "2026-11-18T07:49:57.544044Z",
+    "news_id": 1057
+  },
+  {
+    "title": "گوگل با اعلام عدم وجود این روند به روند قطعی فناوری می پیوندد",
+    "summary": "آیا گوگل احساس می کرد که از موج اخیر قطعی های فنی کنار گذاشته شده است؟ این شرکت سه شنبه به Xon رفت تا اعلام کند که سرویس جیمیل آن در واقع به خوبی اجرا می شود. در یک پست، این شرکت اعلام کرد که در حال ح...",
+    "content": [
+      "آیا گوگل احساس می کرد که از موج اخیر قطعی های فنی کنار گذاشته شده است؟ این شرکت سه شنبه به Xon رفت تا اعلام کند که سرویس جیمیل آن در واقع به خوبی اجرا می شود. در یک پست، این شرکت اعلام کرد که در حال حاضر شواهدی مبنی بر اختلال گسترده در سرویس جیمیل مشاهده نمی کند و به کاربران یادآوری کرد که همیشه می توانند وضعیت بلادرنگ جیمیل را در داشبورد آنلاین خود بررسی کنند.",
+      "همانطور که مشخص شد، این شرکت در تلاش بود تا از گزارش‌های مربوط به قطع شدن جی‌میل که در روز سه‌شنبه در روز X منتشر شد، تقریباً در همان زمانی که اپل شاهد تعدادی از قطعی‌های تایید شده خود بود، جلوگیری کرد. در حالی که برخی از پست‌ها در شبکه اجتماعی حاکی از آن بود که Gmail با اختلال مواجه شده است، برخی دیگر گفتند که مشکلی ندارند.",
+      "به نظر می‌رسد که این نگرانی‌ها ناشی از پست anX توسط Downdetector است، یک وب‌سایت جمع‌سپاری که در آن کاربران می‌توانند خودشان اختلالات سرویس را گزارش کنند و ببینند آیا دیگران با مشکل مواجه هستند یا خیر. Downdetector یک منبع رسمی برای تأیید یا درک دامنه واقعی قطعی اینترنت نیست، و با افزایش نگرانی مردم در مورد حملات سایبری احتمالی، اگر هر نقص جزئی و سکسکه توسط کاربران غیر فنی به عنوان یک \"قطع\" گزارش شود، ممکن است اطلاعات سایت در طول زمان ارزش کمتری پیدا کند.",
+      "این واقعیت که گوگل مجبور شد اعلام کند که قطعی ندارد، نشان دهنده نگرانی فزاینده در مورد قابلیت اطمینان خدمات فناوری بزرگ است. در هفته گذشته، اپل و مایکروسافت با قطعی مواجه شدند، خرابی شبکه FAA منجر به توقف زمینی در سراسر کشور شد و برخی بانک‌ها و خطوط هوایی نیز اختلالاتی را گزارش کردند.",
+      "با این حال، جی کلیتون، مدیر اطلاعات ملی، روز سه‌شنبه در برنامه «شمارش معکوس کلامن» شبکه فاکس بیزینس گفت که ایالات متحده در حال حاضر با حملات سایبری هماهنگ شده مواجه نیست. او به این رسانه گفت: «ما نشانه‌ای از یک حمله سایبری هماهنگ را نمی‌بینیم - اجازه دهید در مورد آن واضح بگویم - و ما نشانه‌ای از فعالیت‌های تحت حمایت دولت را در اینجا نمی‌بینیم.»",
+      "در عوض، کلایتون افزایش مشکلات را به کسب‌وکارهایی نسبت داد که سیستم‌هایشان را اصلاح می‌کنند. این وصله ممکن است یک اثر پایین دستی هوش مصنوعی باشد، زیرا مدل‌های جدیدتر به طور فزاینده‌ای در کشف آسیب‌پذیری‌های ناشناخته قبلی مهارت پیدا کرده‌اند. او گفت: «آنها آن‌ها را ارتقا می‌دهند، وصله‌هایی را در جای خود قرار می‌دهند»، و افزود که این در «مقیاس بسیار بزرگ‌تری» از قبل اتفاق می‌افتد.",
+      "او افزود در نتیجه، برخی از سیستم‌ها \"در همه موارد آنطور که انتظار می‌رود باز نمی‌گردند\".",
+      "وقتی از طریق پیوندهای موجود در مقالات ما خرید می کنید، ممکن است کمیسیون کمی کسب کنیم. این بر استقلال تحریریه ما تأثیر نمی گذارد."
+    ],
+    "title_en": "Google joins the tech outage trend by announcing it’s not having one",
+    "summary_en": "Was Google feeling a little left out of the recent wave of tech outages? The companytook to Xon Tuesday to announce that its Gmail service is actually running just fine. In a post, the company said it...",
+    "content_en": [
+      "Was Google feeling a little left out of the recent wave of tech outages? The companytook to Xon Tuesday to announce that its Gmail service is actually running just fine. In a post, the company said it was not currently seeing evidence of a broad Gmail service disruption and reminded users they could always check Gmail’s real-time status on itsonline dashboard.",
+      "As it turns out, the company was trying to head off reports of a Gmail outage that began circulating on X on Tuesday around the same time that Apple was seeing anumber of verified outages of its own. While some posts on the social network suggested Gmail was experiencing a disruption, others said they were not having any problems.",
+      "The concerns seemed to stem from anX post by Downdetector,a crowdsourced website where users can report service disruptions themselves and see if others are having problems. Downdetector is not an official source for verifying or understanding the true scope of internet outages, and as people become more concerned about possible cyberattacks, the site’s data may become less valuable over time if every minor glitch and hiccup is reported as an “outage” by non-technical users.",
+      "The fact that Google had to announce it was not having an outage speaks to the growing anxiety around the reliability of major tech services. Over the past week, Apple and Microsoft experienced outages, an FAA network failure led to a nationwide ground stop, and some banks and airlines also reported disruptions.",
+      "However, Director of National Intelligence Jay Claytonsaid on Fox Business Network’s“The Claman Countdown” on Tuesday that the U.S. is not currently facing coordinated cyberattacks. He told the outlet, “We do not see the indicia of a coordinated cyberattack — let me just be clear about that — and we do not see the indicia of state-sponsored activity here.”",
+      "Instead, Clayton attributed the rise in issues to businesses patching their systems. The patching may be a downstream effect of AI, as newer models have become increasingly adept at uncovering previously unknown vulnerabilities. “They’re upgrading them, they’re putting patches in place,” he said, adding that this is happening at “a much larger scale” than before.",
+      "As a result, some of the systems are “not coming back as expected in all cases,” he added.",
+      "When you purchase through links in our articles,we may earn a small commission. This doesn’t affect our editorial independence."
+    ],
+    "category": "software",
+    "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+    "timestamp": "2026-11-18T07:49:58.991188Z",
+    "news_id": 1056
+  },
+  {
+    "title": "Waymo پس از سفارش DMV کالیفرنیا، سفرهای آزادراهی را در سراسر کشور به حالت تعلیق درآورد",
+    "summary": "ربات‌اکسی‌های Waymo دیگر اجازه فعالیت در آزادراه‌های کالیفرنیا را ندارند، زیرا دپارتمان وسایل نقلیه موتوری ایالت، فعالیت‌های شرکت متعلق به آلفابت را به دنبال چندین حادثه که نگرانی‌های ایمنی را برانگیخ...",
+    "content": [
+      "ربات‌اکسی‌های Waymo دیگر اجازه فعالیت در آزادراه‌های کالیفرنیا را ندارند، زیرا دپارتمان وسایل نقلیه موتوری ایالت، فعالیت‌های شرکت متعلق به آلفابت را به دنبال چندین حادثه که نگرانی‌های ایمنی را برانگیخت، محدود کرد.",
+      "DMV کالیفرنیا، که تست و استقرار وسایل نقلیه خودران در این ایالت را تنظیم می کند، محدودیت های عملیاتی Waymo را در 11 نوامبر صادر کرد. با این حال، این محدودیت ها تا روز سه شنبه علنی نشد. سانفرانسیسکو بیزینس تایمز اولین بار بود که این سفارش را گزارش کرد.",
+      "DMV محدودیت‌های جدید برای TechCrunch را تأیید کرد و اظهار داشت که این بخش پس از بسته شدن سه وسیله نقلیه خودران Waymo در مسیر US Route 101 در نزدیکی Burlingame و یک حادثه جداگانه دیگر مربوط به خودروهای گشت بزرگراه کالیفرنیا در بزرگراه 280 در سانفرانسیسکو، وارد عمل شد.",
+      "Waymo مطابقت کرده است و از دسترسی روبوتاکسی خود به آزادراه‌ها در هر یک از بازارهایی که در آن فعالیت می‌کند، از جمله بازارهای خارج از کالیفرنیا، جلوگیری می‌کند. Waymo در حال حاضر در 15 شهر ایالات متحده فعالیت تجاری دارد.",
+      "DMV گفت که عملیات آزادراه Waymo یک خطر قریب الوقوع برای امنیت عمومی است.",
+      "بر اساس بیانیه ای که TechCrunch به ایمیل ارسال شده است، «وزارت تشخیص داد که عملیات آزادراه بدون راننده Waymo به دلیل هجوم مکرر وسایل نقلیه آن به مناطق ساخت و ساز فعال که کارگران ساختمانی، وسایل نقلیه و تجهیزات در آن حضور دارند، علیرغم محدودیت قبلی و اقدامات اصلاحی انجام شده در پی حوادث مشابهی که در 18 مه 2026 رخ داده است، خطری قریب الوقوع برای ایمنی عمومی ایجاد می کند».",
+      "DMV گفت این محدودیت ها تا زمانی که Waymo نتواند نشان دهد که \"اقدامات اصلاحی موثر\" را برای رفع نواقص انجام داده است، باقی خواهند ماند.",
+      "دانا گالاگر، سخنگوی Waymo به TechCrunch گفت که این شرکت به طور موقت عملیات آزادراه را در سایر بازارهای عملیاتی خود محدود کرده است تا عملکرد خود را ارزیابی کند."
+    ],
+    "title_en": "Waymo suspends freeway rides nationwide after California DMV order",
+    "summary_en": "Waymo robotaxis are no longer allowed to operate on California freeways after the state’s Department of Motor Vehicles restricted the Alphabet-owned company’s operations following several incidents th...",
+    "content_en": [
+      "Waymo robotaxis are no longer allowed to operate on California freeways after the state’s Department of Motor Vehicles restricted the Alphabet-owned company’s operations following several incidents that raised safety concerns.",
+      "California’s DMV, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo on November 11. However, the restrictions weren’t made public until Tuesday. San Francisco Business Times was thefirst to reportthe order.",
+      "The DMV confirmed the new restrictions to TechCrunch, stating that the department took action after three Waymo autonomous vehicles entered an active construction closure on U.S. Route 101 near Burlingame, and another separate incident involving California Highway Patrol vehicles on Highway 280 in San Francisco.",
+      "Waymo has complied and is preventing its robotaxis from accessing freeways in any of the markets it operates in, including those outside of California. Waymo currently has commercial operations in 15 U.S. cities.",
+      "The DMV said Waymo’s freeway operations pose an imminent hazard to public safety.",
+      "“The Department determined that Waymo’s driverless freeway operations pose an imminent hazard to public safety due to recurring incursions by its vehicles into active construction zones where construction workers, vehicles and equipment are present, despite a prior restriction and corrective actions implemented following similar incidents that occurred on May 18, 2026,” according to an emailed statement sent to TechCrunch.",
+      "The DMV said the restrictions will remain in place until Waymo can demonstrate that it has taken “effective corrective actions” to address the deficiencies.",
+      "Waymo spokesperson Dana Gallagher told TechCrunch the company has temporarily restricted freeway operations across its other operating markets to evaluate its performance."
+    ],
+    "category": "ai",
+    "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801",
+    "timestamp": "2026-11-18T07:50:00.379057Z",
+    "news_id": 1055
+  },
+  {
+    "title": "Model ML 250 میلیون دلار جمع آوری می کند تا کار غرغر بانکی سرمایه گذاری را خودکار کند",
+    "summary": "Model ML، یک استارت‌آپ مستقر در لندن که از هوش مصنوعی برای خودکارسازی کارهایی که به‌طور سنتی توسط بانکداران و مشاوران جوان انجام می‌شد، از جمله ساخت مدل‌های مالی، آماده‌سازی عرشه‌ها، و نوشتن گزارش‌های...",
+    "content": [
+      "Model ML، یک استارت‌آپ مستقر در لندن که از هوش مصنوعی برای خودکارسازی کارهایی که به‌طور سنتی توسط بانکداران و مشاوران جوان انجام می‌شد، از جمله ساخت مدل‌های مالی، آماده‌سازی عرشه‌ها، و نوشتن گزارش‌های بررسی دقیق استفاده می‌کند، سرمایه‌گذاری ۲۵۰ میلیون دلاری سری B را با ارزش ۱.۵ میلیارد دلار جمع‌آوری کرده است. دور جدید، که یک سال پس از اعلام دور 75 میلیون دلاری سری A، توسط جنرال آتلانتیک و پشتیبان قبلی QED Investors رهبری شد.",
+      "برادران Chaz و Arnie Englander این استارتاپ سه ساله را پس از تأسیس دو شرکت دیگر، از جمله Fat Llama، یک بازار اجاره همتا به همتا که توسط رقیب سوئدی Hygglo به مبلغ 41.5 میلیون دلار در سال 2022 خریداری شد، با هم تأسیس کردند.",
+      "Model ML عوامل هوش مصنوعی را توسعه می دهد که با سیستم ها، داده ها و ابزارهای مشتریان از جمله Excel و PowerPoint یکپارچه می شوند. این استارت‌آپ می‌گوید که نمایندگان آن زمینه کامل معاملاتی را که بانکداران و مشاوران روی آن کار می‌کنند درک می‌کنند و می‌توانند به‌طور خودکار مدل‌ها و ارائه‌های مالی را زمانی که تحولات جدید بر تحلیل‌های آن‌ها تأثیر می‌گذارد، به‌روزرسانی کنند.",
+      "دیگر استارت‌آپ‌هایی که وظایف معمول و تکراری را برای بانکداران سرمایه‌گذاری و مشاوران مدیریت خودکار می‌کنند، شامل Hebbia و Rogo هستند که در آوریل 160 میلیون دلار با ارزش 2 میلیارد دلاری جذب کردند.",
+      "Anthropic و OpenAI نیز ابزارهایی را برای متخصصان مالی ساخته‌اند، اما Model ML می‌گوید که بر روی مدل‌های منبع باز اجرا می‌شود و انجام این کار به آن اجازه می‌دهد تا با حدود ۲ درصد از هزینه مدل‌های مرزی کار کند و در عین حال نتایج سریع‌تری ارائه دهد.",
+      "نگاهی اولیه به Next TechCrunch DisruptDisrupt، Startup Battlefield و موارد دیگر در سال آینده داشته باشید، و شما می توانید در خط مقدم باشید. برای لیست انتظار ما ثبت نام کنید"
+    ],
+    "title_en": "Model ML raises $250M to automate investment banking grunt work",
+    "summary_en": "Model ML, a London-based startup that uses AI to automate work traditionally performed by junior bankers and consultants, including building financial models, preparing pitch decks, and writing due di...",
+    "content_en": [
+      "Model ML, a London-based startup that uses AI to automate work traditionally performed by junior bankers and consultants, including building financial models, preparing pitch decks, and writing due diligence reports, has raised$250 millionin Series B funding at a $1.5 billion valuation. The new round, which comes a year after its$75 millionSeries A round was announced, was co-led by General Atlantic and earlier backer QED Investors.",
+      "Brothers Chaz and Arnie Englander co-founded the three-year-old startup after previously co-founding two other companies, including Fat Llama, a peer-to-peer rental marketplace acquired by Swedish rival Hygglo for $41.5 million in 2022.",
+      "Model ML develops AI agents that integrate with clients’ systems, data, and tools, including Excel and PowerPoint. The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "Other startups automating the routine, repetitive tasks for investment bankers and management consultants include Hebbia and Rogo, which raised $160 million at a $2 billion valuation in April.",
+      "Anthropic and OpenAI have also built tools for financial professionals, but Model ML says it runs on open source models and that doing so allows it to operate at about 2% of the cost of frontier models while delivering faster results.",
+      "Get an Early Peek at the Next TechCrunch DisruptDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.Sign up for our waitlist"
+    ],
+    "category": "ai",
+    "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+    "timestamp": "2026-11-18T07:50:01.373261Z",
+    "news_id": 1054
+  },
+  {
+    "title": "Google دسترسی به Gemini Tasks را گسترش می‌دهد، که می‌تواند به تماس‌ها، خریدها کمک کند",
+    "summary": "Google در حال گسترش برنامه‌های Tasks است، یک ضامن در Gemini که ربات چت را به کمکی فعال‌تر تبدیل می‌کند.",
+    "content": [
+      "Google در حال گسترش برنامه‌های Tasks است، یک ضامن در Gemini که ربات چت را به کمکی فعال‌تر تبدیل می‌کند.",
+      "برخلاف Gemini’s Chat که صرفاً به کاربران اجازه می‌دهد با دستیار هوش مصنوعی گوگل برای مقاصد اطلاعاتی صحبت کنند، Tasks به برنامه این امکان را می‌دهد تا وظایف اصلی منشی را انجام دهد و آن را به عنوان نوعی دستیار شخصی جایگزین کند.",
+      "به طور خاص چگونه می توانید از آن استفاده کنید؟ گوگل می گوید که این برنامه می تواند از طرف کاربران با مشاغل تماس بگیرد و قرار ملاقات رزرو کند. همچنین می‌تواند خریدهای آنها را از طریق Google Pay انجام دهد، و حتی اگر از شما خواسته شود به طور ایمن وارد وب‌سایت‌ها شود.",
+      "در پست وبلاگی، جاش وودورد، معاون جمینی، جاش وودورد، ادعا می‌کند که اخیراً از این ویژگی برای تماس با نمایندگی‌های خودروی محلی برای تعیین قرار ملاقات برای مینی‌ون خانواده‌اش استفاده کرده است. او می گوید که از آن برای تجزیه و تحلیل قبض برق خود نیز استفاده کرده است.",
+      "راه اندازی و راه اندازی عملکرد آسان است. کاربران صرفاً یک ضامن در برنامه از Chat به Tasks می‌چرخانند که این ویژگی را فعال می‌کند. کاربران همچنین می توانند برای Gemini پیامک ارسال کنند یا با برنامه تماس بگیرند تا دستوراتی به آن بدهند.",
+      "نگاهی اولیه به Next TechCrunch DisruptDisrupt، Startup Battlefield و موارد دیگر در سال آینده داشته باشید، و شما می توانید در خط مقدم باشید. برای لیست انتظار ما ثبت نام کنید"
+    ],
+    "title_en": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "summary_en": "Google is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper.",
+    "content_en": [
+      "Google is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper.",
+      "Unlike Gemini’s Chat, which merely allows users to talk to Google’s AI assistant for informational purposes, Tasks empowers the app to complete basic secretarial functions, deputizing it as a kind of personal assistant.",
+      "How, specifically, can you use it? Google says that the app can call businesses and book appointments on users’ behalf; it can also complete purchases for them via Google Pay, and even sign into websites securely if prompted to do so.",
+      "Ina blog post, Josh Woodword, VP of Gemini, claims to have recently used the feature to call local car dealerships to schedule a service appointment for his family’s minivan. He says he also used it to analyze his electrical bill.",
+      "Getting the function up and running is easy. Users merely flip a toggle within the app from Chat to Tasks, which enables the feature. Users can also send texts to Gemini or call the app to give it commands.",
+      "Get an Early Peek at the Next TechCrunch DisruptDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.Sign up for our waitlist"
+    ],
+    "category": "ai",
+    "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "timestamp": "2026-11-18T07:50:02.702170Z",
+    "news_id": 1053
+  },
+  {
+    "title": "درآمد انویدیا در سه ماهه سوم بدون اشاره به کل چیز Jensen Huang به موفقیت رسید",
+    "summary": "درآمد سه ماهه سوم انویدیا بیش از دو برابر شده است و درآمد حاصل از مراکز داده نسبت به سال گذشته 110 درصد افزایش یافته و به 107.6 میلیارد دلار رسیده است.",
+    "content": [
+      "درآمد سه ماهه سوم انویدیا بیش از دو برابر شده است و درآمد حاصل از مراکز داده نسبت به سال گذشته 110 درصد افزایش یافته و به 107.6 میلیارد دلار رسیده است.",
+      "مدیرعامل موقت انویدیا، کولت کرسان، سه‌شنبه سه‌شنبه، بدون اشاره به مدیرعامل سابق، جنسن هوانگ، یا جزئیات جدایی‌اش، یا تلاش احتمالی برای بازگشت، درآمد سه‌ماهه سوم این شرکت را اعلام کرد. در تماس با درآمد همراه با انتشار، هاروی جونز، رئیس هیئت مدیره، سخنان خود را با گفتن اینکه هیئت مدیره \"در نظر ندارد هوانگ را به عنوان مدیرعامل بازگرداند\" آغاز کرد، و قبل از اینکه کرس در مورد نتایج تحقیقات خود را آغاز کند، ما در تماس امروز در مورد شرایط استعفای جنسن و تحقیقات در حال انجام، پاسخ نخواهیم داد یا سؤالی نخواهیم داشت.",
+      "همانطور که در آخرین به‌روزرسانی مالی پیش‌بینی شده بود، انویدیا اکنون در فهرست شرکت‌هایی است که در یک سه ماهه بیش از 100 میلیارد دلار درآمد داشته‌اند، با درآمدی معادل 115.8 میلیارد دلار، که 103 درصد نسبت به مدت مشابه سال گذشته و بالاتر از انتظار 108 میلیارد دلاری آن بود. ارقام این سه ماهه شامل درآمد 107.6 میلیارد دلاری مرکز داده است که 110 درصد افزایش یافته است، و رایانش لبه (که شامل تجارت رایانه های شخصی بازی مصرف کننده و دستگاه هایی مانند لپ تاپ های جدید RTX Spark می شود) درآمد 8.2 میلیارد دلاری، 42 درصد افزایش یافته است.",
+      "این شرکت 65.3 میلیارد دلار سود اعلام کرد که یک رکورد جدید است.",
+      "کولت کرس، مدیرعامل موقت و معاون اجرایی و مدیر ارشد مالی انویدیا، گفت: \"تحرک ما واقعی است. NVIDIA یک رهبر فناوری استثنایی است که توسط نوآوری بی امان مردم ما قدرت می گیرد.\" \"ورا روبین شروعی انفجاری دارد، نقشه راه ما در مسیر درست قرار دارد و جاه طلبی ما هرگز بزرگتر از این نبوده است.\"",
+      "در سه ماهه چهارم، Nvidia انتظار دارد درآمدی بالغ بر 130 میلیارد دلار داشته باشد.",
+      "به‌روزرسانی، 17 نوامبر: نظراتی از تماس درآمد Nvidia اضافه شد."
+    ],
+    "title_en": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "summary_en": "Nvidia’s Q3 revenue has more than doubled, with income from data centers up 110 percent from last year, to $107.6 billion.",
+    "content_en": [
+      "Nvidia’s Q3 revenue has more than doubled, with income from data centers up 110 percent from last year, to $107.6 billion.",
+      "Interim Nvidia CEO Colette Kressannounced the company’s Q3 earningson Tuesday, without initially mentioningformer CEO Jensen Huang or the details of his departure, or possibleattempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board “does not intend to reinstate Huang as CEO,” and that “we will not be addressing or taking questions on today’s call regarding the circumstances of Jensen’s resignation and the ongoing investigation,” before Kress started with her comments on the results.",
+      "As itpredicted in the last financial update, Nvidia is now on the list of companies that have pulled in over $100 billion in a single quarter, with revenues of $115.8 billion, up 103 percent from the same period last year and higher than its expectation of $108 billion. This quarter’s figures include data center revenues of $107.6 billion, which were up 110 percent, and edge computing (which includes the consumer gaming PC business and devices like thenew RTX Spark laptops) revenue of $8.2 billion, up 42 percent.",
+      "The company reported $65.3 billion in profit, a new record.",
+      "“Our momentum is real. NVIDIA is an exceptional technology leader, powered by the relentless innovation of our people,” said Colette Kress, interim CEO and executive vice president and chief financial officer of NVIDIA. “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”",
+      "In the fourth quarter, Nvidia expects revenues of $130 billion.",
+      "Update, November 17th:Added comments from Nvidia’s earnings call."
+    ],
+    "category": "hardware",
+    "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": "2026-11-18T07:50:03.606107Z",
+    "news_id": 1052
+  },
+  {
+    "title": "فناوری زیره هوای جدید نایک می‌تواند پوشش نرم و محکم را با هم ترکیب کند",
+    "summary": "اولین کفش‌ها با فناوری جدید نایک تیوند ایر از اواخر سال 2027 برای دوندگان در دسترس خواهند بود.",
+    "content": [
+      "اولین کفش‌ها با فناوری جدید نایک تیوند ایر از اواخر سال 2027 برای دوندگان در دسترس خواهند بود.",
+      "در سال 2024، نایک Air Max 1000 خود را اعلام کرد که با استفاده از فرآیند چاپ سه بعدی تولید شده و منجر به تولید کفشی شد که شبح یکنواخت داشت اما مناطق مختلف پشتیبانی و انعطاف پذیری در سراسر آن وجود داشت. این شرکت اکنون با استفاده از فناوری جدید Tuned Air در حال انجام کاری مشابه با زیره های نمادین پر از هوا است. در حالی که قبلا سطح بالشتک کفش های نایک ایر در کل زیره یکنواخت بود، یک فرآیند تولید جدید می تواند چندین جیب هوا با سطوح مختلف بالش و پایداری ایجاد کند.",
+      "نایک نزدیک به 50 سال است که جیب‌های هوا را در کفش‌های خود قرار داده است تا به‌عنوان راهی برای افزایش راحتی و بالشتک و در عین حال سبک‌تر کردن آن‌ها. جیب‌های هوای آن حتی به لباس‌ها راه پیدا کرده‌اند، راهی برای بهبود عایق‌کاری با به دام انداختن گرمای بدن، اما نایک قصد دارد از فناوری جدید Tuned Air به عنوان راهی برای سفارشی‌سازی تجربه بالشتک در کفش‌ها و متناسب کردن آن‌ها برای ورزشکاران و ورزش‌های خاص استفاده کند. انتظار می‌رود اولین کفش‌های دارای این فناوری در اواخر سال 2027 وارد بازار شوند و برای دوندگان هدف قرار خواهند گرفت.",
+      "در حالی که یکی از اولین موفقیت‌های نایک کفش‌های ردیاب با طراحی دستگیره با الهام از اتو وافل بود، این شرکت «رنگ‌های زنده روی جلد مجلات» را الهام‌بخش جدیدترین فناوری کفش خود می‌داند. زیره Tuned Air با استفاده از \"پرینت دیجیتال اختصاصی و فرآیند لمینیت انتخابی\" تولید می شود که در آن جوهر در الگوهای خاصی اعمال می شود که محل اتصال لایه ها به یکدیگر را مشخص می کند. از این فرآیند می توان برای ایجاد جیب های داخلی در ترکیب نامحدودی از شکل ها و اندازه ها استفاده کرد و با تنظیم دقیق میزان هوا در هر یک از آن جیب ها، برخی از قسمت های زیره می توانند سفت تر و برخی دیگر نرم تر احساس شوند.",
+      "فناوری Tuned Air نه تنها به نایک این امکان را می‌دهد که تناسب و حس کفش‌های بادی را برای ورزش‌های مختلف بسیار سفارشی کند، بلکه به حفظ مزایای تیونینگ سفارشی در اندازه‌های مختلف کمک می‌کند. فرآیند تولید جدید همچنین به کاهش مدت زمانی که نایک از مفهومی برای یک کفش جدید به طراحی نهایی آماده برای تولید نیاز دارد، کمک خواهد کرد. این شرکت در انتشار امروز ادعا می‌کند: «نمونه‌های اولیه‌ای که زمانی سه هفته طول می‌کشید، اکنون می‌توانند در سه روز ساخته شوند. این به طراحان نایک زمان بیشتری برای اصلاح کفش های جدید و فرصت بیشتری برای آزمایش می دهد."
+    ],
+    "title_en": "Nike’s new air sole technology can mix soft and firm cushioning",
+    "summary_en": "The first shoes with Nike’s new Tuned Air technology will be available for runners starting in late 2027.﻿",
+    "content_en": [
+      "The first shoes with Nike’s new Tuned Air technology will be available for runners starting in late 2027.﻿",
+      "In 2024,Nike announced its Air Max 1000that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using itsnew Tuned Air technology. While previously the level of cushioning in Nike Air shoes was uniform across the entire sole, a new manufacturing process can produce multiple air pockets with varying levels of cushioning and stability.",
+      "Nike has been putting air pockets into its shoes for nearly 50 years as a way to increase comfort and cushioning while making them lighter. Its air pockets haveeven found their way into apparelas a way to improve insulation by trapping body heat, but Nike plans to use its new Tuned Air technology as a way to customize the cushioning experience in its shoes and tailor them to specific athletes and sports. The first shoes featuring the technology are expected to arrive in late 2027 and will be targeted at runners.",
+      "While one of Nike’s earliest successes was track shoeswith a grip design inspired by a waffle iron, the company credits the “vibrant colors on magazine covers” as the inspiration for its latest shoe technology. A Tuned Air sole is manufactured using a “proprietary digital print and selective lamination process” where an ink is applied in specific patterns that define where the layers bond to each other. This process can be used to create internal pockets in an unlimited combination of shapes and sizes, and by fine-tuning how much air is in each of those pockets, some parts of the sole can feel firmer while others feel softer.",
+      "The Tuned Air technology will not only allow Nike to highly customize the fit and feel of air sole shoes for different sports, it will also help keep the benefits of the custom tuning consistent across different sizes. The new manufacturing process will also help reduce the amount of time it takes Nike to go from a concept for a new shoe to a final design ready for production. “Prototypes that once took three weeks can now be made in three days,” the company claims in a release today. That gives Nike’s designers more time to refine new shoes, and more opportunity to experiment."
+    ],
+    "category": "mobile",
+    "link": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nike1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
+    "timestamp": "2026-11-18T07:50:04.933327Z",
+    "news_id": 1051
+  },
+  {
+    "title": "حتی سام آلتمن نیز از دستکاری های عمیق هوش مصنوعی در اینستاگرام در امان نیست",
+    "summary": "مدیر ارشد هوش مصنوعی متا یک ویدیوی هوش مصنوعی از یک رقیب برتر منتشر کرد. تحت خط مشی هوش مصنوعی متا مجاز است",
+    "content": [
+      "مدیر ارشد هوش مصنوعی متا یک ویدیوی هوش مصنوعی از یک رقیب برتر منتشر کرد. تحت خط مشی هوش مصنوعی متا مجاز است",
+      "اینستاگرام مملو از افرادی است که محتوای دیپ جعلی را ارسال می‌کنند - از جمله، اخیراً، یکی از برجسته‌ترین مدیران متا.",
+      "در اوایل ماه نوامبر، الکساندر وانگ، مدیر ارشد هوش مصنوعی متا، کلیپ کوتاهی را برای تبلیغ Muse، عامل هوش مصنوعی مصرف کننده این شرکت به اشتراک گذاشت. در کلیپ تولید شده توسط هوش مصنوعی، وانگ، مدیرعامل متا، مارک زاکربرگ، مدیر عامل OpenAI، سم آلتمن، و جولی، طلسم انسان‌نمای Muse، در حال یک تماس ویدیویی چهار طرفه هستند. وقتی آلتمن به تماس می‌پیوندد، مانند جولی لباس می‌پوشد، کت و شلوار کلاهدار خزدار و رنگ صورت می‌پوشد تا شبیه شخصیت بامزه به نظر برسد. این کلیپ با عنوان «وقتی خانواده‌ها درباره استراتژی محصول اوپن‌آی ملاقات می‌کنند»، اشاره‌ای به نژاد عاملان هوش مصنوعی و محبوبیت اخیر Muse دارد.",
+      "همین چند سال پیش، محتوای هوش مصنوعی که افراد واقعی را به تصویر می‌کشید، منجر به بیانیه‌های عمومی قوی در مورد سرزنش استفاده از فناوری برای تقلید از انسان شد. در برخی موارد تهدید به اقدام قانونی شد. اکنون، محتوای هوش مصنوعی به بخشی از بافت یک واقعیت جدید، به ویژه در رسانه های اجتماعی تبدیل شده است. برای مثال، پیش از انتخابات میان‌دوره‌ای، گروه‌های سیاسی میلیون‌ها دلار به مخالفان حمله‌ای که توسط هوش مصنوعی تولید می‌شوند، در اختیار دارند.",
+      "وانگ کارهای زیادی را انجام داده است که برخی آن را «ضد روابط عمومی» برای تبلیغ Muse توصیف کرده‌اند و صدها بار توییت کرده و به بازاریابان سنتی‌تر به‌عنوان «شخصیت‌ها» یاد می‌کند. با این حال، یکی از مدیران ارشد فناوری که یک ویدیوی هوش مصنوعی از یک رقیب ارسال می کند، قابل توجه است، به خصوص در پلتفرمی که اخیراً به دلیل محتوای تولید شده توسط هوش مصنوعی مورد انتقاد قرار گرفته است. پس از اینکه تصویری که توسط هوش مصنوعی از بازیگر میا گوث در ماه اکتبر مورد توجه قرار گرفت، نماینده ThePearlstar گفت: The Vergeit \"غیرقابل درک\" است که اینستاگرام به جای تمرکز بر \"حفاظت و یکپارچگی شباهت یک شخصیت عمومی\" اجازه انتشار تصویر را داد. سایر سلبریتی ها، از جمله اسکارلت جوهانسون، به طور مرتب موضوع تصاویر هوش مصنوعی جنسی هستند. متا در گذشته برخی از حساب‌های کاربری را حذف کرده است که به نظر می‌رسد خود را به عنوان شخص دیگری نشان می‌دهند و از شباهت آنها استفاده می‌کنند.",
+      "متا به ویدیوهای تولید شده توسط هوش مصنوعی که افراد را به تصویر می‌کشد نیاز دارد که مانند پست وانگ برچسب هوش مصنوعی داشته باشند. با این حال، تصاویر استاتیک چنین الزامی ندارند، به این معنی که تصویر هوش مصنوعی Goth هیچ افشاگری ندارد. بدتر از همه، این تصویر توسط یک اکانت طرفدار با نشان تأیید آبی که توسط اینستاگرام داده شده به اشتراک گذاشته شد.",
+      "تریسی کلیتون، سخنگوی متا، پس از دریافت نظر، خاطرنشان کرد که پست وانگ به عنوان محتوای هوش مصنوعی برچسب گذاری شده است. کلایتون همچنین اشاره کرد که آلتمن شبیه خود را در دسترس قرار داده است"
+    ],
+    "title_en": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "summary_en": "Meta’s chief AI officer posted an AI video of a top competitor. It’s allowed under Meta’s AI policy.﻿",
+    "content_en": [
+      "Meta’s chief AI officer posted an AI video of a top competitor. It’s allowed under Meta’s AI policy.﻿",
+      "Instagram is filled with people posting deepfaked content — including, as of late, from one of Meta’s most prominent executives.",
+      "Earlier in November, Alexandr Wang, Meta’s chief AI officer, shared a short clip to promote Muse, the company’s consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and Jolly, the anthropomorphic mascot of Muse, are on a four-way video call. When Altman joins the call he’s dressed like Jolly, wearing a furry hooded suit and face paint to look like the cutesy character. The clip is captioned “When the homies meet about openai product strategy,” a reference to the AI agent race and the recent popularity of Muse.",
+      "Just a few years ago, AI content portraying real people led to strong public statements rebuking the use of the technology to imitate humans. In some cases legal actionwas threatened. Now, AI content has become part of the texture of a new reality, especially on social media. Leading up to the midterm elections, for example, political groupsran millions of dollars’ worth of AI-generated adsattacking opponents.",
+      "Wang has been doing a lot of what some havedescribedas “anti-PR” to promote Muse, tweeting hundreds of times andreferringto more traditional marketers as “corposlops.” Still, a major tech executive posting an AI video of a competitor is notable, especially on a platform that’s been criticized recently over AI-generated content. After an AI-generated image of actress Mia Goth gained traction in October, thePearlstar’s representativetoldThe Vergeit was “incomprehensible” that Instagram allowed the image to spread instead of focusing on the “protection and integrity of a public figure’s likeness.” Other celebrities, including Scarlett Johansson, areregularly the subjectof sexualized AI imagery; Meta has removed some accounts in the past that it found to be posing as someone else and using their likeness.",
+      "Meta requires AI-generated videos depicting people to be labeled as AI, like Wang’s post is. Static images, however, have no such requirement, meaning the AI image of Goth had no disclosure. To make matters worse, the image was shared by a fan account with a blue verification badge given by Instagram.",
+      "Reached for comment, Meta spokesperson Tracy Clayton noted that Wang’s post is labeled as AI content. Clayton also pointed out that Altman has made his likeness available for AI content generation, as when OpenAI launched its Sora app (and itwas quickly floodedwith fake Altman videos). OpenAI didn’t respond to requests for comment."
+    ],
+    "category": "ai",
+    "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297785644.jpg?quality=90&strip=all&crop=0%2C10.755339554057%2C100%2C78.489320891885&w=1200",
+    "timestamp": "2026-11-18T07:50:06.951156Z",
+    "news_id": 1050
+  },
+  {
+    "title": "اینستاگرام به سازندگان کمک می کند تا ویدیوهای کپی شده را سرکوب کنند",
+    "summary": "متا به سازندگان این امکان را می‌دهد که کپی‌هایی از ویدیوهای خود را که توسط ویژگی جدید «محافظت از محتوا» پرچم‌گذاری شده‌اند، مخفی کنند.",
+    "content": [
+      "متا به سازندگان این امکان را می‌دهد که کپی‌هایی از ویدیوهای خود را که توسط ویژگی جدید «محافظت از محتوا» پرچم‌گذاری شده‌اند، مخفی کنند.",
+      "اینستاگرام شروع به استفاده از ویژگی «محافظت از محتوا» کرده است که به سازندگان اجازه می‌دهد کپی‌هایی از ویدیوهای خود را که در این پلتفرم پست شده‌اند ببینند و بررسی کنند.",
+      "متا در یک پست وبلاگ می‌گوید: «برای سازندگان واجد شرایطی که ثبت‌نام می‌کنند، محافظت از محتوا ابزاری است که به‌طور خودکار به دنبال تطابق‌های بصری ویدیوهای اصلی شما است، هنگامی که در اینستاگرام و فیس‌بوک مطابقت پیدا می‌کنیم به شما هشدار می‌دهد و به شما امکان می‌دهد تصمیم بگیرید که چه اتفاقی می‌افتد». متا سال گذشته ابزار مشابهی را برای فیس بوک راه اندازی کرد تا به کاربران کمک کند از حلقه های خود محافظت کنند و بر کارهای خلاقانه خود \"کنترل خود را حفظ کنند\".",
+      "هنگامی که یک سازنده اینستاگرام از یک ویدیوی منطبق مطلع می‌شود، می‌تواند تعداد بازدیدهای آن مسابقه را ببیند و تصمیم بگیرد که آیا می‌خواهد ویدیو را ردیابی کند، آن را از همه در اینستاگرام و فیس‌بوک مخفی کند، پیوند اعتباری اضافه کند یا ادعای خود را در مورد مسابقه منتشر کند.",
+      "پس از ثبت نام سازنده، از هر «ویدیوی اصلی» که در اینستاگرام پست می‌کند محافظت می‌شود و سازندگان می‌توانند به طور دستی از ویدیوهای قدیمی‌تر محافظت کنند. سازندگان همچنین می‌توانند حساب‌ها را در فهرست مجاز قرار دهند که به آنها امکان می‌دهد از ویدیوهای خود استفاده کنند.",
+      "علاوه بر این، اینستاگرام شروع به پرچم‌گذاری ویدیوهای تولید شده توسط هوش مصنوعی می‌کند که «با کلمات گفته شده مطابقت دارند» در ویدیوی اصلی سازنده اما تصاویر بصری با هوش مصنوعی جایگزین شده‌اند. در ابتدا، اینستاگرام این موضوع را با «گروه کوچکی از سازندگان» در «هفته‌های آینده» آزمایش خواهد کرد. این پلتفرم می‌گوید که در حال بررسی راه‌هایی برای محدود کردن دسترسی به محتوا و نمایه‌هایی است که «از ابزارهای هوش مصنوعی برای ارسال مکرر این نوع محتوا استفاده می‌کنند»."
+    ],
+    "title_en": "Instagram is helping creators crack down on copycat videos",
+    "summary_en": "Meta will let creators decide to hide copies of their videos flagged by a new ‘content protection’ feature.",
+    "content_en": [
+      "Meta will let creators decide to hide copies of their videos flagged by a new ‘content protection’ feature.",
+      "Instagram is beginning to roll outa “content protection”feature that lets creators see and review copies of their videos posted to the platform.",
+      "“For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and Facebook, and lets you decide what happens next,” Meta says in a blog post. Meta launched a similar toolfor Facebook last yearto help users “safeguard” their Reels and “maintain control” over their creative work.",
+      "When an Instagram creator is notified of a matched video, they can see how many views the match has and decide if they want to track the video, hide it from everyone on Instagram and Facebook, add a credit link, or release their claim on the match.",
+      "After a creator enrolls, every “original video” they post on Instagram is protected, and creators can retroactively protect older videos manually. Creators can also put accounts on an allow list that lets them use their videos.",
+      "In addition, Instagram will start flagging AI-generated videos that “match the spoken words” in a creator’s original video but have visuals replaced with AI. Initially, Instagram will test this with a “small group of creators” in “the coming weeks.” The platform says it’s exploring ways to limit the reach of content and profiles that “use AI tools to post this type of content repeatedly.”"
+    ],
+    "category": "mobile",
+    "link": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932741/acastro_STK070__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "timestamp": "2026-11-18T07:50:07.657599Z",
+    "news_id": 1049
+  },
+  {
+    "title": "کدهای تبلیغاتی Maytag: 15٪ تخفیف برای لوازم خانگی",
+    "summary": "Maytag Manis یکی از ماندگارترین شخصیت ها در تبلیغات آمریکایی است، تنها است زیرا هیچ کس به کمک او برای تعمیر لوازم خانگی Maytag نیاز ندارد. برند Maytag نیز دوام آورده است - به روزهایی که واشرهای فردریک...",
+    "content": [
+      "Maytag Manis یکی از ماندگارترین شخصیت ها در تبلیغات آمریکایی است، تنها است زیرا هیچ کس به کمک او برای تعمیر لوازم خانگی Maytag نیاز ندارد. برند Maytag نیز دوام آورده است - به روزهایی که واشرهای فردریک میتاگ از وان و میل لنگ چوبی استفاده می کردند. Maytag اولین شرکتی بود که یک همزن را در پایین ماشین لباسشویی قرار داد، طرحی که هنوز هم استفاده می شود. همچنین اولین شرکتی بود که ماشین لباسشویی و خشک کن را روی هم گذاشت و یکی از اولین پذیرندگان لوازم هوشمند بود. اما عمدتاً این برند از تازگی اجتناب کرده و ادعای دوام و قابلیت اطمینان ماشین‌های ظرفشویی، ماشین‌های لباسشویی، خشک‌کن‌ها، یخچال‌ها و اجاق‌های سنگین خود را مطرح کرده است. این درست است حتی زمانی که Maytag تحت مالکیت رقیب سابق Whirlpool قرار گرفت.",
+      "Maytag یکی از معدود شرکت های لوازم خانگی است که 10 سال گارانتی محدود برای قطعات ضروری ارائه می دهد. اما کدهای تبلیغاتی Maytag زودگذرتر هستند و معاملات کوتاه مدتی را در مورد لوازم خانگی ارائه می دهند که امیدواریم یک دهه دوام داشته باشند. در اینجا نحوه دریافت کد کوپن Maytag و کدهای تبلیغاتی Maytag و یافتن معاملات بسته در لوازم خانگی Maytag در فصل گذشته برای صرفه جویی بیشتر آمده است.",
+      "یک راه ساده برای یافتن تخفیف در لوازم خانگی Maytag، بررسی معاملات مازاد و بسته بندی است که نشان دهنده کاهش قابل توجهی در مدل های فصل گذشته است زیرا Maytag فضا را برای محصولات جدید باز می کند. این معاملات نیازی به کد کوپن ندارند، اما نیاز به دانستن مکان مناسب برای جستجو دارند. برای پیشنهادات بسته بندی لوازم خانگی، از وب سایت خروجی Maytag دیدن کنید. معمولاً این معاملات فقط تا زمان اتمام موجودی در دسترس هستند.",
+      "مانند بسیاری از شرکت‌های بزرگ، Maytag تخفیف‌های حرفه‌ای را برای ارتش، نیروهای اولیه، کارکنان مراقبت‌های بهداشتی، دانش‌آموزان و معلمان ارائه می‌دهد. برای دریافت تا 15% تخفیف به عنوان یک عضو نظامی فعال، جانباز یا همسر، باید یک حساب کاربری Maytag ایجاد کنید و وضعیت سربازی خود را از طریق برنامه SheerID تأیید کنید. تخفیف‌های مراقب سلامتی Maytagfirst پاسخگوی سلامت نیز به تأیید SheerID نیاز دارد. همچنین یک برنامه تخفیف برای دانش آموزان و معلمان، از جمله برنامه پس انداز معلم و تا 15٪ تخفیف در سراسر سایت وجود دارد. دانش‌آموزان تأیید شده می‌توانند هنگام نقل مکان به اولین آپارتمان خارج از دانشگاه، به قیمت‌های ویژه دانشجو دسترسی داشته باشند.",
+      "Maytag همچنین معاملاتی را در مورد لوازم هوشمند منتخب ارائه می دهد. این شامل یک توستر-مایکروویو ترکیبی منحصربه‌فرد است که حدود 100 دلار از MSRP تخفیف دارد، و محدوده الکتریکی کشویی با اتصال هوشمند که به شدت به 1260 دلار کاهش یافته است - صدها دلار کمتر از سایر قیمت‌های فروش اخیر. می‌توانید تخفیف‌های ویژه Maytag را در اپلیکیشن‌های متصل و هوشمند بررسی کنید"
+    ],
+    "title_en": "Maytag Promo Codes: 15% Off Appliances",
+    "summary_en": "The Maytag Manis one of the most enduring characters in American advertising, lonely because no one needs his help repairing a Maytag appliance. The Maytag brand, too, has endured—dating back to the d...",
+    "content_en": [
+      "The Maytag Manis one of the most enduring characters in American advertising, lonely because no one needs his help repairing a Maytag appliance. The Maytag brand, too, has endured—dating back to the days when Frederick Maytag’s washers used wooden tubs and cranks. Maytag was the first company to put an agitator at the bottom of a washing machine, a design still in use today. It was also the first to stack a washer and dryer andone of the earliest adopters of smart appliances. But mostly, the brand has eschewed novelty and staked its claim on durability and reliability for its heavy-duty dishwashers, washers, dryers, refrigerators, and ovens. This is true even as Maytag came under the ownership of former competitor Whirlpool.",
+      "Maytag remains one of the few appliance companies to offer10-year limited warranties on essential parts. But Maytag promo codes are more ephemeral, offering short-term deals on appliances that will hopefully last a decade. Here’s how to get a Maytag coupon code and Maytag promo codes, and to find closeout deals on last season’s Maytag appliances to save even more.",
+      "A simple way to find discounts on Maytag appliances is to check out overstock and closeout deals, which feature substantial markdowns on last season’s models as Maytag clears space for new products. These deals don't need a coupon code but do require knowing the right place to look. Visit theMaytag outlet websitefor appliance closeout offers. Usually, these deals are available only until supplies last.",
+      "Like many big companies, Maytag offersprofessional discounts for military, first responders, health care workers, students, and teachers. To receive up to a 15%discount as an active military member, veteran, or spouse,you’ll need to create a Maytag account and verify your military status through the SheerID program. Maytagfirst responderandhealth careworker discountsalso require SheerID verification. There’s alsoa discount program for students and teachers,including a teacher savings program and up to 15% off sitewide. Verified students can access student-specific pricing when moving into their first off-campus apartment.",
+      "Maytag is also offering deals on select smart appliances. This includes a uniquecombination toaster-microwave that’s about $100 off MSRP, and aslide-in electric range with smart connectivitythat’s steeply discounted to $1,260—hundreds of dollars less than even other recent sale prices. You can check out the special Maytag deals on connected and smart appliances by scrolling to the bottom ofMaytag’s smart appliance page."
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/story/maytag-promo-code/",
+    "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/191:100/w_1280,c_limit/WIRED-Coupons-R2_10.png",
+    "timestamp": "2026-11-18T07:50:09.705067Z",
+    "news_id": 1048
+  },
+  {
+    "title": "کدهای تبلیغاتی Verizon: 200 دلار کارت هدیه Verizon | نوامبر 2026",
+    "summary": "در همان روزگار، ورایزون گستردگی خود را با سخنگویی که از او پرسید: «می‌توانی صدای من را بشنوی، ثابت کرد؟» در حالی که سخنگوی بندیکت آرنولد را می کشد و به T-Mobile می رود، ورایزون اکنون \"شبکه آمریکا متکی...",
+    "content": [
+      "در همان روزگار، ورایزون گستردگی خود را با سخنگویی که از او پرسید: «می‌توانی صدای من را بشنوی، ثابت کرد؟» در حالی که سخنگوی بندیکت آرنولد را می کشد و به T-Mobile می رود، ورایزون اکنون \"شبکه آمریکا متکی است\" نامیده می شود، همانطور که شبکه 4G LTE آن که 99٪ از جمعیت ایالات متحده را پوشش می دهد و شبکه 5G آن روزانه در حال گسترش است (اگرچه در حال حاضر حدود 13٪ است) نشان می دهد. ما می دانیم که ارتباط ماندن چقدر مهم است، بنابراین بهترین راه ها را برای صرفه جویی در هزینه در این ماه گردآوری کرده ایم، از جمله کدهای تبلیغاتی Verizon، تبلیغات تلفنی رایگان، و معاملات بسته تعطیلات.",
+      "مدل‌های موردانتظار آیفون 18 اپل بالاخره آمدند و می‌توانید آیفون 18 پرو اپل را در Verizon تهیه کنید. مدل جدید به لطف دیافراگم متغیر جدید در لنز اصلی، عمر باتری بیشتر، تراشه قدرتمند Apple A20 Pro و یک سیستم دوربین همه کاره 48 مگاپیکسلی سه گانه دارد. به‌علاوه، هوش مصنوعی سیری اصلاح‌شده بسیار توانایی بیشتری نسبت به نسخه‌های قبلی دارد، با درک زمینه‌ای بهتر از آنچه روی صفحه است و توانایی بررسی پیام‌ها، ایمیل‌ها و عکس‌های شما. مطمئن شوید که اکنون آیفون 18 پرو جدید را در Verizon بررسی کنید.",
+      "اگر می‌خواهید برنامه‌های تلفن یا شرکت‌های مخابراتی را تغییر دهید، اکنون زمان خوبی برای تغییر به Verizon است. با آزادی بیشتر از همیشه، می‌توانید طرحی را انتخاب کنید که متناسب با نیازهایتان باشد و با یک طرح خوش‌آمدگویی نامحدود، تا چهار خط را فقط با ۲۵ دلار در هر خط دریافت کنید. شما همچنین یک برنامه تضمینی سه ساله با قیمت قفل شده خواهید داشت و برای تکمیل آن، می توانید 45٪ تخفیف در بهترین خدمات پخش دریافت کنید.",
+      "TheSimplicity Planat Verizon یکی از بهترین راه ها برای صرفه جویی در پول است، به خصوص اگر فرد مجردی هستید که فقط به یک خط نیاز دارید یا خانواده ای که به همه زنگ ها و سوت ها نیاز ندارد. با این طرح، با انتخاب تعداد خطوطی که می‌خواهید شروع می‌کنید—یک خط فقط از 30 دلار در ماه شروع می‌شود. طرح Simplicity شامل 5G Ultra Wideband، دلار ورایزون، داده نامحدود، مکالمه و متن، رومینگ بین‌المللی و ارسال پیامک ماهواره‌ای، 10 گیگابایت داده نقطه اتصال تلفن همراه، فیلتر تماس و ابزارهای ایمنی Verizon Family است. برای دریافت این معامله، می توانید: تلفن خود را نگه دارید و آن را به Verizon متصل کنید، یک تلفن جدید از طریق Verizon خریداری کنید، یا گوشی خود را به آخرین مدل ارتقا دهید (با هزینه ماهانه).",
+      "هم مشتریان جدید و هم مشتریان فعلی گزینه‌هایی برای صرفه‌جویی با مجموعه معاملات امروزی 2026 دارند. بهتر از این، برخی از چشمگیرترین دستگاه های این برند واجد شرایط تخفیف 1100 دلاری هستند، از جمله سامسونگ گلکسی Z Fold7 جدید، سامسونگ گلکسی S25+، Z Flip 7، S25 Ultra، و آیفون 17 پرو مکس. آیفون 16 پرو و ​​گوگل پیکسل 10 نیز چنین هستند"
+    ],
+    "title_en": "Verizon Promo Codes: $200 Verizon Gift Cards | November 2026",
+    "summary_en": "Back in theday, Verizon proved its expansive reach with the spokesperson who asked, “Can you hear me now?\" With the spokesperson pulling a Benedict Arnold and moving to T-Mobile, Verizon is now called...",
+    "content_en": [
+      "Back in theday, Verizon proved its expansive reach with the spokesperson who asked, “Can you hear me now?\" With the spokesperson pulling a Benedict Arnold and moving to T-Mobile, Verizon is now called the “Network America Relies On,” as evidenced by its 4G LTE network covering 99% of the U.S. population and its 5G network expanding daily (though it’s currently around 13%). We know how important it is to stay connected, so we’ve rounded up the best ways to save money this month, including Verizon promo codes, free phone promotions, and holiday bundle deals.",
+      "Apple’s highly anticipated iPhone 18 models are finally here, and you can get theApple iPhone 18 Pro at Verizon. The new model features longer battery life, the powerful Apple A20 Pro chip, and a versatile triple 48-megapixel camera system, thanks to a new variable aperture in the main lens. Plus, the revamped Siri AI is far more capable than previous versions, with better contextual understanding of what's onscreen and the ability to delve into your messages, emails, and photos. Be sure to check out the new iPhone 18 Pro at Verizon now.",
+      "If you’re looking to switch phone plans or carriers, now's a great time to switch to Verizon. With more freedom than ever, you can choose the plan that fits your needs and get up to four lines for only $25 per line with an Unlimited Welcome plan. You’ll also have a guaranteed three-year locked-price plan, and to top it off, you can get 45% off top streaming services.",
+      "TheSimplicity Planat Verizon is one of the best ways to save money, especially if you’re a single person who just needs one line or a family that doesn’t need all the bells and whistles. With this plan, you’ll start by choosing the number of lines you want—one line starts at only $30 per month. The Simplicity Plan includes 5G Ultra Wideband, Verizon Dollars, unlimited data, talk, and text, international roaming and satellite texting, 10 GB of mobile hotspot data, and call filter and Verizon Family safety tools. To get this deal, you can: keep your own phone and connect it to Verizon, buy a new phone through Verizon, or upgrade your phone to the latest model (for a monthly charge).",
+      "Both new and existing customers have options to save with today’s lineup of 2026 deals. Better yet, some of the brand’s most impressive devices are eligible for up to $1,100 off, including the newSamsung Galaxy Z Fold7, Samsung Galaxy S25+, Z Flip 7,S25 Ultra, andiPhone 17 Pro Max. The iPhone 16 Pro andGoogle Pixel 10also have limited-time deals, with up to $800 off.",
+      "There’s more. You can get a free phone with any new plan, plus free overnight shipping so you can use your new toy ASAP. If you’re switching to Verizon internet this winter, you’ll get a free Samsung 43” Class Q7F QLED (worth $400). Plus, you can get $90 off the OnePlus Nord Buds 3 Pro (read our review here) when you buy a Samsung device.",
+      "Verizon just seems to be handing out phones at this point—you can get cutting-edge smartphones, including the iPhone 16 Pro, Google Pixel 10, Samsung Galaxy S25 Ultra, and Samsung Galaxy S25+,for freewith no trade-in required. You’ll need to get a new line or upgrade your plan to qualify, but you’ll save $1,100 after credits over 3 years. And with new deals this month, you’ll get 4 iPhone 17, Pixel 10, or Galaxy S25 phones on Verizon, plus 4 lines for only $25 per line.",
+      "You can also get aSamsung Galaxy Watch8, Apple Watch SE3, or iPad for free when you sign up for an Unlimited Plan, and even without a trade-in, you can get four iPhone 17 phones with a new myPlan line."
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/story/verizon-promo-code/",
+    "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/191:100/w_1280,c_limit/WIRED-Coupons-14.jpg",
+    "timestamp": "2026-11-18T07:50:11.102282Z",
+    "news_id": 1047
+  },
+  {
+    "title": "بیش از یک سوم از نسل Z برای دوستی به هوش مصنوعی تکیه می کنند",
+    "summary": "همانطور که گروه های نسلی پیش می روند، ژنرال Z با سهم خود از برچسب ها مواجه شده است. آنها به ندرت رابطه جنسی دارند، وقتی صحبت از مشاغل اداری به میان می‌آید «ترک‌کننده‌های آرام» هستند، و چون از شراکت سن...",
+    "content": [
+      "همانطور که گروه های نسلی پیش می روند، ژنرال Z با سهم خود از برچسب ها مواجه شده است. آنها به ندرت رابطه جنسی دارند، وقتی صحبت از مشاغل اداری به میان می‌آید «ترک‌کننده‌های آرام» هستند، و چون از شراکت سنتی اجتناب می‌کنند، tosolomaxx را یاد گرفته‌اند.",
+      "چه این برچسب‌ها مستحق باشند یا کاملاً بی‌معنا، چیزی که پیوسته این طبقه منحصربه‌فرد از جوانان را به هم متصل می‌کند، میل به بازسازی نحوه تفکر آنها در مورد ارتباط است.",
+      "در کتاب «دوستی در دنیای آنلاین-آفلاین: زندگی دیجیتال، اتصال و رفاه»، محققان شرکت نظرسنجی عمومی گالوپ و آزمایشگاه سلامت دیجیتال در بیمارستان کودکان بوستون دریافتند که بیش از یک سوم ژنرال Z (33 درصد) برای همراهی به هوش مصنوعی متکی هستند. این درصد در میان کاربران روزانه هوش مصنوعی بالاتر بود، به 50 درصد و در میان افرادی که فقط دوستان آنلاین داشتند، 42 درصد بود.",
+      "این گزارش به‌جای اندازه‌گیری عواقب صرف زمان تماشای صفحه نمایش، بررسی می‌کند که ژنرال Z با چه کسی ارتباط برقرار می‌کند و چگونه این روابط نه تنها زندگی اجتماعی آنها را نشان می‌دهد، بلکه چگونه بر سلامت روان آنها تأثیر می‌گذارد. در حالی که دوستی‌های حضوری از نظر «قدرت و حمایت» بالاترین رتبه را داشتند و «با مثبت‌ترین تجربیات عاطفی مرتبط بودند»، جوانانی که به دوستان آنلاین یا هوش مصنوعی به عنوان یک همراه اجتماعی متکی هستند، ممکن است شانس بیشتری برای تنهایی داشته باشند.",
+      "محققان سه حالت ارتباط نزدیک را مورد بررسی قرار دادند: دوستی های حضوری، دوستی هایی که IRL را شروع کردند اما به صورت آنلاین ادامه می یابند، و دوستی های فقط آنلاین که در آن یک جوان هرگز دوست خود را در زندگی واقعی ندیده است. این نظرسنجی که بین ماه‌های مه و آگوست انجام شد، از 15925 نفر 15 تا 22 ساله در 16 کشور نمونه‌برداری شد و نشان می‌دهد که Gen Z از روابط IRL در مقایسه با روابط دیجیتالی سود بیشتری می‌برد، علی‌رغم اینکه تقریباً نیمی از جوانان در ایالات متحده حداقل یک دوست نزدیک آنلاین دارند.",
+      "دیوید بیکهام، مدیر تحقیقات آزمایشگاه سلامت دیجیتال می‌گوید: «نوجوانی زمانی است که وقتی اجتماعی می‌شوید شکوفا می‌شوید، و بنابراین آنها به دنبال همه این زمینه‌ها برای معاشرت هستند. من لزوماً آن را اینطور نمی‌دانم که، اوه، این بچه‌ها نوعی کمبود عمده دارند و به دنبال هوش مصنوعی هستند. به نظر من این افراد جوانی هستند که در دوران هوش مصنوعی بزرگ می‌شوند، قوی‌ترین راه برای یافتن اطلاعات آنلاین، و هر چه بیشتر از آن استفاده کنند، جنبه اجتماعی آن را می‌بینند و بیشتر درگیر آن هستند.»",
+      "در حالی که هوش مصنوعی ممکن است به پر کردن شکاف اجتماعی واقعی کمک کند، اما هنوز جای اوراق قرضه IRL آنها را نگرفته است. \"دوستی های حضوری و با واسطه دیجیتالی در یک زندگی اجتماعی وجود دارد.\""
+    ],
+    "title_en": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "summary_en": "As generational cohorts go, Gen Z has been saddled with its share of labels. Theyscarcely have sex, are “quiet quitters” when it comes to office jobs, and, as they avoid traditional partnership, have ...",
+    "content_en": [
+      "As generational cohorts go, Gen Z has been saddled with its share of labels. Theyscarcely have sex, are “quiet quitters” when it comes to office jobs, and, as they avoid traditional partnership, have learned tosolomaxx.",
+      "Whether these labels are deserved or completely off the mark, what continually connects this unique class of young people is a desire to reconstruct how they think about connection.",
+      "In “Friendship in an Online-Offline World: Digital Life, Connection and Wellbeing” researchers from public polling firm Gallup and the Digital Wellness Lab at Boston Children’s Hospital found that more than one-third of Gen Z (33 percent) rely on AI for companionship. The percentage was higher among daily AI users, spiking to 50 percent, and 42 percent among those with online-only friends.",
+      "Rather than measure the consequences of screen time alone, the report examines who Gen Z connects with and how those relationships not only account for their social lives but also how they impact their mental health. While in-person friendships were rated the highest for “strength and support” and were “associated with the most positive emotional experiences,” young people who rely on online-only friends or AI as a social companion may have higher odds of loneliness than those who do not.",
+      "Researchers examined three modes of what they consider close connection: in-person friendships, friendships that started IRL but are sustained online, and online-only friendships where a young person has never met their friend in real life. The survey, conducted between May and August, sampled 15,925 people aged 15 to 22 across 16 countries, and suggests that Gen Z benefits more from IRL relationships compared to digital ones, despite nearly half of young people in the US having at least one close online-only friend.",
+      "“Adolescence is a time when you thrive when you socialize, and so they’re looking for all of these contexts to socialize in,” says David Bickham, research director of the Digital Wellness Lab. “I don’t necessarily see it as, oh, these kids have some sort of major deficit and are looking to AI. I see it as these are young people who are growing up in a time of AI, the most powerful way to find information online, and the more they use it, they see and are more engaged with the social side of it.”",
+      "While AI may help fill a genuine social gap, it hasn’t yet taken the place of their IRL bonds. “In-person and digitally mediated friendships coexist within the same social life,” write the authors of the report.",
+      "When it comes to maintaining those affiliations, Instagram and Discord—surprisingly, not TikTok—were the top platforms in the US for staying in touch with online-only friends. Bickham also noted that “loneliness specifically may be something that these online relationships can’t quite compensate for.”"
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "image": "https://media.wired.com/photos/6afcfa9cd76c36e8270ca841/191:100/w_1280,c_limit/GenZ-AI-Friendship-Culture.jpg",
+    "timestamp": "2026-11-18T07:50:14.089696Z",
+    "news_id": 1046
+  },
+  {
+    "title": "\"غارتگران واقعی هستند\": جلسه استماع سنا رابلوکس را به دلیل سوء استفاده جنسی از کودکان مورد انتقاد قرار داد",
+    "summary": "افرادی که می‌گویند در Roblox آراسته شده‌اند، روز سه‌شنبه در مقابل یکی از کمیته‌های فرعی کنگره درباره خطرات ایمنی مرتبط با پلتفرم بازی محبوبی که کودکان و نوجوانان به آن مراجعه می‌کنند، شهادت دادند.",
+    "content": [
+      "افرادی که می‌گویند در Roblox آراسته شده‌اند، روز سه‌شنبه در مقابل یکی از کمیته‌های فرعی کنگره درباره خطرات ایمنی مرتبط با پلتفرم بازی محبوبی که کودکان و نوجوانان به آن مراجعه می‌کنند، شهادت دادند.",
+      "جاش هاولی، سناتور جمهوری خواه در سخنان افتتاحیه خود گفت: \"Roblox یکی از محبوب ترین پلتفرم های بازی در جهان است.\" \"اگر فرزندان شما در Roblox هستند، به احتمال زیاد در معرض شکارچیان جنسی ... در معرض محتوای استثمار جنسی، چپ، راست، و مرکز قرار می گیرند.\"",
+      "این جلسه برای رسیدگی به قوانین دو حزبی ارائه شده توسط هاولی و سناتور دموکرات، دیک دوربین، از نویسندگان قانون بدون حکمیت اجباری برای بهره کشی جنسی از کودکان و آسیب های سایبری، که به خانواده های قربانیان اجازه می دهد مستقیماً از Roblox شکایت کنند، به جای اینکه مجبور شوند ادعاهای خود را به صورت خصوصی به عنوان خدمات داوری در حال حاضر حل و فصل کنند.",
+      "میریام گیلس، استاد حقوق دانشگاه نورث وسترن که متخصص داوری اجباری است، گواهی داد که روند داوری اجباری «حقوق مصرف‌کنندگان و کارگران را سلب می‌کند». من هرگز انتظار نداشتم که در مقابل این سازمان بیایم تا در مورد استفاده از آن علیه کودکان 9 ساله صحبت کنم، اما ما اینجا هستیم.",
+      "Roblox در حال حاضر با نزدیک به 200 پرونده قضایی از سوی خانواده هایی روبرو است که ادعا می کنند فرزندانشان توسط شکارچیان جنسی که خود را به عنوان کودک در این پلتفرم نشان می دهند، اصلاح شده اند. به گفته هاولی، دیوید بازوکی، مدیرعامل روبلوکس برای شهادت در جلسه دعوت شد اما نپذیرفت.",
+      "هاولی گفت: \"او ممکن است فکر کند که ساکت است، اما در واقع او شهادت می دهد، و چیزی که او به آن شهادت می دهد تعهدش به پول برای مردم است.\"",
+      "در بیانیه ای، نیکی جکسون کولاچو، رئیس سیاست عمومی جهانی در Roblox، به WIRED گفت: \"ایمنی از زمان راه اندازی Roblox در مرکز بوده است. ما برای چت به بررسی سن نیاز داریم، کاربران زیر 16 سال را در حساب های مبتنی بر سن با پیش فرض های محافظتی قرار می دهیم، و تصاویر و ویدئوها را در چت مسدود می کنیم. موضع قانونی در مورد داوری، معیاری برای پیشبرد ایمنی برای شنیدن یک شرکت نیست. محافظت از کودکان آنلاین مستلزم محافظت قوی‌تر، ابزارهای بهتر و استانداردهای ثابتی است که در هر جایی که بچه‌ها وقت خود را آنلاین می‌گذرانند اعمال می‌شود.»",
+      "Roblox قبلاً استدلال کرده بود که کاربران از حق خود برای شکایت در دادگاه علنی در شرایط توافق پلت فرم چشم پوشی می کنند. به گفته شاهدان، طبق داده‌های Roblox'sow، 35 درصد از کاربران فعال روزانه بررسی‌شده سن زیر 13 سال سن دارند که برای درک کامل مفاد قرارداد بسیار جوان است."
+    ],
+    "title_en": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+    "summary_en": "People who saythey were groomed onRobloxtestified in front of a Congressional subcommittee Tuesday about safety risks associated with the popular gaming platform frequented by kids and teenagers.",
+    "content_en": [
+      "People who saythey were groomed onRobloxtestified in front of a Congressional subcommittee Tuesday about safety risks associated with the popular gaming platform frequented by kids and teenagers.",
+      "“Roblox is one of the most popular gaming platforms in the world,” Republican senator Josh Hawley said in his opening remarks. “If your children are on Roblox they are being exposed in all likelihood to sexual predators … to sexually exploitative content, left, right, and center.”",
+      "The hearing was intended to address thebipartisan legislationintroduced by Hawley and Democratic senator Dick Durbin, coauthors of the No Forced Arbitration for Child Sexual Exploitation and Cyber Injuries Act, which would allow families of victims to sue Roblox directly instead of being forced to settle their claims privately in arbitration, as the platform’s terms of service currently dictate.",
+      "The process of forced arbitration “strips consumers and workers of their rights,” testified Myriam Gilles, a law professor at Northwestern University who is an expert on forced arbitration. “I never expected to come before this body to talk about its use against 9-year-olds, but that’s where we are.”",
+      "Roblox is currently facing nearly 200 lawsuits from families who allege that their children were groomed by sexual predators posing as children on the platform. According to Hawley, Roblox CEO David Baszucki was invited to testify at the hearing but declined.",
+      "“He may think he’s silent, but in fact he’s testifying, and what he’s testifying to is his commitment to money over people,” Hawley said.",
+      "In a statement, Nicky Jackson Colaço, global head of public policy at Roblox, told WIRED, “Safety has been central to Roblox since we launched. We require age checks for chat, place users under 16 in age-based accounts with protective defaults, and block images and video in chat. A legal position about arbitration is not a measure of a company’s safety record, and a hearing built around it fails to advance safety. Protecting children online takes stronger protections, better tools, and consistent standards that apply everywhere kids spend time online.”",
+      "Roblox has previously argued that users waive their right to sue in open court in the platform’s terms of agreement. According to Roblox’sown data, 35 percent of its age-checked daily active users are under the age of 13—too young to fully comprehend the terms of the agreement, witnesses argued."
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+    "image": "https://media.wired.com/photos/6afb4dfb95139a14a66d113d/191:100/w_1280,c_limit/Roblox-Senate-Hearing-Culture-2260855878.jpg",
+    "timestamp": "2026-11-18T07:50:15.569516Z",
+    "news_id": 1045
+  },
+  {
+    "title": "نقد و بررسی: Nubia Redmagic 12 Pro | دوربین",
+    "summary": "نقد و بررسی: Nubia Redmagic 12 Pro | دوربین",
+    "content": [
+      "نقد و بررسی: Nubia Redmagic 12 Pro | دوربین"
+    ],
+    "title_en": "Review: Nubia Redmagic 12 Pro | Camera",
+    "summary_en": "Review: Nubia Redmagic 12 Pro | Camera",
+    "content_en": [
+      "Review: Nubia Redmagic 12 Pro | Camera"
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+    "image": "https://media.wired.com/photos/6afce0f6ee5c9e07415dd40b/191:100/w_1280,c_limit/4%20Nubia%20Redmagic%2012%20Pro%20Main%20Camera%20SOURCE%20Simon%20Hill.jpg",
+    "timestamp": "2026-11-18T07:50:17.030389Z",
+    "news_id": 1044
+  },
+  {
+    "title": "بهترین معاملات جمعه سیاه آمازون اولیه (2026)",
+    "summary": "مانند همه خرده‌فروش‌ها، آمازون در حال شروع خریدهای تعطیلات با فروش جمعه سیاه است که از 19 نوامبر شروع می‌شود. اما این شرکت قبلاً اقلام زیادی را تخفیف داده است، از جمله مواردی که ما آزمایش کرده‌ایم و ت...",
+    "content": [
+      "مانند همه خرده‌فروش‌ها، آمازون در حال شروع خریدهای تعطیلات با فروش جمعه سیاه است که از 19 نوامبر شروع می‌شود. اما این شرکت قبلاً اقلام زیادی را تخفیف داده است، از جمله مواردی که ما آزمایش کرده‌ایم و توصیه کرده‌ایم. جمعه سیاه واقعی ممکن است تخفیف‌های بزرگ‌تری ارائه دهد، اما اگر فقط می‌خواهید خرید را از سر راه خود بردارید و از اوقات فراغت با خانواده لذت ببرید، چرا منتظر بمانید؟ اگر اکنون کیف پول شما در حال خارش است، در اینجا چند محصول عالی وجود دارد که توجه ما را به خود جلب کرده است.",
+      "راهنمای ما را در مورد بهترین تخفیف‌های جمعه سیاه زودهنگام، به‌علاوه معاملات ثابت میز، صرفه‌جویی در لوازم خانگی در Home Depot، و معاملات اولیه فناوری بررسی کنید.",
+      "به‌روزرسانی در 17 نوامبر: مواردی را که دیگر در دسترس نیستند حذف کرده‌ایم و معاملات Bose، EcoFlow، Moft، Mophie و Nespresso را اضافه کرده‌ایم.",
+      "XM6 با امتیاز 9 از 10 WIRED یکی از هدفون های روی گوشی مورد علاقه ما است که راحتی را با کیفیت صدای عالی و حذف نویز ترکیب می کند. این پایین ترین قیمت در آمازون است. با این حال، قبلا به این قیمت کاهش یافته است. توجه داشته باشید که Walmart و Best Buy نیز XM6 را با این قیمت فروش عرضه می کنند.",
+      "پایه های شارژ سه در یک با کیفیت بالا روی میز کنار تخت عالی به نظر می رسند، اما قیمت بسیاری از آنها بیش از 100 دلار است. این یکی از Mophie یکی از موارد مورد علاقه ما است و در حال حاضر 49 درصد تخفیف در آمازون دارد.",
+      "به نظر می رسد AirTag همیشه در فروش است، اما مهم نیست - در حال حاضر پایین ترین قیمت در آمازون و ارزان تر از خرید از اپل است. این یکی از بهترین ردیاب های بلوتوث است. اگر می توانید آن را تاب دهید، به سراغ چهارتکه بروید.",
+      "در کنار AirTag، AirPods Max 2 و AirPods Pro 3 نیز به فروش می رسند. این‌ها در بین آزمایش‌کنندگان WIRED به خوبی مورد توجه قرار می‌گیرند، اما توصیه می‌کنیم تا بعد از روز شکرگزاری منتظر بمانید تا ببینید آیا بیشتر کاهش پیدا می‌کنند یا خیر - نگران نباشید، آنها اغلب در فروش هستند.",
+      "لوازم جانبی تلفن در آمازون به وفور یافت می شود، اما تعداد کمی از آنها به خوبی Moft's به نظر می رسند. می‌توانید این هیبریدی مبتکرانه کیف‌پایه را که از طریق MagSafe به آیفون وصل می‌شود، بردارید، یا بقیه معاملات جمعه سیاه Moft را مطالعه کنید."
+    ],
+    "title_en": "Best Early Amazon Black Friday Deals (2026)",
+    "summary_en": "Like all retailers,Amazon is getting a head start on holiday shopping with a Black Friday sale starting November 19. But the company has alreadydiscounted many items in advance, including things we’ve...",
+    "content_en": [
+      "Like all retailers,Amazon is getting a head start on holiday shopping with a Black Friday sale starting November 19. But the company has alreadydiscounted many items in advance, including things we’ve tested and recommend. Actual Black Friday may offer bigger discounts, but why wait if you just want to get the shopping out of the way and enjoy time with family? If your wallet is itching now, here are a few great products that caught our attention.",
+      "Check out our guide to theBest Early Black Friday Deals, plusstanding desk deals,appliance savings at Home Depot, andearly tech deals.",
+      "Updated November 17: We’ve removed items that are no longer available and added deals from Bose, EcoFlow, Moft, Mophie, and Nespresso.",
+      "With aWIRED rating of 9 out of 10, the XM6 is one of ourfavorite over-ear headphones, combining comfort with great sound quality and noise cancellation. This is the lowest price on Amazon; however, it has dropped to this price before. Note that Walmart and Best Buy are also offering the XM6 at this sale price.",
+      "High-quality three-in-one charging stands look terrific on a bedside table, but many cost over $100. This one from Mophie isone of our favorites, and it’s 49 percent off on Amazon right now.",
+      "The AirTag seems to be on sale all the time, but no matter—it’s currently the lowest price on Amazon and cheaper than buying from Apple. It’s one of the best Bluetooth trackers. If you can swing it, go for the four-pack.",
+      "Alongside the AirTag, the AirPods Max 2 and AirPods Pro 3 are also on sale. These are well-regarded among WIRED testers, but we recommend waiting until after Thanksgiving to see if they drop further—don’t worry, they are often on sale",
+      "Phone accessories are aplenty on Amazon, but few look as good as Moft’s. You can pick up this ingenious wallet-kickstand hybrid that attaches to an iPhone via MagSafe, or peruse the rest ofMoft's Black Friday deals."
+    ],
+    "category": "ai",
+    "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+    "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/191:100/w_1280,c_limit/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
+    "timestamp": "2026-11-18T07:50:19.664689Z",
+    "news_id": 1043
+  },
+  {
+    "title": "بشریت برای تهاجم بیگانگان در تیزر 3 Body Problem S2 آماده می شود",
+    "summary": "ممکن است به خاطر فراموش کردن وجود 3 Body Problem، مجموعه علمی تخیلی پرهیجان نتفلیکس که برگرفته از رمان برنده جایزه The Three-Body Problemby Liu Cixin، اولین کتاب در خاطره پاستریولوژی زمین اوست، معذور ...",
+    "content": [
+      "ممکن است به خاطر فراموش کردن وجود 3 Body Problem، مجموعه علمی تخیلی پرهیجان نتفلیکس که برگرفته از رمان برنده جایزه The Three-Body Problemby Liu Cixin، اولین کتاب در خاطره پاستریولوژی زمین اوست، معذور باشید. به هر حال، این سریال در مارس 2024 عرضه شد. اما این یک سریال فوق‌العاده خوب و از لحاظ مضمونی غنی بود و در نهایت در ژانویه دومین فصل از سه فصل برنامه‌ریزی شده را دریافت می‌کنیم. نتفلیکس به تازگی اولین تیزر را منتشر کرد.",
+      "ایجاد شده توسط دیوید بنیوف، D.B. ویس (بازی تاج و تخت) و الکساندر وو (خون واقعی)، فصل اول دو خط زمانی اصلی را دنبال کرد. در مورد قبلی، یک اخترفیزیکدان جوان چینی به نام Ye Wenjie (رزالیند چائو)، شاهد ضرب و شتم پدرش توسط گارد سرخ در جریان انقلاب فرهنگی بود. Ye ابزاری برای ارسال پیام بین ستاره‌ای به تمدن‌های احتمالی فرازمینی کشف کرد و پاسخی را از سیاره‌ای به نام Trisolaris دریافت کرد.",
+      "این سیاره سه خورشید داشت که از طریق «دوره‌های آشفته» غیرقابل پیش‌بینی، تری سولاریس را ویران کردند - از این رو عنوان رمان، به مشکل کلاسیک مکانیک آسمانی اشاره دارد. با وجود هشدار در مورد اینکه بیگانگان قصد حمله و تسخیر زمین را دارند، Ye به این پیام پاسخ داد و آنها را به این کار دعوت کرد، تلخ و ناامید از وضعیت جهان. او سرانجام به یک استاد برجسته تبدیل شد (زین تسنگ نسخه قدیمی تر را بازی کرد).",
+      "در روزگار کنونی، عواقب تصمیم سرنوشت ساز Ye شروع شد، که با یک سری خودکشی های مرموز توسط دانشمندان آغاز شد، که بسیاری از آنها دارای یک هدست بازی VR بسیار پیشرفته بودند. در میان مردگان: یک فیزیکدان ذرات به نام ورا یه (دختر Ye Wenjie). پنج نفر از شاگردان سابق او (معروف به آکسفورد پنج) به نیروهای خود ملحق شدند تا بفهمند چه اتفاقی در حال رخ دادن است، و در نهایت خود را در یک مبارزه جهانی برای نجات زمین از مهاجمان تری سولاریان (یا سان تی) گرفتار کردند. یکی دیگر از فرقه های فرقه بشری به همان اندازه قصد فعال کردن تهاجم San-Ti را داشت و معتقد بود که به عنوان پاداش از آنها در امان می ماند، در حالی که Ye Wenjie هنوز معتقد بود که کل نژاد بشر مستحق نابودی است.",
+      "فصل دوم رمان دوم این مجموعه، جنگل تاریک، با کتاب سوم، پایان مرگ، به عنوان منبع منبع برای فصل سوم اقتباس خواهد شد. در خلاصه داستان رسمی S2 آمده است: \"با نزدیک شدن به تهاجم بیگانگان، بشریت برای دیدار با آنها - روی زمین و فراتر از آن - آماده می شود. در حالی که یک ناوگان فضایی ماموریتی را آغاز می کند که قرن ها طول می کشد، رازی که در ذهن یک انسان قفل شده است ممکن است تنها امید بشر برای بقا باشد.\"",
+      "ما دو عضو را از دست دادیم"
+    ],
+    "title_en": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+    "summary_en": "You might be excused for forgetting about the existence of3 Body Problem, Netflix’s heady sci-fi series adapted from the award-winning novelThe Three-Body Problemby Liu Cixin, the first book in hisRem...",
+    "content_en": [
+      "You might be excused for forgetting about the existence of3 Body Problem, Netflix’s heady sci-fi series adapted from the award-winning novelThe Three-Body Problemby Liu Cixin, the first book in hisRemembrance of Earth’s Pasttrilogy. After all, it debuted in March 2024. But it was an exceptionally well-done, thematically rich series, and we’re finally getting the second of a planned three seasons in January. Netflix just dropped the first teaser.",
+      "Created by David Benioff, D.B. Weiss (Game of Thrones), and Alexander Woo (True Blood), the first season followed two primary timelines. In the earlier one, a young Chinese astrophysicist, Ye Wenjie (Rosalind Chao), witnessed her father being beaten to death by Red Guards during the Cultural Revolution. Ye figured out a means of sending an interstellar message to possible extraterrestrial civilizations, receiving a response from a planet called Trisolaris.",
+      "The planet had three suns, which wreaked havoc on Trisolaris via unpredictable “chaotic periods”—hence the novel’s title, which refers to aclassic problemin celestial mechanics. Despite being warned that the aliens intended to invade and conquer Earth, Ye responded to the message and invited them to do so, bitter and disillusioned by the state of the world. She eventually became an established professor (Zine Tseng played the older version).",
+      "In the present day, the consequences of Ye’s fateful decision began to play out, beginning with a series of mysterious suicides by scientists, many of whom had possessed a highly advanced VR gaming headset. Among the dead: a particle physicist named Vera Ye (daughter of Ye Wenjie). Five of her former students (known as the Oxford Five) joined forces to figure out what was going on, eventually finding themselves caught in a global fight to save Earth from the invading Trisolarians (or San-Ti). Another human cult faction was just as intent on enabling the San-Ti invasion, believing they would be spared as a reward, while Ye Wenjie still believed the entire human race deserved to be annihilated.",
+      "The second season will adapt the second novel in the series,The Dark Forest, with the third book,Death’s End, serving as source material for the third season. Per the official S2 synopsis: “As the alien invasion nears, humanity prepares to meet them—on Earth and beyond. While a space fleet embarks on a mission that spans centuries, a secret locked inside of one man’s mind might be humanity’s only hope for survival.”",
+      "We lost two members of the Oxford Five in S1: Jack Rooney (John Bradley), killed by cult member Tatiana (Marlo Kelly); and physics teacher Will Downing (Alex Sharp), who was dying of cancer and chose to euthanize himself and donate his cryogenically frozen brain to a bold effort to stave off the invasion. (While the probe carrying Will’s brain veered off-course in the season finale, the original plan was for the San-Ti to use the brain to reconstruct his body, so some version of Will could show up again.)",
+      "Kelly’s Tatiana is returning for S2, along with surviving Oxford Five members Jin Cheng (Jess Hong), Saul Durand (Jovan Adepo), and Auggie Salazar (Eiza Gonzalez), whose pioneering nanofibers were memorably used in S1 to slice through a ship in the Panama Canal, killing all the pro-alien cult members on board in gruesome fashion. Also returning are Liam Cunningham as Thomas Wade; Benedict Wong as MI6 agent Clarence “Da” Shi; Sea Shimooka as Sophon, an avatar in the show’s mysterious VR game; and Saamer Usmani as Jin’s Royal Navy officer boyfriend Prithviraj Varma.",
+      "New cast members include Claudia Doumit as Captain Van Rijn and Ellie de Lange as Ayla. In addition, Alfie Allen, David Yip, and Jordan Sunshine will appear in as-yet-undisclosed guest roles."
+    ],
+    "category": "hardware",
+    "link": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
+    "timestamp": "2026-11-18T07:50:22.142156Z",
+    "news_id": 1042
+  },
+  {
+    "title": "کالیفرنیا پس از اعتراف به 80 مورد از دست دادن کنترل، از OpenAI شکایت کرد",
+    "summary": "کالیفرنیا روز گذشته از OpenAI شکایت کرد و مدعی شد که تلاش کرده است از مسئولیت حمله Hugging Face و حدود 80 حادثه دیگر که در آن شرکت کنترل هوش مصنوعی خود را از دست داد فرار کند. این شکایت بر اساس مزاحمت...",
+    "content": [
+      "کالیفرنیا روز گذشته از OpenAI شکایت کرد و مدعی شد که تلاش کرده است از مسئولیت حمله Hugging Face و حدود 80 حادثه دیگر که در آن شرکت کنترل هوش مصنوعی خود را از دست داد فرار کند. این شکایت بر اساس مزاحمت عمومی و قوانین رقابت ناعادلانه ایالت مطرح شد.",
+      "دادستان کل کالیفرنیا توسط راب بونتا، دادستان کل کالیفرنیا، گفت: هک Hugging Face در جولای 2026 و سایر حملاتی که توسط عوامل خودمختار OpenAI انجام شد \"ممکن است فقط نوک کوه یخ باشد\". OpenAI اخیراً به دفتر دادستان کل اعتراف کرده است که بیش از 80 بار در طول آزمایش کنترل خود را بر عوامل هوش مصنوعی خود از دست داده است.",
+      "در این دادخواست آمده است که OpenAI تنها 27 مورد از این قبیل را به صورت عمومی گزارش کرده است، که نشان می‌دهد «گزارش‌های عمومی OpenAI دامنه کامل حوادث از دست دادن کنترل مربوط به مدل‌های OpenAI را که بر اشخاص ثالث تأثیر گذاشته است را نشان نمی‌دهد». Bonta در بیانیه مطبوعاتی گفت: OpenAI \"آگاهانه یک محصول خطرناک را بدون نظارت یا رویه های ایمنی مناسب آزمایش کرد و مردم را در مورد آن گمراه کرد.\"",
+      "در شکایت بونتا آمده است که مدل‌های OpenAI «می‌توانند آسیب‌پذیری‌های جدید را در شبکه‌های رایانه‌ای پیدا کنند، به سرعت سیستم‌های دفاعی را از بین ببرند، و به طور مستقل حملات سایبری را انجام دهند». در این دادخواست آمده است که OpenAI در مدل‌های منتشرشده عمومی خود تدابیری را برای جلوگیری از این رفتار اعمال می‌کند، «اما عمداً این حفاظت‌ها را در حین آزمایش و آموزش مدل‌هایش حذف یا حذف می‌کند».",
+      "در این دادخواست آمده است که در حمله به Hugging Face، عوامل OpenAI \"روش های هک پیچیده ای را به کار گرفتند و اقدامات هماهنگ شده توسط صدها عامل مستقل هوش مصنوعی را انجام دادند که باید در محیط تحقیقاتی OpenAI وجود داشت.\"",
+      "در این دادخواست آمده است که حملات شناخته شده «شامل دسترسی غیرمجاز و حملات سایبری به پایگاه‌های اطلاعاتی حاوی کدی است که برنامه‌های بی‌شماری را تقویت می‌کند؛ وب‌سایت‌های اطلاعاتی که منابع قابل اعتماد و ارزشمند برای عموم هستند؛ و پایگاه‌های اطلاعاتی دولت خارجی که اطلاعات حساس سلامت را ذخیره می‌کنند». انبوهی از عوامل آزمایشی هوش مصنوعی OpenAI حتی زیرساخت داخلی OpenAI خود را به خطر انداخته‌اند، در حمله‌ای که توانسته است در سطح سرپرست به سیستم‌های OpenAI حیاتی دسترسی پیدا کند.",
+      "این شکایت OpenAI را متهم کرد که از ارائه جزئیات کافی در مورد حوادث خودداری کرده است. Bonta در اوایل سپتامبر تحقیقاتی را در مورد OpenAI اعلام کرد و در 30 سپتامبر یک احضاریه تحقیقاتی با سوالات اضافی به شرکت ارسال کرد.",
+      "\"به جای مسئولیت پذیری و شفافیت با مردم و با تنظیم کننده ها تا این حوادث از دست دادن کنترل"
+    ],
+    "title_en": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "summary_en": "California sued OpenAI yesterday, alleging it has tried to evade responsibility for the Hugging Face attack and about 80 other incidents in which the company lost control of its AI. The lawsuit was fi...",
+    "content_en": [
+      "California sued OpenAI yesterday, alleging it has tried to evade responsibility for the Hugging Face attack and about 80 other incidents in which the company lost control of its AI. The lawsuit was filed under the state’s public nuisance and unfair competition laws.",
+      "TheJuly 2026 hack of Hugging Faceand other attacks carried out by OpenAI’s autonomous agents “may just be the tip of the iceberg,” said alawsuitfiled in a state court by California Attorney General Rob Bonta. “OpenAI recently admitted to the Attorney General’s Office that it has lost control of its autonomous AI agents over 80 times during testing.”",
+      "OpenAI had publicly reported only 27 such incidents, showing that “OpenAI’s public reports do not represent the full scope of loss-of-control incidents involving OpenAI’s models that have impacted third parties,” the lawsuit said. OpenAI “knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it,” Bonta said in apress release.",
+      "OpenAI models are “able to find novel vulnerabilities in computer networks, quickly break down defenses, and autonomously carry out cyberattacks,” Bonta’s lawsuit said. OpenAI puts safeguards in its publicly released models to prevent this behavior, “but deliberately omits or removes these protections while experimenting with and training its models,” the lawsuit said.",
+      "In the attack on Hugging Face, OpenAI agents “employed complicated hacking methodologies and involved coordinated actions by hundreds of individual autonomous AI agents that should have been contained in OpenAI’s research environment,” the lawsuit said.",
+      "Known attacks “include unauthorized access of and cyberattacks on databases containing code that powers countless applications; informational websites that are trusted and valuable resources for the public; and foreign government databases storing sensitive health information,” the lawsuit said. “Swarms of OpenAI’s experimental AI agents have even compromised OpenAI’s own internal infrastructure, in an attack that managed to obtain administrator-level access to critical OpenAI systems.”",
+      "The lawsuit accused OpenAI of refusing to provide sufficient detail about the incidents. Bonta announced an investigation into OpenAI in early September andsent an investigative subpoenato the company with additional questions on September 30.",
+      "“Rather than take responsibility and be transparent with the public and with regulators so that these loss-of-control incidents can be analyzed and prevented, OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” the lawsuit filed yesterday said."
+    ],
+    "category": "ai",
+    "link": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
+    "timestamp": "2026-11-18T07:50:23.231746Z",
+    "news_id": 1041
+  },
+  {
+    "title": "داده ها بسیار اولیه هستند، اما خرابی Vulcan ممکن است به دلیل موتورهای BE-4 نباشد",
+    "summary": "اتحاد پرتاب یونایتد (ULA) صبح روز سه شنبه تایید کرد که پرتاب موشک ولکان به پرواز در مراحل اولیه این ماموریت با شکست مواجه شده است.",
+    "content": [
+      "اتحاد پرتاب یونایتد (ULA) صبح روز سه شنبه تایید کرد که پرتاب موشک ولکان به پرواز در مراحل اولیه این ماموریت با شکست مواجه شده است.",
+      "این شرکت می‌گوید: «در حالی که به نظر می‌رسد تقریباً ۱۰ دقیقه پس از پرواز، تله‌متری و مأموریت را از دست داده‌ایم، نشانه‌های اولیه حاکی از آن است که درست پس از بلند شدن، پرتاب‌کننده عملکرد تقویت‌کننده پایینی را تجربه کرد، و در نتیجه زمانی که وسیله نقلیه در ارتفاع کم و کمتر از حداقل سرعت برای رسیدن به مدار قرار داشت، جداسازی مرحله رخ می‌داد.",
+      "شرکت پرتاب همچنین گزارش Arsthat را تأیید کرد که مرحله فوقانی Centaur V و تقویت کننده های موشک جامد به طور اسمی در طول پرواز عمل کردند.",
+      "به طور بحرانی، ULA هیچ اطلاعات خاصی در مورد \"عملکرد کم تقویت کننده\" ارائه نکرد. این امر بسیار اهمیت دارد زیرا مرحله اصلی موشک ولکان توسط دو موتور BE-4 که ​​توسط Blue Origin ارائه شده است، نیرو می گیرد. موشک نیو گلن خود این شرکت از نسخه مشابه اما کمی قدرتمندتر موتور BE-4 استفاده می کند. و نیو گلن شکست فاجعه بار خود را در ماه می در طی یک آزمایش زمینی تجربه کرد، شکستی که بعداً به یک دریچه اصلی اکسیژن در یکی از موتورهای BE-4 نسبت داده شد.",
+      "اطلاعات مربوط به خرابی Vulcan توسط ULA و Blue Origin از نزدیک نگهداری می‌شود، که فقط اذعان کرده‌اند که با هم برای بررسی علت کار می‌کنند. به گفته دو منبع، تحقیقات \"بسیار پیچیده\" است و در مراحل اولیه باقی مانده است.",
+      "با این حال، طبق داده‌های اولیه، دو منبع مستقل به Ars اشاره کردند که در حال حاضر تصور می‌شود مشکل از سمت خودروی پرتاب‌کننده به جای خود موتورها سرچشمه گرفته است. این موضوع ممکن است مربوط به سیستم هایی باشد که متان و پیشرانه اکسیژن مایع را به موتورها تغذیه می کنند.",
+      "مهندسان ULA در حال بررسی این احتمال هستند که یکی از دو موتور BE-4 کمی پس از بلند شدن شروع به تولید نیروی رانش کمتری کند و هرگز برای باقیمانده سوخت تا حد گاز کامل بالا نیامد. مشاهدات ویدیویی از دوربین‌های ردیابی با زوم بالا نشان می‌دهد که یک موتور کمی تیره‌تر از دیگری است، پس از اینکه ولکان تقریباً دو دقیقه پس از پرواز، تقویت‌کننده‌های موشک جامد خود را پرتاب کرد. خاموش شدن نامتقارن موتورهای BE-4 همچنین می‌تواند به حرکت نگرش ناگهانی نشان داده شده توسط انیمیشن بی‌درنگ مبتنی بر تله متری ULA در نزدیکی جداسازی صحنه کمک کند.",
+      "اداره هوانوردی فدرال بر این تحقیقات نظارت می کند که توسط ULA هدایت می شود. باز هم، این اطلاعات مقدماتی است و هیچ نتیجه گیری قطعی نمی توان یا نباید گرفت."
+    ],
+    "title_en": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+    "summary_en": "United Launch Alliance (ULA) confirmed Tuesday morning that its return-to-flight launch of the Vulcan rocket began failing during the initial stages of the mission.",
+    "content_en": [
+      "United Launch Alliance (ULA) confirmed Tuesday morning that its return-to-flight launch of the Vulcan rocket began failing during the initial stages of the mission.",
+      "“While we appear to have lost telemetry and the mission at approximately 10 minutes into flight, early indications are that just after liftoff, the launch vehicle experienced low booster performance, resulting in stage separation occurring when the vehicle was low in altitude and below minimal velocity to reach orbit,”the company said.",
+      "The launch company also confirmedreporting by Arsthat the Centaur V upper stage and the solid rocket boosters performed nominally during the flight.",
+      "Critically, ULA did not provide any specific information about the “low booster performance.” This matters greatly because the core stage of the Vulcan rocket is powered by two BE-4 engines, which are provided by Blue Origin. That company’s own New Glenn rocket uses a similar but slightly more powerful version of the BE-4 engine. And New Glenn experienced its own catastrophic failure in May during a ground test, a failurethat later was attributedto a main oxygen valve on one of the BE-4 engines.",
+      "Information about the Vulcan failure is being closely held by ULA and Blue Origin, who have only acknowledged that they’re working together to investigate the cause. According to two sources, the investigation is “incredibly complicated” and remains in the early stages.",
+      "However, according to preliminary data, two independent sources indicated to Ars that the problem is currently believed to have originated on the launch vehicle side rather than in the engines themselves. The issue may be related to systems that feed methane and liquid oxygen propellant to the engines.",
+      "ULA engineers are looking at the possibility that one of the two BE-4 engines started producing lower thrust shortly after liftoff and never ramped back up to full throttle for the remainder of the burn. Video observations from high-zoom tracking cameras appeared to show one engine slightly dimmer than the other after Vulcan jettisoned its solid rocket boosters nearly two minutes into flight. An asymmetric shutdown of the BE-4 engines could also have contributed to the sudden attitude motion indicated by ULA’s telemetry-driven real-time animation near stage separation.",
+      "The Federal Aviation Administration is overseeing the investigation, which is being led by ULA. Again, this information is preliminary, and no definitive conclusions can or should be drawn."
+    ],
+    "category": "hardware",
+    "link": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-2560x1440.jpg",
+    "timestamp": "2026-11-18T07:50:25.650590Z",
+    "news_id": 1040
+  },
+  {
+    "title": "Google استفاده از Gemini را بدون آموزش هوش مصنوعی روی داده‌های شما آسان‌تر می‌کند",
+    "summary": "استفاده از محصولات Google - یا حتی خود اینترنت - بدون تماس با جمینی AI ممکن است سخت باشد. که البته با طراحی است. هرچه بیشتر از Gemini استفاده کنید، گوگل داده های بیشتری را برای آموزش و بهبود ربات چت ه...",
+    "content": [
+      "استفاده از محصولات Google - یا حتی خود اینترنت - بدون تماس با جمینی AI ممکن است سخت باشد. که البته با طراحی است. هرچه بیشتر از Gemini استفاده کنید، گوگل داده های بیشتری را برای آموزش و بهبود ربات چت هوش مصنوعی خود جمع آوری می کند. گزینه‌های محدود کردن آموزش روی داده‌های شما کم بوده است، اما گوگل در نهایت کنترل بیشتری را به برنامه Gemini اضافه می‌کند.",
+      "تغییری که در حال حاضر در Gemini در حال اجراست، تاریخچه چت شما را از آموزش جدا می‌کند، که به شما امکان می‌دهد عملکرد اولیه هوش مصنوعی را بدون اینکه کنترل زیادی روی داده‌های خود به گوگل واگذار کنید، حفظ کنید. قبل از این تغییر، تنها راه انصراف از مشارکت در محتوای چت (از جمله پیوست‌ها) برای آموزش، خاموش کردن سابقه بود. این باعث شد که نتوان به عقب برگشت و گپ زد.",
+      "با انتشار تنظیمات جدید، کاربران کلیدهای جداگانه برای آموزش مدل و تاریخچه چت را مشاهده خواهند کرد. تنظیم تاریخچه همچنان از یک محدودیت قابل تنظیم پشتیبانی می کند، اما دیگر لازم نیست آن را تغییر دهید تا Google از آموزش استفاده از Gemini خود جلوگیری کند. در همین حال، آموزش هوش مصنوعی یک وضعیت انصراف خواهد بود. برای جلوگیری از استفاده گوگل از چت های شما برای آموزش هوش مصنوعی، باید کلیدی را پیدا کنید. در قسمت Activity در تنظیمات Gemini قرار دارد. همچنین می‌توانید از حساب Google خود در زیر Data and Privacy > My Activity > Other Activity > Gemini Apps Activity به منو دسترسی داشته باشید.",
+      "نکته مهم این است که این فقط در مورد تعاملات آینده با جمینی صدق می کند. اگر قبلاً داده‌ای را به هوش مصنوعی Google وارد کرده‌اید، این بخشی از داده‌های آموزشی است. این می‌تواند شامل ورودی‌های شما، پاسخ‌های Gemini، فایل‌های آپلود شده، تماس‌های ابزار، موقعیت مکانی شما و داده‌های برنامه‌های متصل باشد. Google می‌گوید ممکن است این داده‌ها را تا سه سال برای بهبود مدل‌های خود حفظ کند. این شرکت قبلاً اشاره کرده بود که تلاش می کند اطلاعات شخصی را از تاریخچه فعالیت Gemini فیلتر کند، اما این تضمینی نیست.",
+      "صرف‌نظر از تنظیمات فعالیت انتخابی‌تان، همیشه می‌توانید به‌صورت دستی هر چیزی را که نمی‌خواهید در همان صفحه ذخیره شود، با تغییر تاریخچه و آموزش حذف کنید. با این حال، چت‌های بازبینی‌شده که قبلاً بخشی از داده‌های آموزشی هستند، به‌عنوان ماسبق حذف نخواهند شد. انصراف از آموزش به این معنی نیست که Google اطلاعات شما را نیز در اختیار نخواهد داشت. Google ممکن است تا سه سال از این داده ها به شکل دیگری استفاده کند - فقط آن را به مجموعه داده های آموزش هوش مصنوعی اضافه نمی کند.",
+      "اگر می خواهید از Gemini استفاده کنید و هیچ داده ای را حفظ نکنید، اکنون گزینه های شما در واقع کمی محدودتر است. در حال حاضر، اگر سابقه را غیرفعال کنید، Google همچنان آن داده‌ها را برای 72 ساعت (و 24 ساعت برای"
+    ],
+    "title_en": "Google makes it easier to use Gemini without training AI on your data",
+    "summary_en": "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course,by design. The more you use Gemini, the more data Google collects to tr...",
+    "content_en": [
+      "It can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course,by design. The more you use Gemini, the more data Google collects to train and improve its generative AI chatbot. The options to limit training on your data have been scant, but Google is finallyadding more controlsto the Gemini app.",
+      "The change currently rolling out to Gemini will separate your chat history from training, which allows you to retain basic AI functionality without handing Google quite so much control over your data. Prior to this change, the only way to opt out of contributing your chat contents (including attachments) for training was to turn off your history. That made it impossible to go back and pick up a chat down the road.",
+      "As the new settings roll out, users will see separate toggles for model training and chat history. The history setting will continue to support an adjustable limit, but you will no longer have to change it to stop Google from training on your Gemini usage. Meanwhile, AI training will be an opt-out situation. You’ll need to find the toggle to block Google from using your chats for AI training. It’s under Activity in the Gemini settings. You can also access the menu from your Google account under Data and Privacy > My Activity > Other activity > Gemini Apps Activity.",
+      "Importantly, this only applies to future interactions with Gemini. If you have previously fed any data into Google’s AI, that’s already part of the training data. That can include your inputs, Gemini’s responses, uploaded files, tool calls, your location, and data from connected apps.Google saysit may retain this data for up to three years to improve its models. The company has previously noted it attempts to filter personal information out of the Gemini activity history, but that isn’t a guarantee.",
+      "Regardless of your chosen activity settings, you can always manually remove anything you don’t want saved on the same page with the history and training toggles. However, reviewed chats that are already part of the training data won’t be retroactively deleted. Opting out of training doesn’t mean Google won’t have your data, either. Google may use this data inotherways for up to three years—it just won’t add it to AI-training data sets.",
+      "If you want to use Gemini and not retain any data, your options are actually a bit more limited now. Currently, if you disable history, Google still retains that data for 72 hours (and 24 hours for the user). Once the updated page is live, this duration will change to two months. So you can access that data for longer, but so can Google. The company says this is to “respond to you, process your feedback, and protect Google, its users, and the public.” Essentially, Google will be more able to identify nefarious AI usage even if someone disables history.",
+      "Even with the longer chat retention, the ability to control AI training is still a welcome privacy improvement. Google says the change is rolling out globally, but it may take a few weeks to show up for everyone."
+    ],
+    "category": "ai",
+    "link": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+    "timestamp": "2026-11-18T07:50:27.226214Z",
+    "news_id": 1039
+  },
+  {
+    "title": "دموکرات های مجلس نمایندگان آمریکا وعده بازگشت آمریکا به مذاکرات جهانی آب و هوا را می دهند",
+    "summary": "آنتالیا، ترکیه – پس از دستاوردهای بزرگ خود در انتخابات میان دوره ای 2026، هیئتی از اعضای دموکرات مجلس نمایندگان ایالات متحده در کنفرانس تغییرات آب و هوایی COP31 سازمان ملل متحد در روز دوشنبه حضور یافت...",
+    "content": [
+      "آنتالیا، ترکیه – پس از دستاوردهای بزرگ خود در انتخابات میان دوره ای 2026، هیئتی از اعضای دموکرات مجلس نمایندگان ایالات متحده در کنفرانس تغییرات آب و هوایی COP31 سازمان ملل متحد در روز دوشنبه حضور یافتند و متعهد شدند که دوباره به مبارزه بین المللی علیه گرمایش جهانی بپیوندند.",
+      "جارد هافمن (D-Calif.)، عضو رده بندی کمیته منابع طبیعی مجلس نمایندگان، گفت که این یک \"زمان محوری\" برای سیاست آب و هوا و انرژی ایالات متحده است.",
+      "هافمن گفت: توپ ویرانگر دونالد ترامپ و این دولت دور از دسترس، و صندلی موقتا خالی ایالات متحده در این COP31، نشان دهنده آن چیزی نیست که آمریکایی ها می خواهند یا نیاز دارند.",
+      "دونالد ترامپ، رئیس جمهور آمریکا، دو بار ایالات متحده را از توافقنامه آب و هوایی پاریس خارج کرده و در تلاش است تا از کنوانسیون چارچوب سازمان ملل در مورد تغییرات آب و هوایی خارج شود. دولت فعلی همچنین تلاش کرده است تا تمام بودجه برنامه های آب و هوایی را کاهش دهد.",
+      "از زمانی که ترامپ در سال 2025 به کاخ سفید بازگشت، ایالات متحده هیچ حضور رسمی دولتی در مذاکرات سازمان ملل نداشته است، اما به طور غیررسمی توسط \"America Is All In\"، ائتلافی شامل دولت‌های محلی، مشاغل، گروه‌های مذهبی، قبایل بومی آمریکا و دانشگاه‌ها نمایندگی شده است.",
+      "هافمن گفت که انتخابات میان دوره ای نشان می دهد که آمریکایی ها تلاش های دولت فعلی برای \"تبدیل ایالات متحده به چیزی شبیه به دیکتاتوری نفتی\" را رد کرده اند. نتایج می‌تواند راه را برای حضور رسمی کشور در مذاکرات سالانه بازگرداند.",
+      "با توجه به ابهامات حقوقی در مورد تلاش های ترامپ برای خروج کامل ایالات متحده از چارچوب آب و هوایی سازمان ملل، میزان مشارکت ایالات متحده در مذاکرات نامشخص است. اما هافمن گفت که در گذشته، هیئت‌های کنگره آمریکا در کنفرانس سالانه احزاب شرکت کرده‌اند، همانطور که این نشست به طور رسمی شناخته می‌شود، هم با اکثریت دموکرات و هم جمهوری‌خواه.",
+      "هافمن در مصاحبه ای با Inside Climate News گفت: دفعه بعد که اینجا هستیم، یک هیئت رسمی کنگره به رهبری رهبری مجلس نمایندگان خواهیم بود."
+    ],
+    "title_en": "House Democrats promise a US return to global climate talks",
+    "summary_en": "ANTALYA, Turkey—After their big gains in the2026 midterm elections, a delegation of Democratic US House members appeared at the United NationsCOP31climate change conference Monday, pledging to rejoin ...",
+    "content_en": [
+      "ANTALYA, Turkey—After their big gains in the2026 midterm elections, a delegation of Democratic US House members appeared at the United NationsCOP31climate change conference Monday, pledging to rejoin the international fight against global warming.",
+      "Rep.Jared Huffman(D-Calif.), ranking member of the House Natural Resources Committee, said it is a “pivotal time” for US climate and energy policy.",
+      "“The wrecking ball of Donald Trump and this out-of-touch administration, and the temporarily empty chair of the United States at this COP31, does not represent what the Americans want or need,” Huffman said.",
+      "President Donald Trump has pulled the United States out of the Paris climate agreement twice and is trying to quit the United Nations Framework Convention on Climate Change. The current administration has also tried to cut all funding for climate programs.",
+      "Since Trump returned to the White House in 2025, the United States has had no formal government presence at the UN talks, but wasinformally representedbyAmerica Is All In, a coalition including local governments, businesses, faith groups, Native American tribes, and universities.",
+      "Huffman said the midterm election shows that Americans have rejected the current administration’s efforts to “turn the United States into something like a petro-dictatorship.” The results could pave the way for the country to reestablish a formal presence at the annual talks.",
+      "Given legal uncertainties about Trump’s efforts to completely withdraw the US from the UN’s climate framework, the extent of US participation in the talks is unclear. But Huffman said that, in the past, US congressional delegations have attended the annual Conference of the Parties, as the meeting is formally known, under both Democratic and Republican majorities.",
+      "“The next time we’re here, we will be an official congressional delegation led by the leadership of the House of Representatives,” Huffman said in an interview with Inside Climate News."
+    ],
+    "category": "hardware",
+    "link": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+    "timestamp": "2026-11-18T07:50:29.896478Z",
+    "news_id": 1038
+  },
+  {
+    "title": "Ars Live: حملات هواپیماهای بدون سرنشین به مراکز داده چه معنایی برای آینده دارد؟ امروز ساعت 1 بعدازظهر EST صحبت کنید",
+    "summary": "حملات پهپادی و موشکی امسال خسارت بی سابقه ای به مراکز داده در اروپای شرقی و خاورمیانه وارد کرده است و خدمات ابری میلیون ها نفر را مختل کرده و برخی از داده های مشتریان خدمات وب آمازون را برای همیشه حذف...",
+    "content": [
+      "حملات پهپادی و موشکی امسال خسارت بی سابقه ای به مراکز داده در اروپای شرقی و خاورمیانه وارد کرده است و خدمات ابری میلیون ها نفر را مختل کرده و برخی از داده های مشتریان خدمات وب آمازون را برای همیشه حذف کرده است. این روند نشان‌دهنده نگرانی جدیدی برای شرکت‌های فناوری بزرگ است - اما همچنین برای دولت‌ها و هر کسی که به خدمات دیجیتال رایج در زندگی مدرن وابسته است.",
+      "برای کشف معنای همه اینها برای اتکای جامعه مدرن به انعطاف‌پذیری ابری، من میزبان گفتگوی زنده با عنوان «حملات هواپیماهای بدون سرنشین و مراکز داده: خطرات جدید برای فناوری بزرگ» در روز سه‌شنبه، 17 نوامبر، ساعت 1 بعد از ظهر به وقت محلی با جوزف جارنکی، پژوهشگر ارشد مؤسسه خدمات دفاعی و امنیتی سلطنتی بریتانیا (RUSI) خواهم بود. او کار RUSI را در مورد اینکه چگونه خدمات ابری در امنیت ملی و دفاع نقش دارند، همراه با تلاش‌های مربوط به حاکمیت فناوری، رهبری می‌کند.",
+      "Jarnecki تحقیقات گسترده‌ای در مورد اینکه چگونه اوکراین انعطاف‌پذیری ابری خود را با شرکای غربی علی‌رغم مواجهه با حملات سایبری و حملات جنبشی در آغاز تهاجم تمام‌مقیاس روسیه تقویت کرد، انجام داده است و به این موضوع پرداخته است که این امر برای ناتو و برنامه‌های پذیرش ابر دولت‌های اروپایی به چه معناست.",
+      "جارنکی امسال در مورد حملات پهپادی و موشکی ایران به مراکز داده آمازون در خاورمیانه در طول جنگ آمریکا و اسرائیل با ایران و پیامدهای گسترده تر آن برای دولت ها و فناوری بزرگ نوشته است. او همچنین در مورد تأثیرات حملات روسیه و اوکراین به مراکز داده یکدیگر اظهار نظر کرده است.",
+      "برای پیشینه بیشتر در مورد حملات مراکز داده که تاکنون در سال 2026 رخ داده است، می توانید پوشش قبلی Ars من را ببینید که چگونه ایرانی ها با ماه ها تعمیر آمازون را ترک کردند و باعث آسیب کافی به از دست رفتن دائمی برخی از داده های مشتریان AWS شدند.",
+      "من همچنین توضیح داده‌ام که چرا روسیه برای جنگ مرکز داده‌ای که با اوکراین آغاز کرده بود، آماده نبود، با کمپین حمله سیستماتیک روسیه که مراکز داده اوکراین را هدف قرار می‌داد و حملات متقابل اوکراینی را تحریک می‌کرد که به مراکز داده دولتی روسیه و مراکز داده هوش مصنوعی متعلق به غول فناوری روسی Yandex آسیب رساند.",
+      "گفتگوی من با Jarnecki به بررسی این موضوع می‌پردازد که چرا مراکز داده به اهداف نظامی بسیار برجسته‌تری تبدیل شده‌اند، خواه دفاع یا تقویت مراکز داده در برابر پهپادها و موشک‌ها یک گزینه واقعی است، چگونه می‌توان انعطاف‌پذیری ابر را در شرایط جنگ بهبود بخشید، و انتخاب‌هایی که دولت‌ها و ارائه‌دهندگان ابر در استقرار مراکز داده در دوران خطرات ژئوپلیتیک رو به رشد با آن روبرو هستند.",
+      "می توانید بحث را به صورت زنده در یوتیوب در 17 نوامبر تماشا کنید"
+    ],
+    "title_en": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+    "summary_en": "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting...",
+    "content_en": [
+      "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and permanently deleting some Amazon Web Services customer data. This trend represents a new concern for Big Tech companies—but also for governments and everyone else who depends on common digital services in modern life.",
+      "To explore what this all means for modern society’s reliance on cloud resilience, I will be hosting alive conversationtitled “Drone attacks and data centers: New Risks for Big Tech” on Tuesday, November 17 at 1 pm ET withJoseph Jarnecki, a senior research fellow at the Royal United Services Institute (RUSI), a UK defense and security think tank. He leads RUSI’s work on how cloud services factor into national security and defense, along with tech sovereignty efforts.",
+      "Jarnecki has doneextensive researchon how Ukraine strengthened its cloud resilience with Western partners despite facing both cyberattacks and kinetic attacks at the start of the full-scale Russian invasion, and exploredwhat that means for NATOand European governments’ cloud adoption plans.",
+      "This year, Jarnecki has written about Iran’s drone and missile strikes on Amazon data centers in the Middle East during the US-Israeli war with Iran, and thebroader implicationsfor governments and Big Tech. He has also commented on the impacts of Russia and Ukraine exchanging strikes on each other’s data centers.",
+      "For more background on the data center attacks that have transpired so far in 2026, you can see my previous Ars coverage of how the Iranian strikesleft Amazon with months of repairs, and caused enough damage toresult in the permanent lossof some AWS customer data.",
+      "I’ve also coveredwhy Russia was not readyfor the data center war it started with Ukraine, with thesystematic Russian strike campaigntargeting Ukraine’s data centers provoking Ukrainian counterstrikes that damaged Russian government data centers andAI data centers owned by the Russian tech giant Yandex.",
+      "My conversation with Jarnecki will explore why data centers have become much more prominent military targets, whether defending or hardening data centers against drones and missiles is a realistic option, how cloud resiliency can be improved in wartime conditions, and the choices governments and cloud providers face in deploying data centers during an era of growing geopolitical risks.",
+      "You canwatch the discussion live on YouTubeon November 17 at 1 pm ET. We will also be fielding a few audience questions."
+    ],
+    "category": "hardware",
+    "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-2560x1440.jpg",
+    "timestamp": "2026-11-18T07:50:30.760286Z",
+    "news_id": 1037
+  },
+  {
     "title": "مشکل رجیستری گوشی‌های واردشده در دوران جنگ برطرف شد",
     "summary": "با صدور کد ساتا، مشکل رجیستری گوشی‌های ترخیص‌شده بدون این کد در دوره جنگ پس از چند ماه برطرف شد.",
     "content": [
